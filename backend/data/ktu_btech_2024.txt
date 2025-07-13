@@ -1,0 +1,2679 @@
+ 
+ 
+ 
+APJ ABDUL KALAM TECHNOLOGICAL 
+UNIVERSITY 
+(A State Government University) 
+ 
+ 
+ 
+ 
+CURRICULUM, B. Tech 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MBA Block, College of Engineering, Thiruvananthapuram Campus  
+Thiruvananthapuram- 695016 
+ 
+ 
+1 
+ 
+ 
+1. Grouping 
+ 
+             APJ Abdul Kalam Technological University offers various engineering branches that can be grouped    
+              into four broad categories based on their specialization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Course Category 
+ 
+ University Core (UC): This is a compulsory set of courses for all B. Tech students which includes 
+basic courses in Mathematics, Humanities and Computer Science. 
+ University Elective (UE): These are elective courses from a basket of courses in the Humanities and 
+Social Sciences. Such a UE course cannot be either UC / PC specified in their curriculum. 
+ Group Core (GC): Courses listed under Group Core of a curriculum are group specific. Students 
+have to complete all the courses listed under GC to become eligible for the degree 
+ 
+Group 
+Branches 
+A 
+Computer and 
+Information 
+Science 
+Computer Science and Engineering, Artificial Intelligence, CSE(AI), AI and Machine 
+Learning, CSE (AI & ML), CS and Business Systems, CSE and BS, CS and Design, 
+Cyber Security, AI and Data Science, Information Technology, CSE(DS),CSE(AI&DS), 
+CSE (Internet of Things), CSE(IoT), CSE(Block Chain), CSE (Cyber Security), 
+CSE(IoT and CS including Block Chain Technology), Cyber Physical System. 
+B 
+Electrical Science 
+Electronics & Communication Engineering (ECE), Electrical and Electronics 
+Engineering (EEE), Electronics & Instrumentation Engineering, Instrumentation and 
+Control Engineering, Applied Electronics & Instrumentation Engineering, Electronics 
+And Biomedical Engineering, Biomedical Engineering, Electronics and Computer 
+Engineering, Electrical and Computer Engineering, Robotics and Artificial Intelligence, 
+Robotics and Automation, B. Tech Electronics Engineering (VLSI Design and 
+Technology), 
+Electronics 
+and 
+Communication 
+(Advanced 
+Communication 
+Technology).   
+C 
+Physical Science 
+Civil Engineering, Chemical Engineering, Civil and Environmental Engineering, 
+Mechanical Engineering, Mechanical Engineering (Auto), Mechanical Engineering 
+(Automobile),  Naval Architecture & Ship Building Engineering, Aeronautical 
+Engineering, Industrial Engineering, Mechatronics Engineering, Metallurgical & 
+Materials Engineering, Production Engineering, Automobile Engineering, Safety and 
+Fire Engineering, Polymer Engineering. 
+D 
+Life Science and 
+Agriculture 
+Engineering 
+Biotechnology, Biotechnology and Biochemical Engineering, Agriculture Engineering, 
+Food Technology.  
+2 
+ 
+ 
+*Valuation for HMC courses will be done at college level, Question papers will be provided by the University. 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+ 
+ L-T-P-R: Lecture-Tutorial-Practical-Project 
+ SS (Self Study) Hours= 2L+0.5P+R 
+ CIA: Continuous Internal Assessment, ESE: End Semester Examination  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Engineering Physics, Engineering Chemistry, Health and Safety and Life skill and Universal Human Values shall be 
+offered in both S1 and S2.  Institutions can advise students belonging to about 50% of the number of branches in the Institution to 
+opt for Engineering Physics/ Health and Safety in SI and Engineering Chemistry/ Life Skills and UHV in S2 & vice versa. 
+FIRST SEMESTER (July-December): Group A and Group B 
+10 Days Compulsory Induction Program 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure 
+SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GYMAT101 BSC
+GC Group Specific Mathematics -1 
+3
+1
+0
+0
+6
+40  
+60 
+4 
+4 
+2 
+B 
+S1/
+S2
+GYPHT121 BSC
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+4 
+GYCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+C 
+ 
+GYEST103 ESC
+GC Engineering Graphics and Computer Aided 
+Drawing. 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+4 
+4 
+D 
+ 
+GYEST104 ESC
+GC 
+Introduction to Electrical & Electronics 
+Engineering 
+(part 1: Electrical Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+2+2=4
+4 
+(Part 2: Electronics Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+5 
+F 
+UCEST105 ESC
+UC  Algorithmic Thinking with Python  
+2
+1
+2
+0
+5
+40 
+60 
+4 
+5 
+6 
+L 
+ 
+GYESL106 ESC
+GC  Basic Electrical and Electronics Engineering 
+Workshop 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+7 
+I*
+S1/
+S2
+UCPST127
+PS
+UC 
+Health and Safety
+1
+0
+1
+0
+0
+0
+0
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values
+2
+0
+-
+0
+2
+50
+50
+8 
+S1/
+S2 
+UCSEM129 SEC
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM) 
+MOOC 
+2
+ 
+- 
+ 
+Total 
+32/
+34
+ 
+20 
+25
+Bridge Course (Mathematics or Introduction to Computer Science) *:       Total 15 Hrs. 
+Digital 101 (NASSCOM) 
+Sl. No:
+Technologies Covered 
+Hours 
+1
+Artificial intelligence and Big Data Analytics (AI/BDA) 
+11 
+2
+Internet of Things (IoT) 
+2.5 
+3
+Cyber Security 
+2.5 
+4
+Block Chain 
+2.5 
+5
+Robotic Process Automation 
+1.5 
+6
+Augmented and Virtual Reality (AR and VR) 
+2.5 
+7
+Cloud Computing 
+2.5 
+8
+3 D Printing and Modelling 
+2 
+9
+Web, Mobile Dev and Marketing 
+2 
+10
+Responsible AI 
+1 
+Total Hours 
+30 
+3 
+ 
+FIRST SEMESTER (July-December): Group C 
+10 Days Compulsory Induction Program  
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GCMAT101 BSC
+GC Group Specific Mathematics -1 
+3
+1
+0
+0
+6
+40 
+60 
+4 
+4 
+2 
+B 
+S1/
+S2
+GCPHT121 BSC
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+4 
+GCCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+C 
+GCEST103 ESC
+GC Engineering Mechanics 
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+4 
+D 
+GCEST104
+ 
+ESC
+GC 
+Introduction to Mechanical Engineering & 
+Civil Engineering  
+(Part1: Mechanical Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+2+2=4
+4 
+(Part 2: Civil Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+5
+F
+UCEST105 ESC
+UC
+Algorithmic Thinking with Python
+2
+1
+2
+0
+5
+40
+60
+4
+5
+6 
+L 
+GCESL106 ESC
+GC Engineering Workshop 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+7 
+I*
+S1/
+S2
+UCPST127
+PS
+UC 
+Health and Safety
+1
+0
+1
+0
+0
+0
+0
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values
+2
+0
+-
+0
+2
+50 
+50 
+8 
+S1/
+S2 
+UCSEM129 SEC
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM) 
+MOOC 
+2
+ 
+ 
+- 
+ 
+Total 
+31/
+33
+ 
+20 
+24
+Bridge Course (Mathematics or Introduction to Computer Science) *:       Total 15 Hrs. 
+ 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+ 
+FIRST SEMESTER (July-December): Group D 
+10 Days Compulsory Induction Program 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GDMAT101
+BSC 
+GC Group Specific Mathematics -1 
+3
+1
+0
+0
+6
+40 
+60 
+4 
+4 
+2 
+B 
+S1/
+S2
+GDPHT121
+BSC 
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+4 
+GDCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40
+60
+3 
+C 
+ 
+GDEST103
+ESC 
+GC Engineering Graphics and Computer Aided 
+Drawing. 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+4 
+4 
+D 
+ 
+GDXXT104
+ESC 
+GC Introduction to Biotechnology/Food 
+Technology/Agriculture Engineering 
+4
+0
+0
+0
+8
+40 
+60 
+4 
+4 
+5 
+F 
+UCEST105
+ESC 
+UC Algorithmic Thinking with Python 
+2
+1
+2
+0
+5
+40 
+60 
+4 
+5 
+6 
+L 
+ 
+GDXXL106
+ESC 
+GC  Foundations of Biotechnology/Food 
+Technology/Agriculture Engineering Lab 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+7 
+I*
+S1/
+S2
+UCPST127
+PS
+UC
+Health and Safety
+1
+0
+1
+0
+0
+0
+0
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values
+2
+0
+-
+0
+2
+50 
+50 
+8 
+S1/
+S2 
+UCSEM129
+SEC 
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM) 
+MOOC 
+2
+ 
+- 
+ 
+Total 
+32/
+34
+ 
+20 
+25
+Bridge Course (Mathematics or Introduction to Computer Science) *:       Total 15 Hrs. 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+4 
+ 
+ 
+ 
+SECOND SEMESTER (January-June): Group A and Group B 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GYMAT201 BSC 
+GC Group Specific Mathematics-2 
+3
+1
+0
+0
+6
+40  
+60 
+4 
+4 
+2 
+B 
+S1/ 
+S2
+GYPHT121
+BSC 
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+4 
+GYCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40 
+60
+3 
+C 
+GYEST203
+ESC 
+GC Foundations of Computing: From Hardware 
+Essentials to Web Design 
+2
+1
+0
+0
+4
+40  
+60 
+3 
+3 
+4 
+D 
+GYEST204
+ESC 
+GC Programming in C 
+3 0 2 0 7
+40 
+60
+4 
+5 
+5 
+E 
+PCXXT205
+PC 
+PC Core-1 
+3
+1
+0
+0
+6
+40 
+60 
+4 
+4 
+6 
+F 
+UCEST206
+ESC 
+UC Engineering Entrepreneurship & IPR 
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+7 
+I* 
+S1/ 
+S2
+UCPST127
+PS 
+UC
+Health and Safety 
+1
+0
+1
+0
+0
+0 
+0 
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values 
+2
+0
+-
+0
+2
+50 
+50 
+8 
+L 
+GYESL208
+ESC 
+GC IT Workshop 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+9 
+S1/
+S2 
+UCSEM129
+SEC 
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM)
+MOOC 
+ 
+ 
+1 
+ 
+Total 
+35
+ 
+24 
+27
+ 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+ 
+SECOND SEMESTER (January-June): Group C 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure 
+SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GCMAT201 BSC
+GC Group Specific Mathematics-2 
+3
+1
+0
+0
+6
+40  
+60 
+4 
+4 
+2 
+B 
+S1/ 
+S2
+GCPHT121 BSC
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+4 
+GCCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+C 
+ 
+GCEST203 ESC
+GC Engineering Graphics and Computer Aided 
+Drawing 
+2
+0
+2
+0
+5
+40  
+60 
+3 
+4 
+4 
+D 
+ 
+GCEST204
+ 
+ESC
+GC 
+Basic Electrical & Electronics Engineering 
+(Part 1: Electrical Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+2+2=4
+4 
+(Part 2: Electronics Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+5 
+E 
+PCXXT205 PC
+PC Core-1 
+3
+1
+0
+0
+6
+40 
+60 
+4 
+4 
+6 
+F 
+UCEST206 ESC
+UC Engineering Entrepreneurship & IPR 
+2 1 0 0 4
+40 
+60 
+3 
+3 
+7 
+I*
+S1/ 
+S2
+UCPST127
+PS
+UC 
+Health and Safety
+1
+0
+1
+0
+0
+0
+0
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values
+2
+0
+-
+0
+2
+50
+50
+8 
+L 
+GCESL208 ESC
+GC  Basic Electrical and Electronics Engineering 
+workshop 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+9 
+S1/
+S2 
+UCSEM129 SEC
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM) 
+MOOC 
+ 
+ 
+1 
+ 
+Total 
+37
+ 
+24 
+27
+ 
+ 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+5 
+ 
+SECOND SEMESTER (January-June) ): Group D 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course Type 
+Course 
+Category 
+ 
+Course Title 
+(Course Name) 
+Credit 
+Structure 
+SS
+Total 
+Marks 
+Credits
+Hrs./Week 
+L T
+P R
+CIA
+ESE
+1 
+A 
+GDMAT201 BSC
+GC Group Specific Mathematics-2 
+3
+1
+0
+0
+6
+40  
+60 
+4 
+4 
+2 
+B 
+1/2
+GDPHT121 BSC
+GC Physics for Engineers 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+4 
+GDCYT122
+Chemistry for Engineers 
+2
+0
+2
+0
+5
+40 
+60 
+3 
+C 
+GDEST203 ESC
+GC Basic Mechanical & Civil Engineering 
+3 0 0 0 6
+40 
+60 
+3 
+3 
+4 
+D 
+GDEST204 ESC
+GC 
+Basic Electrical & Electronics Engineering 
+(Part 1: Electrical Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+2+2=4
+4 
+(Part 2: Electronics Engineering) 
+2
+0
+0
+0
+4
+20 
+30 
+5 
+E 
+PCXXT205
+PC
+PC Core-1 
+3
+1
+0
+0
+6
+40 
+60 
+4 
+4 
+6 
+F 
+UCEST206 ESC
+UC Engineering Entrepreneurship & IPR 
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+7 
+I* 
+UCPST127
+PS
+UC 
+Health and Safety 
+1
+0
+1
+0
+0
+0 
+0 
+1 
+2 
+UCHUT128 HMC
+Life Skills and Universal Human Values 
+2
+0
+-
+0
+2
+50 
+50 
+8 
+L 
+GDESL208 ESC
+GC  Basic Electrical and Electronics Engineering
+Workshop 
+0
+0
+2
+0
+1
+50 
+--- 
+1 
+2 
+9 
+S1/
+S2 
+UCSEM129 SEC
+UC Skill Enhancement Course: Digital 101(30 
+Hours, NASSCOM) 
+MOOC 
+ 
+ 
+1 
+ 
+Total 
+38
+ 
+24 
+26
+ 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+ 
+*No Grade Points will be awarded for the I slot course. 
+ 
+THIRD SEMESTER (July-December)  
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course 
+Type 
+Course 
+Category 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total  
+Marks Credits Hrs./ 
+Week
+L
+T P R
+CIA ESE
+1 
+A 
+GYMAT301
+BSC 
+GC 
+Group Specific Mathematics-3 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+2 
+B 
+PCXXT302
+PC 
+PC 
+Core-2 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+3 
+D 
+PBXXT303
+PC-
+PBL 
+PB 
+Core-PBL-1 
+3
+0
+0
+1
+7
+60
+40
+4 
+4 
+4 
+F 
+GYEST304
+ESC-
+PBL 
+ 
+GC 
+Group A: 
+ Digital Electronics & Logic Design 
+Group B, C and D: 
+Introduction to Artificial Intelligence 
+and Data Science 
+2
+1
+0
+1
+4
+60
+40
+4 
+4 
+5 
+G 
+S3/S4
+UCHUT345
+HMC
+UC 
+Engineering Economics and Financial 
+Management 
+2
+0
+0
+0
+4
+50
+50
+2 
+2 
+UCHUT346
+Engineering Ethics and Social 
+Responsibility 
+6 
+I* 
+UCHMT306 HMC
+UC 
+Professional Communication and Soft 
+Skills for Engineers 
+2
+0
+-
+0
+2
+50
+50
+1 
+2 
+7 
+L 
+PCXXL307
+PCL 
+PC 
+LAB-1 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+8 
+Q 
+PCXXL308
+PCL 
+PC 
+LAB-2 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+9 
+R/M
+ 
+VAC 
+ 
+REMEDIAL/MINOR/COURSE 
+3
+1
+0
+0
+6
+ 
+ 
+4* 
+4* 
+Total 
+32/
+38
+ 
+23/27* 26/30*
+6 
+ 
+ 
+FOURTH  SEMESTER (January-June) 
+Sl. 
+No: Slot
+Course 
+Code 
+Course 
+Type 
+Course 
+Category 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total  
+Marks Credits Hrs./ 
+Week
+L
+T P R
+CIA ESE
+1 
+A 
+GYMAT401
+BSC 
+GC Group Specific Mathematics-4 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+2 
+B 
+PCXXT402
+PC 
+PC Core-3 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+3 
+C 
+PCXXT403
+PC 
+PC Core-4 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+4 
+D 
+PBXXT404 PC-PBL
+PB Core-PBL-2 
+3
+0
+0
+1
+7
+60
+40
+4 
+4 
+5 
+E 
+PEXXT41N
+PE 
+PE PE-1 
+2
+1
+0
+0
+4
+40
+60
+3 
+3 
+6 
+G 
+S3/S4
+UCHUT345
+HMC 
+UC 
+Engineering Economics and Financial 
+Management 
+2
+0
+0
+0
+4
+50
+50
+2 
+2 
+UCHUT346
+Engineering Ethics and Social 
+Responsibility 
+7 
+L 
+PCXXL407
+PCL 
+PC LAB-3 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+8 
+Q 
+PCXXL408
+PCL 
+PC LAB-4 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+9 R/M
+/H
+ 
+VAC 
+ 
+Remedial/Minor/Honours Course 
+3
+1
+0
+0
+6
+ 
+ 
+4* 
+4* 
+Total 
+36/
+42
+ 
+25/ 
+29* 
+27/ 
+31* 
+ 
+Note: Engineering Economics & Financial Management and Engineering Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches in the Institution to opt for 
+Engineering Economics & Financial Management in S3 and Engineering Ethics & Social Responsibility in S4 and 
+vice versa. 
+ 
+FIFTH SEMESTER (July-December) 
+Sl. 
+No: Slot
+ 
+Course 
+Code 
+Course  
+ Type 
+Course 
+Category 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total  
+Marks Credits Hrs./
+Week
+L
+T
+P R
+CIA ESE
+1 
+A 
+PCXXT501
+PC 
+PC 
+Core-5 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+2 
+B 
+PCXXT502
+PC 
+PC 
+Core-6 
+3
+1
+0
+0
+6
+40
+60
+4 
+4 
+3 
+C    PEXXT52N
+PE 
+PE 
+PE-2 
+2
+1
+0
+0
+4
+40
+60
+3 
+3 
+4 
+D 
+PBXXT504 
+PC-
+PBL
+PB 
+Core-PBL-3 
+3
+0
+0
+1
+7
+60
+40
+4 
+4 
+5 
+F 
+GYEST505 
+ESC 
+GC 
+Design Thinking and Product 
+Development (Group Specific Syllabus) 
+2
+1
+0
+0
+4
+40
+60
+3 
+3 
+6 
+I* 
+UCHUM506 HMC
+UC 
+Constitution Of India (MOOC) 
+-
+-
+-
+-
+2
+- 
+- 
+1 
+- 
+7 
+L 
+PCXXL507 
+PCL 
+PC 
+LAB-5 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+8 
+Q 
+PCXXL508 
+PCL 
+PC 
+LAB-6 
+0
+0
+3
+0 1.5 50
+50
+2 
+3 
+9 R/M
+/H
+ 
+VAC
+ 
+Remedial/Minor/Honours Course, Mini 
+Project (6th Semester) Topic 
+identification. 
+3
+1
+0
+0
+6
+ 
+ 
+4* 
+4* 
+ 
+S5/
+S6 
+Industrial Visit (Maximum 10 Days are permitted, Not Exceeding more than 5 
+Working Days) /Industrial Training 
+ 
+ 
+ 
+ 
+ 
+Total 
+32
+/
+38
+ 
+23/27* 24/28*
+ 
+*No Grade Points will be awarded for the MOOC course and I slot course. 
+7 
+ 
+SIXTH  SEMESTER (January-June) 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course 
+Type 
+Course 
+Category 
+Course Title 
+(Course Name) 
+Credit 
+Structure 
+SS
+Total 
+Marks 
+Credits
+Hrs/ 
+Week
+L
+T P R
+CIA
+ESE
+1 
+A
+PEXXT63N
+PE 
+PE PE-3 
+2
+1
+0
+0
+4
+40
+60 
+3 
+3 
+2 
+B
+PEXXT64N
+PE 
+PE PE-4 
+2
+1
+0
+0
+4
+40
+60 
+3 
+3 
+3 
+C
+PBXXT603 PC-PBL
+PB Core-PBL-4 
+3
+0
+0
+1
+7
+60
+40 
+4 
+4 
+4 
+D
+PBXXT604 PC-PBL
+PB Core-PBL-5 
+3
+0
+0
+1
+7
+60
+40 
+4 
+4 
+5 
+O OEXXT61N
+/IEXXT61N
+OE/ILE OE/IEOE/ILE-1 
+2
+1
+0
+0
+4
+40
+60 
+3 
+3 
+6 
+I* UCHUT606
+HMC 
+UC Sustainable Engineering  
+2
+0
+0
+0
+0
+50
+50 
+1 
+2 
+7 
+L
+PCXXL607
+PCL 
+PC LAB-7 
+0
+0
+3
+0 1.5 50
+50 
+2 
+3 
+8 
+P
+PCXXP608
+PS 
+PC Mini Project: Socially Relevant Project 
+0
+0
+0
+3
+3
+50
+50 
+2 
+3 
+ 
+R/
+M/
+H
+ 
+VAC 
+ 
+Remedial/Minor/Honours Course 
+3
+1
+0
+0
+6
+ 
+ 
+4* 
+4* 
+ 
+S5
+/
+S6
+Industrial Visit (Maximum 10 Days are permitted, Not Exceeding more than 5 
+Working Days) /Industrial Training 
+ 
+ 
+ 
+ 
+ 
+Total 
+31/
+37
+ 
+22/26* 25/29*
+ 
+SEVENTH SEMESTER (July-December) 
+Sl. 
+No:
+Slot 
+Course 
+Code 
+Course 
+Type 
+Course 
+Category 
+Course Title 
+(Course Name) 
+Credit 
+Structure 
+SS
+Total  
+Marks 
+Credits
+Hrs/ 
+Week
+L
+T P R
+CIA 
+ESE
+1 
+A 
+PEXXT75N 
+/ 
+PEXXM75N 
+PE
+PE 
+PE-5 
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+2 
+B 
+PEXXT76N/
+PEXXM76N 
+PE
+PE 
+PE-6  
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+3 
+O 
+OEXXT72N 
+/IEXXT72N/ 
+OEXXM72N
+OE/
+ILE OE/IE
+OE/ILE-2 
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+1
+0
+0
+4
+40 
+60 
+3 
+3 
+4 
+I* 
+UEHUT704 
+/ UEHUM70N
+ 
+HMC
+UE 
+Elective 
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online 
+Classes) 
+2
+0
+0
+0
+4
+50 
+50 
+2 
+2 
+5 
+S 
+PCXXS705
+PS
+PC Seminar 
+0
+0
+3
+0 1.5
+50 
+0 
+2 
+3 
+6 
+P 
+PCXXP706/ 
+PCXXI706 
+PS
+PC Option 1: Major Project 
+Option 2: Internship (4-6 Months) 
+0
+0
+0 14 14 100 
+0 
+5 
+14 
+ 
+R/M
+/H
+ 
+VAC
+ 
+Remedial/Minor/Honours Course 
+0
+0
+0
+4
+4
+ 
+ 
+4* 
+4* 
+Total 
+31/
+35
+ 
+18/23* 28/32*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*No Grade Points will be awarded for 
+the I slot courses 
+Slot I: HMC Elective 
+1 
+Project Management: Planning, Execution, Evaluation and Control 
+2 
+Proficiency course in French. (MOOC) (B1 level) 
+3 
+Proficiency Course in German (B1 Level). (MOOC) 
+4 
+Proficiency Course in Spanish (B1 Level) (MOOC) 
+5 
+Introduction to Japanese Language and Culture (N5 level). (MOOC) 
+8 
+ 
+ 
+EIGHT SEMESTER (January-June) 
+Sl. 
+No: Slot
+ 
+Course 
+Code 
+Course 
+Type
+Course 
+Catego
+ry 
+Course Title 
+(Course Name) 
+Credit 
+Structure SS
+Total  
+Marks Credits
+Hrs/ 
+Week
+L
+T P R
+CIA ESE
+1 
+A 
+PEXXT87N
+/ 
+PEXXM87N
+PE 
+PE 
+PE-7
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+1
+0
+0
+4
+40
+60
+3 
+3 
+2 
+O 
+OEXXT82N
+/IEXXT82N
+/ 
+OEXXM82N
+OE/ILE OE/IE
+OE/ILE-3 
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+1
+0
+0
+4
+40
+60
+3 
+3 
+3 
+I* 
+UEHUT803
+/ 
+UEHUM803
+ 
+HMC 
+UC 
+Organizational Behavior and Business 
+Communication 
+(Internship Students: Self Study/MOOC 
+Approved by the University/Online Classes)
+2
+0
+0
+0
+2
+50
+50
+1 
+2 
+4 
+P 
+PCXXP806/
+PCXXI806/
+PCXXJ806
+ 
+PS 
+PC 
+Option 1: Major Project 
+Option 2: Internship (4-6 Months) 
+Option 3: Major Project Phase -II 
+ (For the students who have not opted 
+for internship in S7/S8) 
+0
+0
+0 14 14 100
+0 
+5 
+14 
+ 
+R/H
+ 
+VAC 
+ 
+Project: Honours Course 
+0
+0
+0
+4
+4
+ 
+ 
+4* 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+24
+/
+28
+ 
+12/16* 22/26
+ 
+*No Grade Points will be awarded for the I slot courses 
+Note: Open Electives are such courses which will be offered by other departments. Like CSE department students 
+have to opt open electives from ECE/ME/EEE etc. departments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Libish T M                                                                                        Dr. Vinu Thomas 
+Director (Academic)                                                                                Dean (Academic) 
+APJ Abdul Kalam Technological University                                           APJ Abdul Kalam Technological University 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HMC Courses 
+Sl. 
+No: 
+Semester 
+Course 
+Code 
+Course Area 
+Credits 
+1 
+S1/S2 
+ 
+Life Skills and Universal Human Values 
+1 
+2
+S3 
+ 
+Professional Communication and Soft Skills for Engineers
+1
+3
+S3 
+/S4 
+Engineering Economics and Financial Management
+2
+4
+Engineering Ethics and Social Responsibility
+2
+5
+S5 
+ 
+Constitution Of India.(MOOC)
+1 
+6
+S6 
+ 
+Sustainable Engineering
+1 
+7
+S7 
+ 
+Elective (Project Management/Foreign Languages) 
+2 
+8
+S8 
+Organizational Behavior and Business Communication
+1
+Total Credits
+11 
+ BSC Courses 
+Sl. 
+No: 
+Semester 
+Course 
+Code 
+Course Area 
+Credits 
+1
+S1 
+Group Specific Mathematics-1 
+4 
+2
+S1/S2 
+Physics for Engineers
+3
+3
+Chemistry for Engineers
+3
+4
+S2 
+Group Specific Mathematics-2 
+4 
+5
+S3 
+Group Specific Mathematics-3 
+4 
+6
+S4 
+Group Specific Mathematics-4 
+4 
+Total Credits 
+22 
+ ESC Courses (Group A and B) 
+Sl. No: 
+Semester 
+Course Area 
+Credits 
+1 
+S1 
+Engineering Graphics and Computer Aided Drawing 
+3 
+2
+Introduction to Electrical and Electronics Engineering
+4
+3
+Algorithmic Thinking with Python
+4
+4
+Basic Electrical and Electronics Engineering Workshop
+1
+5 
+S2 
+Foundations of Computing: From Hardware Essentials to Web 
+Design
+3 
+6 
+Programming in C 
+4 
+7 
+Engineering Entrepreneurship and IPR 
+3 
+8
+IT Workshop
+1
+9 
+S3 
+Group1:  Digital Electronics & Logic Design 
+Group2: Introduction to Artificial Intelligence and Data Science
+4 
+10 
+S5 
+Design Thinking and Creativity 
+3 
+Total Credits 
+30 
+ESC Courses (Group C) 
+Sl. No: 
+Semester 
+Course Area 
+Credits 
+1
+S1 
+Engineering Mechanics
+3
+2
+Introduction to Mechanical Engineering/ Civil Engineering
+4
+3
+Algorithmic Thinking with Python
+4
+4
+Engineering Workshop
+1
+5 
+S2 
+Engineering Graphics and Computer Aided Drawing 
+3 
+6 
+Basic Electrical and Electronics Engineering
+4 
+7 
+Engineering Entrepreneurship and IPR 
+3 
+8 
+Basic Electrical and Electronics Engineering Workshop 
+1 
+9 
+S3 
+Introduction to Artificial Intelligence and Data Science 
+4 
+10 
+S5 
+Design Thinking and Creativity
+3 
+Total Credits 
+30 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ESC Courses (Group D) 
+Sl. No: 
+Semester 
+Course Area 
+Credits 
+1 
+S1 
+ 
+Engineering Graphics and Computer Aided Drawing 
+3 
+2
+Introduction to Biotechnology/Food Technology/Agriculture Engineering
+4
+3
+Algorithmic Thinking with Python
+4
+4 
+Foundations of Biotechnology/Food Technology/Agriculture Engineering 
+Lab
+1 
+5
+S2 
+Basic Mechanical Engineering and Civil Engineering 
+3
+6
+Basic Electrical and Electronics Engineering 
+4
+7
+Engineering Entrepreneurship and IPR
+3 
+8
+Basic Electrical and Electronics Engineering Workshop
+1
+9 
+S3 
+Introduction to Artificial Intelligence and Data Science 
+4 
+7 
+S5 
+Design Thinking and Creativity 
+3 
+Total Credits 
+30 
+Programme  Core Courses(PC) 
+Sl. No: 
+Semester 
+Course Area 
+Credits 
+1
+S2 
+Core 1 
+4 
+2
+S3 
+Core 2 
+4 
+3
+Lab-1 
+2 
+4
+Lab-2 
+2 
+5
+S4 
+Core 3 
+4
+6
+Core 4 
+4
+7
+Lab-3 
+2
+8
+Lab-4 
+2
+9
+S5 
+Core 5 
+4
+10
+Core 6 
+4
+11
+Lab-5 
+2
+12
+Lab-6 
+2
+13
+S6 
+Lab-7 
+2
+Total Credits (Theory -6, Lab-7) 
+38 
+Programme Core-Project Based Learning (PBL) 
+Sl. No:
+Semester
+Course Area
+Credits
+1
+S3 
+Core PBL-1 
+4 
+2 
+S4 
+Core PBL-2 
+4 
+3
+S5 
+Core PBL-3 
+4 
+4
+S6 
+Core PBL-4 
+4 
+5
+Core PBL-5 
+4
+Total Credits 
+20 
+Programme Elective Courses (PE) 
+Sl. No:
+Semester
+Course Type
+Credits
+1
+S4 
+PE-1
+3
+2
+S5 
+PE-2 
+3 
+3
+S6 
+PE-3 
+3 
+4
+PE-4 
+3 
+5
+S7 
+PE-5 
+3 
+6
+PE-6 
+3
+7
+S8 
+PE-7 
+3
+Total Credits 
+21 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sl. No 
+Group
+Courses 
+Credits 
+Minimum 
+Credit 
+Requirements 
+1 
+  
+I 
+NSS, NCC, NSO (National Sports Organization) 
+ 
+1 
+(40 Points) 
+  
+  
+  
+  
+3 Credits (One 
+credit from each 
+Group) 
+2 
+Arts/Sports/Games 
+3 
+Union/Club Activities 
+4 
+  
+  
+II 
+English Proficiency Certification (TOFEL, IELTS, 
+BEC etc) 
+         1 
+(40 Points) 
+5 
+Aptitude Proficiency Certification (GRE, CAT, 
+GMAT etc)/Valid Gate Score 
+6 
+Short Term Internship (Minimum 4 weeks), 
+Conference/Workshop Activities/ Professional Body 
+Activities. 
+7 
+  
+III 
+ 
+1 
+(40 Points) 
+8 
+ Journal Publication 
+9 
+Skilling Certificates (Approved by the University) 
+*30 Points/group for B. Tech Lateral Entry Students 
+ 
+ A minimum of 120 Activity points is to be acquired for obtaining the 3 Activity Credits required in 
+the curriculum 
+ 
+ 
+Open Elective Courses/Industry Elective( OE/IEL) 
+Sl. No: 
+Semester 
+Course Type 
+Credits 
+1 
+S6 
+OE/ILE-1 
+3 
+2 
+S7 
+OE/ILE-2 
+3 
+3 
+S8 
+OE/ILE-3 
+3 
+Total Credits 
+9 
+Project/Seminar 
+Sl. No: 
+Semester 
+Course Type 
+Credits 
+1
+S6 
+Mini Project: Socially Relevant Project 
+2 
+2
+S7 
+SEMINAR 
+2 
+3
+MAJOR PROJECT/Internship  
+5 
+4
+S8 
+MAJOR PROJECT/Internship/Research Project 
+5 
+Total Credits 
+14 

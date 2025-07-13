@@ -1,0 +1,10099 @@
+CURRICULUM 
+B.TECH (2019 SCHEME)
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+CURRICULUM I TO VIII: B.TECH CIVIL ENGINEERING 
+ 
+ 
+Every course of B. Tech. Program shall be placed in one of the nine categories as listed in table below. 
+Sl. 
+No 
+Category
+Code
+Credit
+s 
+ 
+1 
+Humanities and Social Sciences including Management 
+courses 
+HMC 
+8 
+ 
+2 
+Basic Science courses 
+BSC 
+26 
+3 
+Engineering Science Courses 
+ESC 
+22 
+ 
+4 
+Program Core Courses 
+PCC 
+76 
+ 
+5 
+Program Elective Courses 
+PEC 
+15 
+ 
+6 
+Open Elective Courses 
+OEC 
+3 
+ 
+7 
+Project work and Seminar 
+PWS 
+10 
+ 
+8 
+Mandatory Non-credit Courses (P/F) with grade 
+MNC 
+----- 
+ 
+9 
+Mandatory Student Activities (P/F) 
+MSA 
+2 
+ 
+ 
+Total Mandatory Credits 
+162 
+ 
+10 
+Value Added Course (Optional) 
+VAC 
+20 
+ 
+ 
+ 
+No semester shall have more than six lecture-based courses and two laboratory and/or 
+drawing/seminar/project courses in the curriculum. Semester-wise credit distribution shall be as below: 
+Sem 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+Total 
+ 
+Credits 
+17 
+21 
+22 
+22 
+23 
+23 
+15 
+17 
+160 
+ 
+Activity 
+Points 
+50 
+ 
+50 
+--- 
+ 
+Credits for 
+Activity 
+2 
+2 
+ 
+G.Total 
+ 
+162 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+126
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+Basic Science Courses: Maths, Physics, Chemistry, Biology for Engineers, Life Science etc 
+Engineering science courses: Basic Electrical, Engineering Graphics, Programming, Workshop, Basic 
+Electronics, Basic Civil, Engineering Mechanics, Mechanical Engineering, Thermodynamics, , Design 
+Engineering, Materials Engineering etc. 
+Humanities and Social Sciences including Management courses: English, Humanities, Professional 
+Communication, Management, Finance & Accounting, Life Skills, Professional Communication, Economics 
+etc. 
+Mandatory non-credit courses: Sustainable Engineering, Constitution of India/Essence of Indian 
+Knowledge Tradition, Industrial Safety Engineering, disaster management etc. 
+Course Code and Course Number 
+Each course is denoted by a unique code consisting of three alphabets followed by three numerals like E C 
+L 2 0 1. The first two letter code refers to the department offering the course. EC stands for course in 
+Electronics & Communication, course code MA refers to a course in Mathematics, course code ES refers 
+to a course in Engineering Science etc. Third letter stands for the nature of the course as indicated in the 
+Table 1.  
+Table 1: Code for the courses 
+Code 
+Description 
+ 
+T 
+Theory based courses (other the lecture hours, these courses can have tutorial 
+and practical hours, e.g., L-T-P structures 3-0-0, 3-1-2, 3-0-2 etc.)  
+L 
+Laboratory based courses (where performance is evaluated primarily on the basis 
+of practical or laboratory work with LTP structures like 0-0-3, 1-0-3, 0-1-3 etc.) 
+N 
+Non-credit courses 
+D 
+Project based courses (Major, Mini Projects) 
+Q 
+Seminar Courses 
+ 
+Course Number is a three digit number and the first digit refers to the Academic year in which the course 
+is normally offered, i.e. 1, 2, 3, or 4 for the B. Tech. Programme of four year duration. Of the other two 
+digits, the last digit identifies whether the course is offered normally in the odd (odd number), even (even 
+number) or in both the semesters (zero). The middle number could be any digit. ECL 201 is a laboratory 
+course offered in EC department for third semester, MAT 101 is a course in Mathematics offered in the 
+first semester, EET 344 is a course in Electrical Engineering offered in the sixth semester, PHT 110 is a 
+course in Physics offered both the first and second semesters, EST 102 is a course in Basic Engineering 
+offered by one or many departments. These course numbers are to be given in the curriculum and syllabi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+127
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+Departments 
+Each course is offered by a Department and their two-letter course prefix is given in Table 2.  
+Table 2: Departments and their codes 
+ 
+Sl.N
+o 
+Department 
+Course 
+Prefix 
+Sl.No 
+Department 
+Course 
+Prefix 
+ 
+01 
+Aeronautical Engg 
+AO 
+16 
+Information Technology 
+IT 
+02 
+Applied Electronics & 
+Instrumentation 
+AE 
+17 
+Instrumentation & 
+Control 
+IC 
+03 
+Automobile 
+AU 
+18 
+Mandatory Courses 
+MC 
+04 
+Biomedical Engg 
+BM 
+19 
+Mathematics 
+MA 
+05 
+Biotechnology 
+BT 
+20 
+Mechanical Engg 
+ME 
+06 
+Chemical Engg 
+CH 
+21 
+Mechatronics 
+MR 
+07 
+Chemistry 
+CY 
+22 
+Metallurgy 
+MT 
+08 
+Civil Engg 
+CE 
+23 
+Mechanical (Auto) 
+ 
+MU 
+09 
+Computer Science 
+CS 
+24 
+Mechanical(Prod) 
+MP 
+10 
+Electrical & Electronics 
+EE 
+25 
+Naval & Ship Building 
+SB 
+11 
+Electronics & Biomedical 
+EB 
+26 
+Physics 
+PH 
+12 
+Electronics & 
+Communication 
+EC 
+27 
+Polymer Engg 
+PO 
+13 
+Food Technology 
+FT 
+28 
+Production Engg 
+PE 
+14 
+Humanities 
+HU 
+29 
+Robotics and Automation 
+RA 
+15 
+Industrial Engg 
+IE 
+30 
+Safety & Fire Engg 
+FS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+128
+CIVIL ENGINEERING
+SEMESTER I 
+SLO
+T 
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOUR
+S 
+CREDIT
+A 
+MAT 101 
+LINEAR ALGEBRA AND 
+CALCULUS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 110 
+ENGINEERING PHYSICS B 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & 
+MECHANICAL ENGINEERING 
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING 
+4-0-0
+4 
+4 
+E 
+HUN 101 
+LIFE SKILLS 
+2-0-2
+4 
+-- 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL 
+WORKSHOP
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+23/24 * 
+17 
+*Minimum hours per week
+NOTE: 
+        To make up for the hours lost due to induction program, one extra hour may be 
+ allotted to 
+each course 
+129
+CIVIL ENGINEERING
+SEMESTER II 
+SLO
+T 
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOUR
+S 
+CREDI
+T 
+A 
+MAT 102 
+VECTOR CALCULUS, 
+DIFFERENTIAL  
+EQUATIONS AND TRANSFORMS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 110 
+ENGINEERING PHYSICS B 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING 
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING 
+4-0-0
+4 
+4 
+E 
+HUN 102 
+PROFESSIONAL 
+COMMUNICATION 
+2-0-2
+4 
+-- 
+F 
+EST 102 
+PROGRAMMING IN C 
+2-1-2
+5 
+4 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+28/29 
+21 
+NOTE: 
+1.
+Engineering Physics B and Engineering Chemistry shall be offered in both semesters.  Institutions
+can advise students belonging to about 50% of the number of branches in the Institution to opt
+for Engineering Physics B in SI and Engineering Chemistry in S2 & vice versa. Students opting for
+Engineering Physics B in a semester should attend Physics Lab in the same semester and students
+opting for Engineering Chemistry in one semester should attend Engineering Chemistry Lab in the
+same semester.
+2.
+Engineering Mechanics and Engineering Graphics shall be offered in both semesters.  Institutions
+can advise students belonging to about 50% of the number of branches in the Institution to opt
+for Engineering Mechanics in SI and Engineering Graphics in S2 & vice versa.
+3.
+Basics of Civil & Mechanical Engineering and Basics of Electrical & Electronics Engineering shall be
+offered in both semesters.  Basics of Civil & Mechanical Engineering contain equal weightage for
+Civil Engineering and Mechanical Engineering. Slot for the course is D with CIE marks of 25 each
+and ESE marks of 50 each.  Students belonging to branches of AEI, EI, BME, ECE, EEE, ICE, CSE, IT,
+RA can choose this course in S1.
+130
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+             Basics of Electrical & Electronics Engineering contain equal weightage for Electrical Engineering 
+and Electronics Engineering. Slot for the course is D with CIE marks of 25 each and ESE marks of 
+50 each.  Students belonging to AERO, AUTO, CE, FSE, IE, ME, MECHATRONICS, PE, METTULURGY, 
+BT, BCE, CHEM, FT, POLY can choose this course in S1. Students having Basics of Civil & 
+Mechanical Engineering in one semester should attend Civil & Mechanical Workshop in the same 
+semester and students having Basics of Electrical & Electronics Engineering in a semester should 
+attend Electrical & Electronics Workshop in the same semester.  
+ 
+4. LIFE SKILLS 
+              Life skills are those competencies that provide the means for an individual to be resourceful and 
+positive while taking on life's vicissitudes. Development of one's personality by being aware of the 
+self, connecting with others, reflecting on the abstract and the concrete, leading and generating 
+change, and staying rooted in time-tested values and principles is being aimed at. This course is 
+designed to enhance the employability and maximize the potential of the students by introducing 
+them to the principles that underlie personal and professional success, and help them acquire the 
+skills needed to apply these principles in their lives and careers.  
+ 
+5. PROFESSIONAL COMMUNICATION 
+             Objective is to develop in the under-graduate students of engineering a level of competence in 
+English required for independent and effective communication for their professional needs. Coverage: 
+Listening, Barriers to listening, Steps to overcome them, Purposive listening practice, Use of technology in 
+the professional world. Speaking, Fluency & accuracy in speech, Positive thinking, Improving self-
+expression, Tonal variations, Group discussion practice, Reading,  Speed reading practice, Use of extensive 
+readers, Analytical and critical reading practice, Writing Professional Correspondence, Formal and 
+informal letters, Tone in formal writing, Introduction to reports. Study Skills, Use of dictionary, thesaurus 
+etc., Importance of contents page, cover & back pages, Bibliography, Language Lab. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+131
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER III 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+MAT201 
+PARTIAL DIFFERENTIAL EQUATION 
+AND COMPLEX ANALYSIS 
+ 
+3-1-0 
+4 
+4 
+B 
+CET201 
+MECHANICS OF SOLIDS 
+3-1-0 
+4 
+4 
+C 
+CET203 
+FLUID MECHANICS& HYDRAULICS 
+3-1-0 
+4 
+4 
+D 
+CET205 
+SURVEYING & GEOMATICS 
+4-0-0 
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN & ENGINEERING 
+2-0-0 
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0 
+2 
+2 
+F 
+MCN201 
+SUSTAINABLE ENGINEERING 
+2-0-0 
+2 
+-- 
+S 
+CEL201 
+CIVIL ENGINEERING PLANNING 
+&DRAFTING LAB
+0-0-3 
+3 
+2 
+T 
+CEL203 
+SURVEY LAB 
+0-0-3 
+3 
+2 
+R/M
+VAC 
+Remedial/Minor course 
+3-1-0 
+4 * 
+4 
+TOTAL 
+ 
+26/30
+22/26
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  Institutions can 
+advise students belonging to about 50% of the number of branches in the Institution to opt for 
+Design & Engineering in S3 and Professional Ethics in S4 & vice versa.  
+2. *All Institutions shall keep 4 hours exclusively for Remedial class/Minor course (Thursdays from 3 
+to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for minor programme, he/she can 
+be given remedial class. 
+132
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER IV 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+MAT202 
+PROBABILITY, STATISTICS AND 
+NUMERICAL METHODS 
+ 
+3-1-0 
+4 
+4 
+B 
+CET202 
+ENGINEERING GEOLOGY  
+3-0-1 
+4 
+4 
+C 
+CET204 
+GEOTECHNICAL ENGINEERING – I 
+4-0-0 
+4 
+4 
+D 
+CET206 
+TRANSPORTATION ENGINEERING 
+4-0-0 
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN & ENGINEERING 
+2-0-0 
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0 
+2 
+2 
+F 
+MCN202 
+CONSTITUTION OF INDIA 
+2-0-0 
+2 
+-- 
+S 
+CEL202 
+MATERIAL TESTING LAB– I 
+0-0-3 
+3 
+2 
+T 
+CEL204 
+FLUID MECHANICS LAB 
+0-0-3 
+3 
+2 
+R/M/H VAC 
+Remedial/Minor/Honours course 
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+26/30
+22/26
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  Institutions can 
+advise students belonging to about 50% of the number of branches in the Institution to opt for 
+Design & Engineering in S3 and Professional Ethics in S4 & vice versa. 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor course (Thursdays from 
+3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for minor programme, he/she 
+can be given remedial class.  
+133
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER V 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+CET301 
+STRUCTURAL ANALYSIS – I 
+3-1-0 
+4 
+4 
+B 
+CET303 
+DESIGN OF CONCRETE STRUCTURES 
+3-1-0 
+4 
+4 
+C 
+CET305 
+GEOTECHNICAL ENGINEERING – II 
+4-0-0 
+4 
+4 
+D 
+CET307 
+HYDROLOGY & WATER RESOURCES 
+ENGINEERING
+4-0-0 
+4 
+4 
+E 
+CET309 
+CONSTRUCTION TECHNOLOGY& 
+MANAGEMENT
+3-0-0 
+3 
+3 
+F 
+MCN301 
+DISASTER MANAGEMENT 
+2-0-0 
+2 
+-- 
+S 
+CEL331 
+MATERIAL TESTING LAB – II 
+0-0-3 
+3 
+2 
+T 
+CEL333 
+GEOTECHNICAL ENGINEERING LAB 
+0-0-3 
+3 
+2 
+R/M/H VAC 
+Remedial/Minor/Honours course 
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+27/31
+23/27
+ 
+ 
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 3 to 5 PM and Wednesdays from 3 to 5 PM). If a student does not opt for 
+minor/honours programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+134
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER VI 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+CET302 
+STRUCTURAL ANALYSIS – II 
+3-1-0 
+4 
+4 
+B 
+CET304 
+ENVIRONMENTAL ENGINEERING 
+4-0-0 
+4 
+4 
+C 
+CET306 
+DESIGN OF HYDRAULIC STRUCTURES 4-0-0 
+4 
+4 
+D 
+CETXXX 
+PROGRAM ELECTIVE I 
+3-0-0 
+3 
+3 
+E 
+ 
+HUT300 
+INDUSTRIAL ECONOMICS & 
+FOREIGN TRADE 
+3-0-0 
+3 
+3 
+F 
+CET308 
+COMREHENSIVE COURSE WORK 
+1-0-0 
+1 
+1 
+S 
+CEL332 
+TRANSPORTATION ENGINEERING LAB 0-0-3 
+3 
+2 
+T 
+CEL334 
+CIVIL ENGINEERING SOFTWARE LAB 
+0-0-3 
+3 
+2 
+R/M/H VAC 
+Remedial/Minor/Honours course 
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+25/29
+23/27
+ 
+ 
+PROGRAM ELECTIVE I 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+ 
+ 
+D 
+CET312
+ADVANCED COMPUTATIONAL 
+METHODS
+3-0-0 
+ 
+ 
+3 
+ 
+ 
+3 
+CET322 
+GEOTECHNICAL INVESTIGATION
+ 3-0-0 
+CET332 
+TRAFFIC ENGINEERING & 
+MANAGEMENT
+3-0-0 
+CET342 
+MECHANICS OF FLUID FLOW
+  3-0-0 
+CET352 
+ADVANCED CONCRETE TECHNOLOGY
+3-0-0
+CET362 
+ENVIRONMENTAL IMPACT 
+ASSESSMENT
+  3-0-0 
+CET372 
+FUNCTIONAL DESIGN OF BUILDINGS
+ 3-0-0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+135
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+NOTE: 
+1. **All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 2 to 4 PM and Wednesdays from 2 to 4 PM). If a student does not opt for 
+minor/honors programme, he/she can be given remedial class.  
+2. Comprehensive Course Work: The comprehensive course work in the sixth semester of study shall 
+have a written test of 50 marks. The written examination will be of objective type similar to the 
+GATE examination and will be conducted online by the University. Syllabus for comprehensive 
+examination shall be prepared by the respective BoS choosing any 5 core courses studied from 
+semester 3 to 5. The pass minimum for this course is 25. The course should be mapped with a 
+faculty and classes shall be arranged for practising questions based on the core courses listed in 
+the curriculum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+136
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER VII 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+CET401 
+DESIGN OF STEEL STRUCTURES 
+3-0-0 
+3 
+3 
+B 
+CETXXX 
+PROGRAM ELECTIVE II 
+3-0-0 
+3 
+3 
+C 
+CETXXX 
+OPEN ELECTIVE  
+3-0-0 
+3 
+3 
+D 
+MCN401 
+INDUSTRIAL SAFETY ENGINEERING 
+2-1-0 
+3 
+--- 
+S 
+CEL411 
+ENVIRONMENTAL ENGG LAB 
+0-0-3 
+3 
+2 
+T 
+CEQ413 
+SEMINAR 
+0-0-3 
+3 
+2 
+U 
+CED415 
+PROJECT PHASE I 
+0-0-6 
+6 
+2 
+R/M/H VAC 
+Remedial/Minor/Honours course 
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+24/28
+15/19
+ 
+ 
+PROGRAM ELECTIVE II 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+ 
+ 
+B 
+CET413 
+PRESTRESSED CONCRETE 
+3-0-0 
+ 
+ 
+3 
+ 
+ 
+3 
+CET423 
+GROUND IMPROVEMENT 
+TECHNIQUES
+  3-0-0 
+CET433 
+HIGHWAY MATERIALS AND DESIGN 
+3-0-0 
+CET443 
+APPLIED HYDROLOGY
+ 3-0-0 
+CET453 
+CONSTRUCTION PLANNING & 
+MANAGEMENT 
+3-0-0 
+CET463 
+ADVANCED ENVIRONMENTAL 
+ENGINEERING 
+  3-0-0 
+CET473 
+OPTIMISATION TECHNIQUES IN CIVIL 
+ENGINEERING
+  3-0-0 
+ 
+ 
+ 
+ 
+ 
+OPEN ELECTIVE  
+The open elective is offered in semester 7. Each program should specify the courses (maximum 5) they 
+would like to offer as electives for other programs. The courses listed below are offered by the 
+Department of CIVIL ENGINEERING for students of other undergraduate branches offered in the college. 
+ 
+ 
+ 
+137
+CIVIL ENGINEERING
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOUR
+S 
+CREDIT
+C 
+CET415 
+ENVIRONMENTAL IMPACT 
+ASSESSMENT 
+2-1-0
+3 
+3 
+CET425 
+APPLIED EARTH SYSTEMS 
+2-1-0
+CET435 
+INFORMATICS FOR INFRASTRUCTURE 
+MANAGEMENT  
+2-1-0
+CET445 
+NATURAL DISASTERS AND MITIGATION
+2-1-0
+CET455 
+ENVIRONMENTAL HEALTH AND 
+SAFETY 
+2-1-0
+CET465 
+GEOINFORMATICS 
+2-1-0
+NOTE: 
+1.
+*All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honors course
+(Mondays from 10 to 12 and Wednesdays from 10 to 12 Noon). If a student does not opt for
+minor/honours programme, he/she can be given remedial class.
+2.
+Seminar: To encourage and motivate the students to read and collect recent and reliable
+information from their area of interest confined to the relevant discipline from technical
+publications including peer reviewed journals, conference, books, project reports etc., prepare a
+report based on a central theme and present it before a peer audience. Each student shall
+present the seminar for about 20 minutes duration on the selected topic. The report and the
+presentation shall be evaluated by a team of internal members comprising three senior faculty
+members based on style of presentation, technical content, adequacy of references, depth of
+knowledge and overall quality of the report.
+Total marks: 100, only CIE, minimum required to pass 50 
+Attendance 
+: 10 
+Guide  
+: 20 
+Technical Content of the Report  
+ : 30 
+Presentation 
+ 
+: 40 
+3.
+Project Phase I: A Project topic must be selected either from research literature or the students
+themselves may propose suitable topics in consultation with their guides. The object of Project
+Work I is to enable the student to take up investigative study in the broad field of Civil
+Engineering, either fully theoretical/practical or involving both theoretical and practical work to
+be assigned by the Department on a group of  three/four students, under the guidance of a
+Supervisor. This is expected to provide a good initiation for the student(s) in R&D work. The
+assignment to normally include:
+⮚ Survey and study of published literature on the assigned topic; 
+⮚ Preparing an Action Plan for conducting the investigation, including team work; 
+⮚ Working out a preliminary Approach to the Problem relating to the assigned topic; 
+⮚ Block level design documentation 
+⮚ Conducting preliminary Analysis/ Modelling/ Simulation/ Experiment/ Design/ Feasibility; 
+⮚ Preparing a Written Report on the Study conducted for presentation to the Department; 
+⮚ Final Seminar, as oral Presentation before the evaluation committee. 
+138
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+         Total marks: 100, only CIE, minimum required to pass 50 
+   Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation by the evaluation committee  
+ 
+               : 20 
+Final Seminar   
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+The report evaluated by the evaluation committee 
+ 
+ 
+: 20 
+The evaluation committee comprises HoD or a senior faculty member, Project coordinator and project 
+supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+139
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+SEMESTER VIII 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+CET402 
+QUANTITY SURVEYING & VALUATION 3-0-0 
+3 
+3 
+B 
+CETXXX 
+PROGRAM ELECTIVE III 
+3-0-0 
+3 
+3 
+C 
+CETXXX 
+PROGRAM ELECTIVE IV 
+3-0-0 
+3 
+3 
+D 
+CETXXX 
+PROGRAM ELECTIVE V 
+3-0-0 
+3 
+3 
+E 
+CET404 
+COMPREHENSIVE VIVA VOCE 
+1-0-0 
+1 
+1 
+U 
+CED416 
+PROJECT PHASE II 
+0-0-12 
+12 
+4 
+R/M/H VAC 
+Remedial/Minor/Honours course 
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+25/29
+17/21
+ 
+ 
+PROGRAM ELECTIVE III 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+ 
+ 
+B 
+CET414
+ADVANCED STRUCTURAL DESIGN
+3-0-0
+ 
+ 
+3 
+ 
+ 
+3 
+CET424 
+GEOENVIRONMENTAL ENGINEERING 
+ 3-0-0 
+CET434 
+RAILWAY AND TUNNEL ENGINEERING
+3-0-0
+CET444 
+IRRIGATION & DRAINAGE 
+ENGINEERING
+  3-0-0 
+CET454 
+CONSTRUCTION METHODS & 
+EQUIPMENT
+3-0-0 
+CET464 
+AIRQUALITY MANAGEMENT
+ 3-0-0 
+CET474 
+URBAN PLANNING & ARCHITECTURE   3-0-0 
+ 
+ 
+PROGRAM ELECTIVE IV 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+ 
+ 
+C 
+CET416
+BRIDGE ENGINEERING
+3-0-0
+ 
+ 
+3 
+ 
+ 
+3 
+CET426 
+ADVANCED FOUNDATION DESIGN
+  3-0-0 
+CET436 
+TRANSPORTATION PLANNING 
+3-0-0 
+CET446 
+INFORMATICS FOR INFRASTRUCTURE 
+MANAGEMENT
+  3-0-0 
+CET456 
+REPAIR AND REHABILITATION OF 
+BUILDINGS
+3-0-0 
+CET466
+ENVIRONMENTAL REMOTESENSING
+ 3-0-0 
+CET476
+BULDING SERVICES
+ 3-0-0 
+140
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+PROGRAM ELECTIVE V 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+ 
+ 
+D 
+CET418 
+EARTHQUAKERESISTANT DESIGN 
+3-0-0 
+ 
+ 
+3 
+ 
+ 
+3 
+CET428 
+SOIL STRUCTURE INTERACTION 
+  3-0-0 
+CET438 
+AIRPORT, SEAPORT AND HARBOUR 
+ENGINEERING
+3-0-0 
+CET448 
+HYDROCLIMATOLOGY
+ 3-0-0 
+CET458 
+SUSTAINABLE CONSTRUCTION 
+3-0-0 
+CET468 
+CLIMATE CHANGE & SUSTAINABILITY   3-0-0 
+ 
+CET478 
+BUILDING INFORMATION MODELLING   3-0-0 
+ 
+ 
+ 
+ 
+NOTE 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Mondays from 10 to 12 and Wednesdays from 10 to 12). If a student does not opt for 
+minor/honors programme, he/she can be given remedial class. 
+2. Comprehensive Course Viva: The comprehensive course viva in the eighth semester of study shall 
+have a viva voce for 50 marks. The viva voce shall be conducted based on the syllabus mentioned 
+for comprehensive course work in the sixth semester. The viva voce will be conducted by the 
+same three member committee assigned for final project phase II evaluation towards the end of 
+the semester. The pass minimum for this course is 25. The course should be mapped with a 
+faculty and classes shall be arranged for practising questions based on the core courses listed in 
+the curriculum. The mark will be treated as internal and should be uploaded along with internal 
+marks of other courses. 
+3. Project Phase II: The object of Project Work II & Dissertation is to enable the student to extend 
+further the investigative study taken up in Project 1, either fully theoretical/practical or involving 
+both theoretical and practical work, under the guidance of a Supervisor from the Department 
+alone or jointly with a Supervisor drawn from R&D laboratory/Industry. This is expected to 
+provide a good training for the student(s) in R&D work and technical leadership. The assignment 
+to normally include: 
+⮚ In depth study of the topic assigned in the light of the Report prepared under PhaseI; 
+⮚ Review and finalization of the Approach to the Problem relating to the assigned topic; 
+⮚ Detailed Analysis/ Modelling/ Simulation/ Design/ Problem Solving/ Experiment as 
+needed; 
+⮚ Final development of product/process, testing, results, conclusions and future directions; 
+⮚ Preparing a paper for Conference presentation/Publication in Journals, if possible; 
+⮚ Preparing a Dissertation in the standard format for being evaluated by the Department; 
+⮚ Final Presentation before a Committee 
+Total marks: 150, only CIE, minimum required to pass 75 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation, 2 times in the semester by the evaluation committee 
+: 50 
+Quality of the report evaluated by the above committee  
+ 
+      
+: 30 
+Final evaluation by a three member committee  
+ 
+ 
+ 
+: 40 
+(The final evaluation committee comprises Project coordinator, expert from Industry/research Institute 
+141
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+and a senior faculty from a sister department. The same committee will conduct comprehensive 
+course viva for 50 marks). 
+MINOR 
+Minor is an additional credential a student may earn if s/he does 20 credits worth of additional learning in 
+a discipline other than her/his major discipline of B.Tech. degree. The objective is to permit a student to 
+customize their Engineering degree to suit their specific interests. Upon completion of an Engineering 
+Minor, a student will be better equipped to perform interdisciplinary research and will be better 
+employable. Engineering Minors allow a student to gain interdisciplinary experience and exposure to 
+concepts and perspectives that may not be a part of their major degree programs.  
+The academic units offering minors in their discipline will prescribe the set of courses and/or other 
+activities like projects necessary for earning a minor in that discipline. A specialist basket of 3-6 courses is 
+identified for each Minor. Each basket may rest on one or more foundation courses. A basket may have 
+sequences within it, i.e., advanced courses may rest on basic courses in the basket. S/he accumulates 
+credits by registering for the required courses, and if the requirements for a particular minor are met 
+within the time limit for the course, the minor will be awarded. This will be mentioned in the Degree 
+Certificate as “Bachelor of Technology in xxx with Minor in yyy”. The fact will also be reflected in the 
+consolidated grade card, along with the list of courses taken. If one specified course cannot be earned 
+during the course of the programme, that minor will not be awarded. The individual course credits 
+earned, however, will be reflected in the consolidated grade card.  
+(i) The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be included in the 
+curriculum from third to eight semesters for all branches. The minor courses shall be identified by M slot 
+courses. 
+(ii) Registration is permitted for Minor at the beginning of third semester. Total credits required is 182 
+(162 + 20 credits from value added courses) 
+(iii) Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three courses listed in 
+the curriculum for minor, of which one course shall be a mini project based on the chosen area. They can 
+do miniproject either in S7 or in S8. The remaining 8 credits could be acquired by undergoing 2 MOOCs 
+recommended by the Board of studies and approved by the Academic Council or through courses listed in 
+the curriculum. The classes for Minor shall be conducted along with regular classes and no extra time shall 
+be required for conducting the courses. 
+(iv) There won’t be any supplementary examination for the courses chosen for Minor. 
+(v)  On completion of the program, “Bachelor of Technology in xxx with Minor in yyy” will be awarded. 
+(vi) The registration for minor program will commence from semester 3 and the all academic units 
+offering minors in their discipline should prescribe set of such courses. The courses shall be grouped into 
+maximum of 3 baskets.  The basket of courses may have sequences within it, i.e., advanced courses may 
+rest on basic courses in the basket. Reshuffling of courses between various baskets will not be allowed. In 
+any case, they should carry out a mini project based on the chosen area in S7 or S8. Students who have 
+registered for B.Tech Minor in CIVIL ENGINEERING Branch can opt to study the courses listed below: 
+ 
+ 
+ 
+ 
+142
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+S
+e
+m
+e
+st
+er
+BASKET I 
+     
+BASKET II 
+BASKET III 
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S 
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name  
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S3 
+CET281 
+Building 
+construction & 
+structural 
+systems 
+4 
+4 CET283 
+Introduction to 
+Geotechnical 
+Engineering 
+4 4 CET285 
+Informatics for 
+Infrastructure 
+Management 
+4 4
+S4 
+CET282 
+Building 
+drawing 
+4 
+4 CET284 
+Introduction to 
+Transportation 
+Engineering 
+4 4 CET286 
+Climate change 
+& hazard 
+mitigation 
+4 4
+S5 
+CET381 
+Structural 
+mechanics 
+4 
+4 CET383 
+Eco-friendly 
+transportation 
+systems 
+4 4 CET385 
+Sustainability 
+analysis & 
+design 
+4 4
+S6 
+CET382 
+Estimation & 
+costing 
+4 
+4 CET384 
+Geotechnical
+investigation & 
+ground 
+improvement 
+techniques 
+4 4 CET386 
+Environmental 
+health& safety 
+4 4
+S7 
+CED481 
+MINI PROJECT 
+4 
+4 CED481 
+MINI PROJECT 
+4 4 CED481 
+MINI PROJECT 
+4 4
+S8 
+CED482 
+MINI PROJECT 
+4 
+4 CED482 
+MINI PROJECT 
+4 4 CED482 
+MINI PROJECT 
+4 4
+ 
+HONOURS 
+Honours is an additional credential a student may earn if s/he opts for the extra 20 credits needed for this 
+in her/his own discipline. Honours  is not indicative of class. KTU is providing this option for academically 
+extra brilliant students to acquire Honours. Honours is intended for a student to gain expertise/specialise 
+in an area inside his/her major B.Tech discipline and to enrich knowledge in emerging/advanced areas in 
+the branch of engineering concerned. It is particularly suited for students aiming to pursue higher studies. 
+Upon completion of Honours, a student will be better equipped to perform research in her/his branch of 
+engineering. On successful accumulation of credits at the end of the programme, this will be mentioned in 
+the Degree Certificate as “Bachelor of Technology in xxx, with Honours.” The fact will also be reflected in 
+the consolidated grade card, along with the list of courses taken. If one specified course cannot be earned 
+during the course of the programme, Honours will not be awarded. The individual course credits earned, 
+however, will be reflected in the consolidated grade card. 
+The courses shall be grouped into maximum of 3 groups, each group representing a particular 
+specialization in the branch. The students shall select only the courses from same group in all semesters. 
+It means that the specialization is to be fixed by the student and cannot be changed subsequently. The 
+internal evaluation, examination and grading shall be exactly as for other mandatory courses. The 
+Honours courses shall be identified by H slot courses. 
+ 
+(i) 
+The curriculum/syllabus committee/BOS shall prepare syllabus for courses to be included in 
+the curriculum from fourth to eight semesters for all branches. The honours courses shall be 
+identified by H slot courses. 
+143
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+(ii) 
+Registration is permitted for Honours at the beginning of fourth semester. Total credits 
+required is 182 (162 + 20 credits from value added courses). 
+(iii) 
+Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three courses 
+listed in the curriculum for honours, of which one course shall be a mini project based on the 
+chosen area. The remaining 8 credits could be acquired by undergoing 2 MOOCs 
+recommended by the Board of studies and approved by the Academic Council or through 
+courses listed in the curriculum. The classes for Honours shall be conducted along with 
+regular classes and no extra time shall be required for conducting the courses. The students 
+should earn a grade of ‘C’ or better for all courses under honours. 
+(iv) 
+There won’t be any supplementary examination for the courses chosen for honours. 
+(v) 
+On successful accumulation of credits at the end of the programme, “Bachelor of Technology 
+in xxx, with Honours” will be awarded if overall CGPA is greater than or equal to 8.5, earned a 
+grade of ‘C’ or better for all courses  chosen for honours and without any history of ‘F’ Grade. 
+(vi) 
+The registration for honours program will commence from semester 4 and the all academic 
+units offering honours in their discipline should prescribe set of such courses. The courses 
+shall be grouped into maximum of 3 groups, each group representing a particular 
+specialization in the branch. The students shall select only the courses from same group in all 
+semesters. It means that the specialization is to be fixed by the student and cannot be 
+changed subsequently. In any case, they should carry out a mini project based on the chosen 
+area in S8. Students who have registered for B.Tech Honours in CIVIL ENGINEERING  can opt 
+to study the courses listed below: 
+ 
+S
+e
+m
+e
+st
+er
+GROUP I 
+     
+GROUP II 
+GROUP III 
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name  
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S
+4 
+CET292 
+ADVANCED 
+MECHANICS OF 
+SOLIDS 
+4 4 CET294 
+PAVEMENT 
+CONSTRUCTION 
+AND 
+MANAGEMENT 
+4 4 CET296 
+GEOGRAPHICAL 
+INFORMATION 
+SYSTEMS 
+4 4
+S
+5 
+CET393 
+STRUCTURAL 
+DYNAMICS 
+4 4 CET395 
+TRANSPORTATION 
+SYSTEMS 
+MANAGEMENT 
+4 4 CET397 
+GROUND WATER 
+HYDROLOGY 
+4 4
+S
+6 
+CET394 
+FINITE ELEMENT 
+METHODS 
+4 4 CET396 
+EARTH DAMS AND 
+EARTH RETAINING 
+STRUCTURES 
+4 4 CET398 
+ENVIRONMENTAL 
+POLLUTION 
+MODELLING 
+4 4
+S
+7 
+CET495 
+MODERN 
+CONSTRUCTION 
+MATERIALS 
+4 4 CET497 
+SOIL DYNAMICS 
+AND MACHINE 
+FOUNDATIONS 
+4 4 CET499 
+ENVIRONMENTAL 
+POLLUTION 
+CONTROL 
+TECHNIQUES 
+4 4
+S
+8 
+CED496 
+MINI PROJECT 
+4 4 CED496 
+MINI PROJECT 
+4 4 CED496 
+MINI PROJECT 
+4 4
+ 
+ 
+144
+ 
+ 
+ 
+CIVIL ENGINEERING 
+ 
+INDUCTION PROGRAM 
+There will be three weeks induction program for first semester students. It is  a unique three-week 
+immersion Foundation Programme designed especially for the fresher’s which includes a wide range of 
+activities right from workshops, lectures and seminars to sports tournaments, social work and much 
+more. The programme is designed to mould students into well-rounded individuals, aware and sensitized 
+to local and global conditions and foster their creativity, inculcate values and ethics, and help students to 
+discover their passion. Foundation Programme also serves as a platform for the fresher’s to interact with 
+their batchmates and seniors and start working as a team with them. The program is structured around 
+the following five themes: 
+The programme is designed keeping in mind the following objectives: 
+● 
+Values and Ethics: Focus on fostering a strong sense of ethical judgment and moral fortitude. 
+● 
+Creativity: Provide channels to exhibit and develop individual creativity by expressing themselves 
+through art, craft, music, singing, media, dramatics, and other creative activities. 
+● 
+Leadership, Communication and Teamwork: Develop a culture of teamwork and group 
+communication. 
+● 
+Social Awareness: Nurture a deeper understanding of the local and global world and our place in 
+at as concerned citizens of the world. 
+● 
+Physical Activities & Sports: Engage students in sports and physical activity to ensure healthy 
+physical and mental growth. 
+145
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+Computer Science and Engineering 
+CURRICULUM FROM SEMESTERS I TO VIII 
+Every course of B. Tech. Programme shall be placed in one of the nine categories as listed in 
+table below. 
+ 
+Sl. 
+No 
+ 
+Category 
+ 
+Code 
+ 
+Credits 
+ 
+1 
+Humanities and Social Sciences including Management 
+courses 
+ 
+HMC
+ 
+5 
+2 
+Basic Science courses 
+BSC 
+26 
+3 
+Engineering Science Courses 
+ESC 
+22 
+4 
+Program Core Courses 
+PCC 
+79 
+5 
+Program Elective Courses 
+PEC 
+15 
+6 
+Open Elective Courses 
+OEC 
+3 
+7 
+Project work and Seminar 
+PWS 
+10 
+8 
+Mandatory Non-credit Courses (P/F) with grade 
+MNC
+-- 
+9 
+Mandatory Student Activities (P/F) 
+MSA 
+2 
+Total Mandatory Credits 
+162 
+10 
+Value Added Course (Optional) 
+VAC 
+20 
+ 
+No semester shall have more than five lecture-based courses and two laboratory and/or 
+drawing/seminar/project courses in the curriculum. Semester-wise credit distribution shall 
+be as below: 
+ 
+Sem 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+Total 
+Credits 
+17 
+21 
+22 
+22 
+23 
+23 
+15 
+17 
+160 
+Activity Points 
+50 
+50 
+--- 
+Credits for Activity 
+2 
+2 
+G.Total 
+162 
+Basic Science Courses: Maths, Physics, Chemistry, Biology for Engineers, Life Science etc 
+ 
+Engineering Science Courses: Engineering Graphics, Programming in C, Basics of 
+Electrical and Electronics Engineering, Basics of Civil and Mechanical Engineering, 
+146
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+Engineering Mechanics, Thermodynamics, Design Engineering, Materials Engineering, 
+Workshops etc. 
+Humanities and Social Sciences including Management courses: English, Humanities, 
+Professional Ethics, Management, Finance & Accounting, Life Skills, Professional 
+Communication, Economics etc 
+Mandatory Non-credit Courses: Environmental Science, Constitution of India/Essence of 
+Indian Knowledge Tradition, Industrial Safety Engineering, Disaster Management etc. 
+Course Code and Course Number 
+ 
+Each course is denoted by a unique code consisting of three alphabets followed by three 
+numerals like CSL 201. The first two letter code refers to the department offering the course. 
+CS stands for course in Computer Science & Engineering, course code MA refers to a course 
+in Mathematics, course code ES refers to a course in Engineering Science etc. Third letter 
+stands for the nature of the course as indicated in the following table. 
+ 
+Code 
+Description 
+ 
+T 
+Theory based courses (other than lecture hours, these courses can have tutorial 
+and practical hours, e.g., L-T-P structures 3-0-0, 3-1-2, 3-0-2 etc.) 
+L 
+Laboratory based courses (where performance is evaluated primarily on the basis 
+of practical or laboratory work with LTP structures like 0-0-3, 1-0-3, 0-1-3 etc.) 
+N 
+Non-credit courses 
+D 
+Project based courses (Major-, Mini- Projects) 
+Q 
+Seminar courses 
+Course Number is a three digit number and the first digit refers to the Academic year in 
+which the course is normally offered, i.e. 1, 2, 3, or 4 for the B. Tech. Programme of four year 
+duration. Of the other two digits, the last digit identifies whether the course is offered 
+normally in the odd (odd number), even (non-zero even number) or in both the semesters 
+(zero). The middle number could be any digit. CSL 201 is a laboratory course offered in 
+Computer Science and Engineering department for third semester, MAT 101 is a course in 
+Mathematics offered in the first semester, EET 344 is a theory course in Electrical 
+Engineering offered in the sixth semester, PHT 110 is a course in Physics offered both the 
+first and second semesters, EST 102 is a course in Basic Engineering offered by one or many 
+departments in the second semester. These course numbers are to be given in the curriculum 
+and syllabi. 
+147
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+Departments 
+ 
+Each course is offered by a Department and their two-letter course prefix is given in Table 2. 
+ 
+Sl. 
+No. 
+Department 
+Course
+Prefix 
+Sl. 
+No. 
+Department 
+Course 
+Prefix 
+1 
+Aeronautical Engg 
+AO 
+16 
+Information Technology 
+IT 
+2 
+Applied Electronics & 
+Instrumentation 
+AE 
+17 
+Instrumentation & Control
+IC 
+3 
+Automobile 
+AU 
+18 
+Mandatory Courses 
+MC 
+4 
+Biomedical Engg 
+BM 
+19 
+Mathematics 
+MA 
+5 
+Biotechnology 
+BT 
+20 
+Mechanical Engg 
+ME 
+6 
+Chemical Engg 
+CH 
+21 
+Mechatronics 
+MR 
+7 
+Chemistry 
+CY 
+22 
+Metallurgy 
+MT 
+8 
+Civil Engg 
+CE 
+23 
+Mechanical (Auto) 
+MU 
+9 
+Computer Science 
+CS 
+24 
+Mechanical (Prod) 
+MP 
+10 
+Electrical & Electronics 
+EE 
+25 
+Naval & Ship Building 
+SB 
+11 
+Electronics & Biomedical 
+EB 
+26 
+Physics 
+PH 
+12 
+Electronics & 
+Communication 
+EC 
+27 
+Polymer Engg 
+PO 
+13 
+Food Technology 
+FT 
+28 
+Production Engg 
+PE 
+14 
+Humanities 
+HU 
+29 Robotics and Automation 
+RA 
+15 
+Industrial Engg 
+IE 
+30 Safety & Fire Engg 
+FS 
+148
+COMPUTER SCIENCE AND ENGINEERING 
+SEMESTER I 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT 101
+LINEAR ALGEBRA AND 
+CALCULUS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 100 
+ENGINEERING PHYSICS A 
+3-1-0
+4 
+4 
+CYT 100
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+B A S I C S  OF C I V I L   & 
+M E C H A N I C A L 
+ENGINEERING 
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+E L E C T R O N I C S 
+ENGINEERING 
+4-0-0
+4 
+4 
+E 
+HUN 101
+LIFE SKILLS 
+2-0-2
+4 
+-- 
+S 
+1/2 
+PHL 120
+ENGINEERING PHYSICS 
+LAB 
+0-0-2
+2 
+1 
+CYL 120
+ENGINEERING CHEMISTRY 
+LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL 
+WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+E L E C T R I C A L 
+& 
+ELECTRONICS WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+23/24 
+17 
+149
+COMPUTER SCIENCE AND ENGINEERING 
+SEMESTER II 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT 102
+V E C T O R C A L C U L U S , 
+DIFFERENTIAL EQUATIONS 
+AND TRANSFORMS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 100
+ENGINEERING PHYSICS A 
+3-1-0
+4 
+4 
+CYT 100
+ENGINEERING CHEMISTRY
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+B A S I C S  OF C I V I L   & 
+M E C H A N I C A L 
+ENGINEERING 
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+E L E C T R O N I C S  
+ENGINEERING 
+4-0-0
+4 
+4 
+E 
+HUN 102 P R O F E S S I O N A L 
+COMMUNICATION 
+2-0-2
+4 
+-- 
+F 
+EST 102 
+PROGRAMMING IN C 
+2-1-2
+5 
+4 
+S 
+1/2 
+PHL 120
+ENGINEERING PHYSICS 
+LAB 
+0-0-2
+2 
+1 
+CYL 120
+ENGINEERING CHEMISTRY 
+LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL 
+WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+E L E C T R I C A L 
+& 
+ELECTRONICS WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+28/29 
+21 
+150
+COMPUTER SCIENCE AND ENGINEERING 
+NOTE: 
+1. Engineering Physics A and Engineering Chemistry shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches in
+the Institution to opt for Engineering Physics A in S1 and Engineering Chemistry in
+S2 & vice versa. Students opting for Engineering Physics A in a semester should
+attend Physics Lab in the same semester and students opting for Engineering
+Chemistry in one semester should attend Engineering Chemistry Lab in the same
+semester
+2. Engineering Mechanics and Engineering Graphics shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches in
+the Institution to opt for Engineering Mechanics in S1 and Engineering Graphics in
+S2 & vice versa.
+3. Basics of Civil & Mechanical Engineering and Basics of Electrical & Electronics
+Engineering shall be offered in both semesters. Basics of Civil & Mechanical
+Engineering contain equal weightage for Civil Engineering and Mechanical
+Engineering. Slot for the course is D with CIE marks of 25 each and ESE marks of 50
+each. Students belonging to branches of AEI, EI, BME, ECE, EEE, ICE, CSE, IT, RA
+can choose this course in S1.
+Basics of Electrical & Electronics Engineering contain equal weightage for Electrical
+Engineering and Electronics Engineering. Slot for the course is D with CIE marks of
+25 each and ESE marks of 50 each. Students belonging to AERO, AUTO, CE, FSE,
+IE, ME, MECHATRONICS, PE, METALLURGY, BT, BCE, CHEM, FT, POLY can
+choose this course in S1. Students having Basics of Civil & Mechanical Engineering
+in one semester should attend Civil & Mechanical Workshop in the same semester
+and students having Basics of Electrical & Electronics Engineering in a semester
+should attend Electrical & Electronics Workshop in the same semester.
+4. LIFE SKILLS
+Life skills are those competencies that provide the means for an individual to be resourceful
+and positive while taking on life's vicissitudes. Development of one's personality by being
+aware of the self, connecting with others, reflecting on the abstract and the concrete, leading
+and generating change, and staying rooted in time-tested values and principles is being aimed
+at. This course is designed to enhance the employability and maximize the potential of the
+students by introducing them to the principles that underlie personal and professional success,
+and help them acquire the skills needed to apply these principles in their lives and careers.
+5. PROFESSIONAL COMMUNICATION
+Objective is to develop in the under-graduate students of engineering a level of competence in
+English required for independent and effective communication for their professional needs.
+Coverage: Listening, Barriers to listening, Steps to overcome them, Purposive listening
+151
+COMPUTER SCIENCE AND ENGINEERING 
+practice, Use of technology in the professional world. Speaking, Fluency & accuracy in 
+speech, Positive thinking, Improving self-expression, Tonal variations, Group discussion 
+practice, Reading, Speed reading practice, Use of extensive readers, Analytical and critical 
+reading practice, Writing Professional Correspondence, Formal and informal letters, Tone in 
+formal writing, Introduction to reports. Study Skills, Use of dictionary, thesaurus etc., 
+Importance of contents page, cover & back pages, Bibliography, Language Lab. 
+SEMESTER III 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT 203
+DISCRETE MATHEMATICAL 
+STRUCTURES 
+3-1-0
+4 
+4 
+B 
+CST 201 
+DATA STRUCTURES 
+3-1-0
+4 
+4 
+C 
+CST 203 
+LOGIC SYSTEM DESIGN 
+3-1-0
+4 
+4 
+D 
+CST 205 
+O B J E C T O R I E N T E D
+PROGRAMMING 
+USING
+JAVA 
+3-1-0
+4 
+4 
+E 
+(1/2) 
+EST 200 
+DESIGN & ENGINEERING 
+2-0-0
+2 
+2 
+HUT 200
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN 201 S U S T A I N A B L E 
+ENGINEERING 
+2-0-0
+2 
+-- 
+S 
+CSL 201 
+DATA STRUCTURES LAB 
+0-0-3
+3 
+2 
+T 
+CSL 203 
+O B J E C T O R I E N T E D
+PROGRAMMING LAB (IN 
+JAVA) 
+0-0-3
+3 
+2 
+R/M 
+VAC 
+Remedial/Minor course 
+3-1-0
+4 
+4 
+TOTAL 
+26* 
+22/26 
+* Excluding Hours to be engaged for Remedial/Minor course.
+152
+COMPUTER SCIENCE AND ENGINEERING 
+SEMESTER IV 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT 206
+GRAPH THEORY 
+3-1-0
+4 
+4 
+B 
+CST 202 
+C 
+O 
+M 
+P 
+U 
+T 
+E 
+R
+O R G A N I S  ATION AND
+ARCHITECTURE 
+3-1-0
+4 
+4 
+C 
+CST 204 
+DATABASE MANAGEMENT 
+SYSTEMS 
+3-1-0
+4 
+4 
+D 
+CST 206 
+OPERATING SYSTEMS 
+3-1-0
+4 
+4 
+E 
+(1/2) 
+EST 200 
+DESIGN & ENGINEERING 
+2-0-0
+2 
+2 
+HUT 200
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN 202 
+CONSTITUTION OF INDIA 
+2-0-0
+2 
+-- 
+S 
+CSL 202 
+DIGITAL LAB 
+0-0-3
+3 
+2 
+T 
+CSL204 
+OPERATING SYSTEMS LAB 
+0-0-3
+3 
+2 
+R/M/ 
+H 
+VAC 
+Remedial/Minor/Honors course 
+3-1-0
+4 
+4 
+TOTAL 
+26* 
+22/26 
+* Excluding Hours to be engaged for Remedial/Minor/Honors course.
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.
+Institutions can advise students belonging to about 50% of the number of branches in
+the Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 &
+vice versa.
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor course
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for
+minor programme, he/she can be given remedial class.
+153
+COMPUTER SCIENCE AND ENGINEERING 
+SEMESTER V 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+CST 301
+FORMAL LANGUAGES AND 
+AUTOMATA THEORY 
+3-1-0
+4 
+4 
+B 
+CST 303
+COMPUTER NETWORKS 
+3-1-0
+4 
+4 
+C 
+CST 305
+SYSTEM SOFTWARE 
+3-1-0
+4 
+4 
+D 
+CST 307
+MICROPROCESSORS AND 
+MICROCONTROLLERS 
+3-1-0
+4 
+4 
+E 
+CST 309
+M A N A G E M E N T 
+O F 
+SOFTWARE SYSTEMS 
+3-0-0
+3 
+3 
+F 
+MCN 301 DISASTER MANAGEMENT 
+2-0-0
+2 
+-- 
+S 
+CSL 331
+SYSTEM SOFTWARE AND 
+MICROPROCESSORS LAB 
+0-0-4
+4 
+2 
+T 
+CSL 333
+DATABASE MANAGEMENT 
+SYSTEMS LAB 
+0-0-4
+4 
+2 
+R/M/ 
+H 
+VAC 
+Remedial/Minor/Honors course*
+2-0-0
+4 
+4 
+TOTAL 
+29* 
+23/27 
+* Excluding Hours to be engaged for Remedial/Minor/Honors course.
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/ Honors course
+(Tuesdays from 3 to 5 PM and Wednesdays from 3 to 5 PM). If a student does not opt for
+minor/honors programme, he/she can be given remedial class.
+154
+COMPUTER SCIENCE AND ENGINEERING 
+SEMESTER VI 
+SLOT
+COURS 
+E NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+CST 302
+COMPILER DESIGN 
+3-1-0
+4 
+4 
+B 
+CST 304
+COMPUTER GRAPHICS AND 
+IMAGE PROCESSING 
+3-1-0
+4 
+4 
+C 
+CST 306
+ALGORITHM ANA LYSIS 
+AND DESIGN 
+3-1-0
+4 
+4 
+D 
+CST --- 
+PROGRAM ELECTIVE I 
+2-1-0
+3 
+3 
+E 
+HUT 300
+INDUSTRIAL ECONOMICS 
+& FOREIGN TRADE 
+3-0-0
+3 
+3 
+F 
+CST 308
+COMPREHENSIVE COURSE 
+WORK 
+1-0-0
+1 
+1 
+S 
+CSL 332
+NETWORKING LAB 
+0-0-3
+3 
+2 
+T 
+CSD 334
+MINIPROJECT 
+0-0-3
+3 
+2 
+R/M/ 
+H 
+VAC 
+Remedial/Minor/Honors course*
+3-1-0
+4 
+4 
+TOTAL 
+25* 
+23/27 
+* Excluding Hours to be engaged for Remedial/Minor/Honors course.
+Note: 
+Electives: This curriculum envisages to offer a learner an opportunity to earn proficiency in 
+one of the five trending areas in Computer Science, namely Machine Learning, Data Science, 
+Security in Computing, Formal Methods in Software Engineering and Hardware 
+Technologies. Three courses each from the above areas are included through Elective 
+Courses in different Elective Buckets. For example, a learner who is interested in the 
+Machine Learning area may opt to take the elective courses - Foundations of Machine 
+Learning from Elective-I in S6, Machine Learning from Elective-II in S7 and Deep 
+Learning from Elective-III in S8. The Department may offer Elective Courses to enable 
+students to utilize this opportunity, depending on the availability of faculty. The courses 
+included from these areas under various Elective Buckets are shown in the table below. 
+155
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+ 
+ 
+Different Specializations introduced through various Elective Buckets 
+Bucke 
+t 
+ 
+Specialisation 
+Semester 
+S6 
+S7 
+S8 
+ 
+1 
+ 
+Machine Learning 
+FOUNDATIONS OF 
+M A C H I N E 
+LEARNING (E-I) 
+M A C H I N E 
+LEARNING (E-II) 
+DEEP LEARNING 
+(E-III) 
+ 
+2 
+ 
+Data Science 
+DATA ANALYTICS 
+(E-I) 
+C 
+L 
+O 
+U 
+D 
+COMPUTING (E-II) 
+BLOCK 
+CHAIN 
+TECHNOLOGIES 
+(E-V) 
+ 
+3 
+ 
+Security in Computing 
+FOUNDATIONS OF 
+SECURITY 
+IN 
+COMPUTING (E-I) 
+SECURITY IN 
+COMPUTING (E-II) 
+CRYPTOGRAPHY 
+(E-III) 
+ 
+4 
+ 
+Formal Methods in 
+Software Engineering 
+A U T O M A T E D 
+VERIFICATION (E- 
+I) 
+MODEL BASED 
+S  O  F  T W A  R  E 
+DEVELOPMENT 
+(E-II) 
+ 
+S  O  F  T W A  R  E 
+TESTING (E-V) 
+ 
+5 
+ 
+Hardware Technologies 
+INTRODUCTION 
+T O 
+I A 3 2 
+ARCHITECTURE 
+(E-I) 
+A  D V A  N  C  E  D 
+TOPICS IN IA32 
+ARCHITECTURE 
+(E-II) 
+U  N   I   F   I   E   D 
+E  X  T  E  N  D  E  D 
+F  I  R  M W A  R  E 
+INTERFACE (E-IV) 
+ 
+PROGRAM ELECTIVE I 
+ 
+ 
+SLOT
+COURSE 
+NO. 
+ 
+COURSES 
+ 
+L-T-P
+ 
+HOURS
+ 
+CREDIT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D 
+CST 312 
+i F O U N D A T I O N S O F 
+MACHINE LEARNING 
+2-1-0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CST 322 
+ii DATA ANALYTICS 
+2-1-0
+CST 332 
+iii FOUND ATIONS OF 
+SECURITY IN COMPUTING 
+2-1-0
+ 
+CST 342 
+i v A U T O M A T E D 
+VERIFICATION 
+ 
+2-1-0
+CST 352 
+v INTRODUCTION TO IA32 
+ARCHITECTURE 
+2-1-0
+ 
+CST 362 
+vi PROGRAMMING IN 
+PYTHON 
+ 
+2-1-0
+CST 372 
+vii DATA AND COMPUTER 
+COMMUNICATION 
+2-1-0
+156
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+COURSES TO BE CONSIDERED FOR COMPREHENSIVE COURSE WORK 
+I DISCRETE MATHEMATICAL STRUCTURES 
+ii DATA STRUCTURES 
+iii OPERATING SYSTEMS 
+iv COMPUTER ORGANIZATION AND ARCHITECTURE 
+v DATABASE MANAGEMENT SYSTEMS 
+vi FORMAL LANGUAGES AND AUTOMATA THEORY 
+ 
+NOTE: 
+ 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honors 
+course (Tuesdays from 3 to 5 PM and Wednesdays from 2 to 4 PM). If a student does 
+not opt for minor/honors programme, he/she can be given remedial class. 
+ 
+2. Comprehensive Course Work: The comprehensive course work in the sixth semester 
+of study shall have a written test of 50 marks. The written examination will be of 
+objective type similar to the GATE examination and will be conducted by the 
+University. Syllabus for comprehensive examination shall be prepared by the 
+respective BoS choosing the above listed 6 core courses studied from semesters 3 to 
+5. The pass minimum for this course is 25. The course should be mapped with a 
+faculty and classes shall be arranged for practicing questions based on the core 
+courses listed in the curriculum. 
+ 
+3. Mini project: It is introduced in the sixth semester with a specific objective to 
+strengthen the understanding of student’s fundamentals through effective application 
+of theoretical concepts. Mini project can help to boost their skills and widen the 
+horizon of their thinking. The ultimate aim of an engineering student is to resolve a 
+problem by applying theoretical knowledge. Doing more projects increases problem- 
+solving skills. Student Groups with 3 or 4 members should identify a topic of interest 
+in consultation with Faculty/Advisor. Review the literature and gather information 
+pertaining to the chosen topic. State the objectives and develop a methodology to 
+achieve the objectives. Carryout the design/fabrication or develop codes/programs to 
+achieve the objectives. Demonstrate the novelty of the project through the results and 
+outputs. The progress of the mini project is evaluated based on a minimum of two 
+reviews. The review committee may be constituted by the Head of the Department. A 
+project report is required at the end of the semester. The product has to be 
+157
+COMPUTER SCIENCE AND ENGINEERING 
+demonstrated for its full design specifications. Innovative design concepts, reliability 
+considerations, aesthetics/ergonomic aspects taken care of in the project shall be given 
+due weight. The internal evaluation will be made based on the product, the report and 
+a viva-voce examination, conducted internally by a 3 member committee appointed 
+by Head of the Department comprising HoD or a senior faculty member, Mini Project 
+coordinator for that program and project guide. 
+Total marks: 150 - CIE 75 marks and ESE 75 marks 
+Split up for CIE 
+Attendance 
+10 
+Project Guide 
+15 
+Project Report 
+10 
+Evaluation by the Committee (will be evaluating the level of completion and 
+demonstration of functionality/specifications, presentation, oral examination, work 
+knowledge and involvement) 
+40 
+SEMESTER VII 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+CST 401 
+ARTIFICIAL INTELLIGENCE
+2-1-0
+3 
+3 
+B 
+CST --- 
+PROGRAM ELECTIVE II 
+2-1-0
+3 
+3 
+C 
+CST --- 
+OPEN ELECTIVE 
+2-1-0
+3 
+3 
+D 
+MCN 401 
+IN D U S TR I A L SA FE TY 
+ENGINEERING 
+2-1-0
+3 
+--- 
+S 
+CSL 411 
+COMPILER LAB 
+0-0-3
+3 
+2 
+T 
+CSQ 413
+SEMINAR 
+0-0-3
+3 
+2 
+U 
+CSD 415
+PROJECT PHASE I 
+0-0-6
+6 
+2 
+R/M/ 
+H 
+VAC 
+Remedial/Minor/Honors 
+course* 
+3-1-0
+4 
+4 
+TOTAL 
+24* 
+15/19 
+* Excluding Hours to be engaged for Remedial/Minor/Honors course.
+158
+COMPUTER SCIENCE AND ENGINEERING 
+PROGRAM ELECTIVE II 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+B 
+CST 413 
+i MACHINE LEARNING 
+2-1-0
+3 
+3 
+CST 423 
+ii CLOUD COMPUTING 
+2-1-0
+CST 433 
+i i i 
+S E C U R I T Y 
+I N 
+COMPUTING 
+2-1-0
+CST 443 
+i v 
+M O D E L 
+B A S E D 
+SOFTWARE DEVELOPMENT
+2-1-0
+CST 453 
+v ADVANCED TOPICS IN 
+IA32 ARCHITECTURE 
+2-1-0
+CST 463 
+vi WEB PROGRAMMING 
+2-1-0
+CST 473 
+vii NATURAL LANGUAGE 
+PROCESSING 
+2-1-0
+OPEN ELECTIVE 
+The open elective is offered in semester 7. Each program should specify the courses 
+(maximum 5) they would like to offer as electives for other programs. The courses listed 
+below are offered by the Department of COMPUTER SCIENCE & ENGINEERING for 
+students of other undergraduate branches except Computer Science & Engineering and 
+Information Technology, offered in the colleges under KTU. 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT 
+B 
+CST 415 
+i INTRODUCTION TO 
+MOBILE COMPUTING 
+2-1-0
+3 
+3 
+CST 425 
+ii INTRODUCTION TO DEEP 
+LEARNING 
+2-1-0
+CST 435 
+iii COMPUTER GRAPHICS 
+2-1-0
+CST 445 
+iv PYTHON FOR 
+ENGINEERS 
+2-1-0
+CST 455 
+v OBJECT ORIENTED 
+CONCEPTS 
+2-1-0
+159
+COMPUTER SCIENCE AND ENGINEERING 
+NOTE: 
+1.
+All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honors
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12 Noon). If a student
+does not opt for minor/honors programme, he/she can be given remedial class.
+2.
+Seminar: To encourage and motivate the students to read and collect recent and
+reliable information about their area of interest confined to the relevant discipline,
+from technical publications including peer reviewed journals, conferences, books,
+project reports etc., prepare a report based on a central theme and present it before a
+peer audience. Each student shall present the seminar for about 20 minutes duration
+on the selected topic. The report and the presentation shall be evaluated by a team of
+faculty members comprising Academic coordinator for that program, seminar
+coordinator and seminar guide based on style of presentation, technical content,
+adequacy of references, depth of knowledge and overall quality of the report.
+Total marks: 100, only CIE, minimum required to pass 50
+Attendance 
+10 
+Seminar Guide 
+20 
+Technical Content of the Report 
+30 
+Presentation 
+40 
+3.
+Project Phase-I: A Project topic must be selected either from research literature or the
+students themselves may propose suitable topics in consultation with their guides. The
+objective of Project Work Phase-I is to enable the student to take up investigative
+study in the broad field of Computer Science and Engineering, either fully theoretical/
+practical or involving both theoretical and practical work to be assigned by the
+Department on a group of three/four students, under the mentoring of a Project
+Guide(s). This is expected to provide a good initiation for the student(s) in R&D
+work. The assignment shall normally include:
+➢
+Survey and study of published literature on the assigned topic;
+➢
+Preparing an Action Plan for conducting the investigation, including team
+work;
+➢
+Working out a preliminary Approach to the Problem relating to the assigned
+topic;
+➢
+Block level design documentation
+➢
+Conducting preliminary Analysis/ Modelling/ Simulation/ Experiment/
+Design/ Feasibility;
+160
+COMPUTER SCIENCE AND ENGINEERING 
+➢
+Preparing a Written Report on the Study conducted for presentation to the
+Department;
+➢
+Final project presentation before the concerned departmental committee.
+Total marks: 100, only CIE, minimum required to pass 50 
+Project Guide(s) 
+30 
+Interim evaluation by the evaluation committee 
+20 
+Final project presentation 
+30 
+Final evaluation by the evaluation committee 
+20 
+The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project guide(s). 
+SEMESTER VIII 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+CST 402
+DISTRIBUTED COMPUTING 
+2-1-0
+3 
+3 
+B 
+CST --- 
+PROGRAM ELECTIVE III 
+2-1-0
+3 
+3 
+C 
+CST --- 
+PROGRAM ELECTIVE IV 
+2-1-0
+3 
+3 
+D 
+CST --- 
+PROGRAM ELECTIVE V 
+2-1-0
+3 
+3 
+T 
+CST 404
+COMPREHENSIVE COURSE 
+VIVA 
+1-0-0
+1 
+1 
+U 
+CSD 416
+PROJECT PHASE II 
+0-0-12
+12 
+4 
+R/M/ 
+H 
+VAC 
+Remedial/Minor/Honors course 
+3-1-0
+4 
+4 
+TOTAL 
+25* 
+17/21 
+* Excluding Hours to be engaged for Remedial/Minor/Honors course.
+161
+COMPUTER SCIENCE AND ENGINEERING 
+PROGRAM ELECTIVE III 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+B 
+CST 414 
+i DEEP LEARNING 
+2-1-0
+3 
+3 
+CST 424 
+i i 
+P R O G R A M M I N G 
+PARADIGMS 
+2-1-0
+CST 434 
+iii CRYPTOGRAPHY 
+2-1-0
+CST 444 
+iv SOFT COMPUTING 
+2-1-0
+CST 454 
+v FUZZY SET THEORY AND 
+APPLICATIONS 
+2-1-0
+CST 464 
+vi EMBEDDED SYSTEMS 
+2-1-0
+CST 474 
+vii COMPUTER VISION 
+2-1-0
+PROGRAM ELECTIVE IV 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+C 
+CST 416
+i FORMAL METHODS AND 
+TO O L S I N S O F T WA R E 
+ENGINEERING 
+2-1-0
+3 
+3 
+CST 426
+i i C L I E N T S E R V E R 
+ARCHITECTURE 
+2-1-0
+CST 436
+iii PARALLEL COMPUTING 
+2-1-0
+CST 446
+iv DATA COMPRESSION 
+TECHNIQUES 
+2-1-0
+CST 456
+v UNIFIED EXTENDED 
+FIRMWARE INTERFACE 
+2-1-0
+CST 466
+vi DATA MINING 
+2-1-0
+CST 476
+vii MOBILE COMPUTING 
+2-1-0
+162
+COMPUTER SCIENCE AND ENGINEERING 
+PROGRAM ELECTIVE V 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+D 
+CST 418 
+i HIGH PERFORMANCE 
+COMPUTING 
+2-1-0
+3 
+3 
+CST 428 
+ii BLOCK CHAIN 
+TECHNOLOGIES 
+2-1-0
+CST 438 
+iii IMAGE PROCESSING 
+TECHNIQUE 
+2-1-0
+CST 448 
+iv INTERNET OF THINGS 
+2-1-0
+CST 458 
+v SOFTWARE TESTING 
+2-1-0
+CST 468 
+vi BIOINFORMATICS 
+2-1-0
+CST 478 
+vii COMPUTATIONAL 
+LINGUISTICS 
+2-1-0
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honors
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12 PM). If a student does
+not opt for minor/honors programme, he/she can be given remedial class.
+2. Comprehensive Viva Voce: The comprehensive viva voce in the eighth semester of
+study shall have a viva voce for 50 marks. The viva voce shall be conducted based on
+the core subjects studied from third to eighth semester. The viva voce will be
+conducted by the same three member committee assigned for final project phase II
+evaluation towards the end of the semesters. The pass minimum for this course is 25.
+The course should be mapped with a faculty and classes shall be arranged for
+practicing questions based on the core courses listed in the curriculum. The mark will
+be treated as internal and should be uploaded along with internal marks of other
+courses.
+3. Project Phase II: The objective of Project Work Phase II & Dissertation is to enable
+the student to extend further the investigative study taken up in Project Phase I, either
+fully theoretical/practical or involving both theoretical and practical work, under the
+mentoring of a Project Guide from the Department alone or jointly with a Supervisor
+drawn from R&D laboratory/Industry. This is expected to provide a good training for
+the student(s) in R&D work and technical leadership. The assignment shall normally
+include:
+163
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+➢ In depth study of the topic assigned in the light of the Report prepared in 
+Phase I; 
+➢ Review and finalization of the Approach to the Problem relating to the 
+assigned topic; 
+➢ Detailed Analysis/Modeling/Simulation/Design/Problem Solving/Experiment 
+as needed; 
+➢ Final development of product/process, testing, results, conclusions and future 
+directions; 
+➢ Preparing a paper for Conference presentation/Publication in Journals, if 
+possible; 
+➢ Preparing a Dissertation in the standard format for being evaluated by the 
+Department; 
+➢ Final Presentation before the concerned evaluation committee 
+ 
+Total marks: 150, only CIE, minimum required to pass 75 
+Project Guide 
+30 
+Interim evaluation, twice in the semester by the evaluation committee 
+70 
+Quality of the report evaluated by the above committee 
+10 
+(The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project guide). 
+Final evaluation by a three member committee 
+40 
+ 
+(The final evaluation committee comprises Project coordinator, expert from Industry/ 
+research Institute and a senior faculty from a sister department. The same committee 
+will conduct comprehensive course viva for 50 marks ). 
+MINOR 
+ 
+Minor is an additional credential a student may earn if she/he does 20 credits worth of 
+additional learning in a discipline other than her/his major discipline of B.Tech. degree. The 
+objective is to permit a student to customize their Engineering degree to suit their specific 
+interests. Upon completion of an Engineering Minor, a student will be better equipped to 
+perform interdisciplinary research and will be better employable. Engineering Minors allow a 
+student to gain interdisciplinary experience and exposure to concepts and perspectives that 
+may not be a part of their major degree programs. 
+The academic units offering minors in their discipline will prescribe the set of courses and/or 
+other activities like projects necessary for earning a minor in that discipline. A specialist 
+bucket of 3-6 courses is identified for each Minor. Each bucket may rest on one or more 
+164
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+foundation courses. A bucket may have sequences within it, i.e., advanced courses may rest 
+on basic courses in the bucket. She/he accumulates credits by registering for the required 
+courses, and if the requirements for a particular minor are met within the time limit for the 
+course, the minor will be awarded. This will be mentioned in the Degree Certificate as 
+“Bachelor of Technology in xxx with Minor in yyy”. The fact will also be reflected in the 
+consolidated grade card, along with the list of courses taken. If one specified course cannot 
+be earned during the course of the programme, that minor will not be awarded. The 
+individual course credits earned, however, will be reflected in the consolidated grade card. 
+(i) The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be included 
+in the curriculum from third to eight semesters for all branches. The minor courses shall be 
+identified by M slot courses. 
+(ii) Registration is permitted for Minor at the beginning of third semester. Total credits 
+required to award B.tech with Minor is 182 (162 + 20) 
+(iii) Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three courses, of 
+which one course shall be a mini project based on the chosen area. They can do miniproject either 
+in S7 or in S8. The remaining 8 credits could be acquired through 2 MOOCs recommended by the 
+Board of Studies and approved by the Academic Council or 2 courses from the minor buckets listed 
+here. The classes for Minor shall be conducted along with regular classes and no extra time 
+shall be required for conducting the courses. 
+(iv) There won’t be any supplementary examination for the courses chosen for Minor. 
+ 
+(v) On completion of the program, “Bachelor of Technology in xxx with Minor in yyy” will be 
+awarded if the registrant earn 20 credits form the minor courses. 
+(vi) The registration for minor program will commence from semester 3 and all the academic units 
+offering  minors  in  their  discipline  should  prescribe  set  of  such  courses.  The  courses  shall be 
+grouped into maximum of 5 buckets. The bucket of courses may have sequences within it, i.e., 
+advanced courses may rest on basic courses in the bucket. Reshuffling of courses between various 
+buckets will not be allowed. There is option to skip any two courses listed here and to opt for 
+equivalent MOOC courses approved by the Academic Council. In any case, they should carry 
+out a mini project based on the chosen area in S7 or S8. For example: Students who have 
+registered for B.Tech Minor in Computer Science & Engineering can opt to study the 
+courses listed below: 
+165
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+ 
+MINOR BUCKETS 
+ 
+S 
+E 
+M 
+E 
+S 
+T 
+E 
+R 
+BUCKET-1 
+BUCKET-2 
+BUCKET-3 
+Specialization - Software 
+Engineering 
+Specialization - Machine 
+Learning 
+Specialization - Networking 
+ 
+CO 
+UR 
+SE 
+NO
+ 
+ 
+COURSE NAME 
+H 
+O 
+U 
+R 
+S
+C
+R
+E 
+D
+I 
+T
+ 
+CO 
+URS 
+E 
+NO 
+ 
+ 
+COURSE 
+NAME 
+H 
+O 
+U 
+R 
+S
+C 
+R 
+E 
+D 
+I 
+T
+ 
+CO 
+URS 
+E 
+NO 
+ 
+ 
+COURSE 
+NAME 
+H
+O
+U 
+R 
+S
+C 
+R 
+E 
+D 
+I 
+T
+ 
+S3
+CST 
+281 
+OBJECT 
+ORIENTED 
+PROGRAMMING 
+ 
+4
+ 
+4
+CST 
+283 
+PYTHON FOR 
+MACHINE 
+LEARNING 
+ 
+4
+ 
+4
+CST 
+285 
+DATA 
+COMMUNICAT 
+ION 
+ 
+4
+ 
+4
+ 
+S4
+ 
+CST 
+282 
+PROGRAMMING 
+METHODOLOGIE 
+S 
+ 
+4
+ 
+4
+ 
+CST 
+284 
+MATHEMATIC 
+S FOR 
+MACHINE 
+LEARNING 
+ 
+4
+ 
+4
+ 
+CST 
+286 
+INTRODUCTIO 
+N TO 
+COMPUTER 
+NETWORKS 
+ 
+4
+ 
+4
+ 
+S5
+CST 
+381 
+CONCEPTS IN 
+SOFTWARE 
+ENGINEERING 
+ 
+4
+ 
+4
+CST 
+383 
+CONCEPTS IN 
+MACHINE 
+LEARNING 
+ 
+4
+ 
+4
+CST 
+385 
+CLIENT 
+SERVER 
+SYSTEMS 
+ 
+4
+ 
+4
+ 
+ 
+S6
+ 
+CST 
+382 
+ 
+INTRODUCTION 
+TO SOFTWARE 
+TESTING 
+ 
+ 
+4
+ 
+ 
+4
+ 
+CST 
+384 
+ 
+CONCEPTS IN 
+DEEP 
+LEARNING 
+ 
+ 
+4
+ 
+ 
+4
+ 
+CST 
+386 
+WIRELESS 
+NETWORKS 
+AND IOT 
+APPLICATION 
+S 
+ 
+ 
+4
+ 
+ 
+4
+S7
+CSD 
+481 
+Miniproject 
+4 4
+CSD 
+481 
+Miniproject 
+4
+4
+CSD 
+481 
+Miniproject 
+4
+4
+S8
+CSD 
+482 
+Miniproject 
+4 4
+CSD 
+482 
+Miniproject 
+4
+4
+CSD 
+482 
+Miniproject 
+4
+4
+Note-1: Name of the specialization shall be mentioned in the Minor Degree to be awarded 
+Note-2: Any B.Tech students from non-Computer Science/non-IT streams can register for the courses in the 
+minor buckets. 
+166
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+HONORS 
+ 
+Honors is an additional credential a student may earn if she/he opts for the extra 20 credits 
+needed for this in her/his own discipline. Honors is not indicative of a class. The University is 
+providing this option for academically extra brilliant students to acquire Honors. Honors is 
+intended for a student to gain expertise/get specialized in an area inside his/her major B.Tech 
+discipline and to enrich knowledge in emerging/advanced areas in the concerned branch of 
+engineering. It is particularly suited for students aiming to pursue higher studies. Upon 
+completion of Honors, a student will be better equipped to perform research in her/his  
+branch of engineering. On successful accumulation of credits at the end of the programme, 
+this will be mentioned in the Degree Certificate as “Bachelor of Technology in xxx, with 
+Honors.” The fact will also be reflected in the consolidated grade card, along with the list of 
+courses taken. If a student is not earning credits for any one of the specified course for getting 
+Honors, she/he is not entitled to get Honors. The individual course credits earned, however, 
+will be reflected in the consolidated grade card. 
+ 
+The courses shall be grouped into maximum of 3 buckets, each bucket representing a 
+particular specialization in the branch. The students shall select only the courses from same 
+bucket in all semesters. It means that the specialization is to be fixed by the student and 
+cannot be changed subsequently. The internal evaluation, examination and grading shall be 
+exactly as for other mandatory courses. The Honors courses shall be identified by H slot 
+courses. 
+ 
+(i) 
+The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be 
+included in the curriculum from fourth to eight semesters for all branches. The 
+Honors courses shall be identified by H slot courses. 
+(ii) 
+Registration is permitted for Honors at the beginning of fourth semester. Total 
+credits required is 182 (162 + 20). 
+(iii) 
+Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of 
+three courses, of which one course shall be a mini project based on the chosen 
+area. The remaining 8 credits could be acquired through 2 MOOCs recommended 
+by the Board of studies and approved by the Academic Council or 2 courses from 
+the same bucket as the above 3 courses. The classes for Honors shall be conducted 
+along with regular classes and no extra time shall be required for conducting the 
+courses. The students should earn a grade of ‘C’ or better for all courses under 
+Honors. 
+(iv) 
+There won’t be any supplementary examination for the courses chosen for 
+Honors. 
+(v) 
+On successful accumulation of credits at the end of the programme, “Bachelor of 
+Technology in xxx, with Honors” will be awarded if overall CGPA is greater than 
+167
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+or equal to 8.5, earned a grade of ‘C’ or better for all courses chosen for Honors 
+and there is no history of ‘F’ Grade in the entire span of the BTech Course. 
+(vi) 
+The registration for Honors program will commence from semester 4 and the all 
+academic units offering Honors in their discipline should prescribe set of such 
+courses. The courses shall be grouped into maximum of 5 buckets, each bucket 
+representing a particular specialization in the branch. The students shall select 
+only the courses from same bucket in all semesters. It means that the 
+specialization is to be fixed by the student and cannot be changed subsequently. 
+There is option to skip any two courses listed here if required, and to opt for 
+equivalent MOOC courses approved by the Academic Council. In any case, they 
+should carry out a mini project based on the chosen area in S8. For example: 
+Students who have registered for B.Tech in Computer Science and Engineering 
+with Honors can opt to study the courses listed in one of the buckets shown 
+below: 
+168
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+ 
+ 
+HONORS BUCKETS 
+ 
+S 
+E 
+M 
+E 
+S 
+T 
+E 
+R 
+BUCKET-1 
+BUCKET-2 
+BUCKET-3 
+Specialization - Security in 
+Computing 
+Specialization - Machine 
+Learning 
+Specialization - Formal 
+Methods 
+ 
+CO 
+URS 
+E 
+NO
+ 
+ 
+COURSE NAME
+H 
+O 
+U 
+R 
+S
+C
+R
+E 
+D
+I 
+T
+ 
+CO 
+URS 
+E 
+NO 
+ 
+ 
+COURSE 
+NAME 
+H 
+O 
+U 
+R 
+S
+C 
+R 
+E 
+D 
+I 
+T
+ 
+CO 
+UR 
+SE 
+NO 
+ 
+ 
+COURSE 
+NAME 
+H
+O
+U 
+R 
+S
+C
+R
+E 
+D
+I 
+T
+ 
+ 
+S4
+ 
+ 
+CST 
+292 
+ 
+ 
+NUMBER 
+THEORY 
+ 
+ 
+4
+ 
+ 
+4
+ 
+ 
+CST 
+294 
+COMPUTATIO 
+NAL 
+FUNDAMENT 
+ALS FOR 
+MACHINE 
+LEARNING 
+ 
+ 
+4
+ 
+ 
+4
+ 
+ 
+CST 
+296 
+ 
+PRINCIPLES 
+OF PROGRAM 
+ANALYSIS 
+AND 
+VERIFICATION
+ 
+ 
+4
+ 
+ 
+4
+ 
+S5
+ 
+CST 
+393 
+ 
+CRYPTOGRAPHI 
+C ALGORITHMS 
+ 
+4
+ 
+4
+ 
+CST 
+395 
+NEURAL 
+NETWORKS 
+AND DEEP 
+LEARNING 
+ 
+4
+ 
+4
+ 
+CST 
+397 
+PRINCIPLES 
+OF MODEL 
+CHECKING 
+ 
+4
+ 
+4
+ 
+S6
+ 
+CST 
+394 
+ 
+NETWORK 
+SECURITY 
+ 
+4
+ 
+4
+ 
+CST 
+396 
+ADVANCED 
+TOPICS IN 
+MACHINE 
+LEARNING 
+ 
+4
+ 
+4
+ 
+CST 
+398 
+THEORY OF 
+COMPUTABILI 
+TY AND 
+COMPLEXITY 
+ 
+4
+ 
+4
+ 
+ 
+S7
+ 
+CST 
+495 
+ 
+CYBER 
+FORENSICS 
+ 
+ 
+4
+ 
+ 
+4
+ 
+CST 
+497 
+ADVANCED 
+TOPICS IN 
+ARTIFICIAL 
+INTELLIGENC 
+E 
+ 
+ 
+4
+ 
+ 
+4
+ 
+CST 
+499 
+ 
+LOGIC FOR 
+COMPUTER 
+SCIENCE 
+ 
+ 
+4
+ 
+ 
+4
+S8
+CSD 
+496 
+Miniproject 
+4 4
+CSD 
+496 
+Miniproject 
+4
+4
+CSD 
+496 
+Miniproject 
+4
+4
+Note: Name of the specialization shall be mentioned in the Honors Degree to be awarded 
+169
+ 
+ 
+ 
+ 
+ 
+COMPUTER SCIENCE AND ENGINEERING 
+ 
+INDUCTION PROGRAM 
+ 
+There will be three weeks induction program for first semester students. It is a unique three- 
+week immersion Foundation Programme designed specifically for the fresher’s which 
+includes a wide range of activities right from workshops, lectures and seminars to sports 
+tournaments, social works and much more. The programme is designed to mould students 
+into well-rounded individuals, aware and sensitized to local and global conditions and foster 
+their creativity, inculcate values and ethics, and help students to discover their passion. 
+Foundation Programme also serves as a platform for the fresher’s to interact with their batch- 
+mates and seniors and start working as a team with them. The program is structured around 
+the following five themes: 
+The programme is designed keeping in mind the following objectives: 
+ 
+Values and Ethics: Focus on fostering a strong sense of ethical judgment and moral 
+fortitude. 
+ 
+Creativity: Provide channels to exhibit and develop individual creativity by 
+expressing themselves through art, craft, music, singing, media, dramatics, and other 
+creative activities. 
+ 
+Leadership, Communication and Teamwork: Develop a culture of teamwork and 
+group communication. 
+ 
+Social Awareness: Nurture a deeper understanding of the local and global world and 
+our place in at as concerned citizens of the world. 
+ 
+Physical Activities & Sports: Engage students in sports and physical activity to 
+ensure healthy physical and mental growth. 
+170
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+CURRICULUM I TO VIII: B.Tech  ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Every course of B. Tech. Program shall be placed in one of the nine categories as listed in table 
+below. 
+Sl. 
+No 
+Category 
+Code 
+Credits
+ 
+1 
+Humanities and Social Sciences including Management 
+courses 
+HMC 
+8 
+ 
+2 
+Basic Science courses 
+BSC 
+26 
+3 
+Engineering Science Courses 
+ESC 
+22 
+ 
+4 
+Program Core Courses 
+PCC 
+76 
+ 
+5 
+Program Elective Courses 
+PEC 
+15 
+6 
+Open Elective Courses 
+OEC 
+3 
+7 
+Project work and Seminar 
+PWS 
+10 
+8 
+Mandatory Non-credit Courses (P/F) with grade 
+MNC 
+----- 
+9 
+Mandatory Student Activities (P/F) 
+MSA 
+2 
+ 
+Total Mandatory Credits 
+162 
+ 
+10 
+Value Added Course (Optional) 
+VAC 
+20 
+ 
+ 
+ 
+No semester shall have more than six lecture-based courses and two laboratory and/or 
+drawing/seminar/project courses in the curriculum.  
+                   Semester-wise credit distribution shall be as below: 
+Semester 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+Total 
+Credits 
+17 
+21 
+22 
+22 
+23 
+23 
+15 
+17 
+160 
+Activity 
+Points 
+50 
+ 
+50 
+--- 
+ 
+Credits 
+for 
+Activity 
+2 
+2 
+ 
+Grand.Total 
+ 
+162 
+ 
+ 
+ 
+ 
+193
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Basic Science Courses: Maths, Physics, Chemistry, Biology for Engineers, Life Science etc 
+Engineering science courses: Basic Electrical, Engineering Graphics, Programming, Workshop, 
+Basic Electronics, Basic Civil, Engineering Mechanics, Mechanical Engineering, Thermodynamics, 
+Design Engineering, Materials Engineering etc. 
+ 
+Humanities and Social Sciences including Management courses: English, Humanities, Professional 
+Ethics, Management, Finance & Accounting, Life skills, Professional Communication, Economics 
+etc 
+ 
+Mandatory non-credit courses: Sustainable Engineering, Constitution of India/Essence of Indian 
+Knowledge Tradition, Industrial Safety Engineering, disaster management etc. 
+ 
+Course Code and Course Number 
+ 
+Each course is denoted by a unique code consisting of three alphabets followed by three 
+numerals like E C L 2 0 1. The first two letter code refers to the department offering the course. 
+EC stands for course in Electronics & Communication, course code MA refers to a course in 
+Mathematics, course code ES refers to a course in Engineering Science etc. Third letter stands for 
+the nature of the course as indicated in the following table.  
+ 
+Code 
+Description 
+T 
+Theory based courses (other the lecture hours, these courses can have tutorial 
+and practical hours, e.g., L-T-P structures 3-0-0, 3-1-2, 3-0-2 etc.) 
+L 
+Laboratory based courses (where performance is evaluated primarily on the basis 
+of practical or laboratory work with LTP structures like 0-0-3, 1-0-3, 0-1-3 etc.)
+N 
+Non-credit courses 
+D
+Project based courses (Major, Mini Projects)
+Q 
+Seminar Courses 
+ 
+Course Number is a three digit number and the first digit refers to the Academic year in which 
+the course is normally offered, i.e. 1, 2, 3, or 4 for the B. Tech. Programme of four year duration. 
+Of the other two digits, the last digit identifies whether the course is offered normally in the odd 
+(odd number), even (even number) or in both the semesters (zero). The middle number could be 
+any digit. ECL 201 is a laboratory course offered in EC department for third semester, MAT 101 is 
+a course in Mathematics offered in the first semester, EET 344 is a course in Electrical 
+Engineering offered in the sixth semester, PHT 110 is a course in Physics offered both the first 
+and second semesters, EST 102 is a course in Basic Engineering offered by one or many 
+departments. These course numbers are to be given in the curriculum and syllabi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+194
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Departments 
+Each course is offered by a Department and their two-letter course prefix is given in Table 2.  
+Table 2: Departments and their codes 
+Sl.No
+Department 
+Course 
+Prefix 
+Sl.No
+Department 
+Course 
+Prefix 
+ 
+01 
+Aeronautical Engg 
+AO 
+16 
+Information 
+Technology 
+IT 
+02 
+Applied Electronics & 
+Instrumentation 
+AE 
+17 
+Instrumentation & 
+Control 
+IC 
+03 
+Automobile 
+AU 
+18 
+Mandatory Courses 
+MC 
+04 
+Biomedical Engg 
+BM 
+19 
+Mathematics 
+MA 
+05 
+Biotechnology 
+BT 
+20 
+Mechanical Engg 
+ME 
+06 
+Chemical Engg 
+CH 
+21 
+Mechatronics 
+MR 
+07 
+Chemistry 
+CY 
+22 
+Metallurgy 
+MT 
+08 
+Civil Engg 
+CE 
+23 
+Mechanical (Auto) 
+ 
+MU 
+09 
+Computer Science 
+CS 
+24 
+Mechanical(Prod) 
+MP 
+10 
+Electrical & Electronics 
+EE 
+25 
+Naval & Ship Building 
+SB 
+11 
+Electronics & Biomedical 
+EB 
+26 
+Physics 
+PH 
+12 
+Electronics & 
+Communication 
+EC 
+27 
+Polymer Engg 
+PO 
+13 
+Food Technology 
+FT 
+28 
+Production Engg 
+PE 
+14 
+Humanities 
+HU 
+29 
+Robotics and 
+Automation 
+RA 
+15 
+Industrial Engg 
+IE 
+30 
+Safety & Fire Engg 
+FS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+195
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+SEMESTER I 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+ 
+A 
+MAT 101 
+LINEAR ALGEBRA AND CALCULUS 
+3-1-0 
+4 
+4 
+ 
+B 
+1/2 
+PHT 100 
+ENGINEERING PHYSICS A 
+3-1-0 
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0 
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0 
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2 
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING
+4-0-0 
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING 
+4-0-0 
+4 
+4 
+ 
+E 
+HUN 101 
+LIFE SKILLS 
+2-0-2 
+4 
+-- 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2 
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2 
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2 
+2 
+1 
+ 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP 
+0-0-2 
+2 
+1 
+ 
+TOTAL 
+ 
+23/24 * 
+17 
+ 
+ 
+*Minimum hours per week 
+Note: 
+To make up for the hours lost due to induction program, one extra hour may be allotted to each 
+course 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+196
+ELECTRONICS & COMMUNICATION ENGINEERING
+SEMESTER II 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+MAT 102 
+VECTOR CALCULUS, DIFFERENTIAL 
+EQUATIONS AND TRANSFORMS
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 100 
+ENGINEERING PHYSICS A 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING 
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING 
+4-0-0
+4 
+4 
+E 
+HUN 102 
+PROFESSIONAL COMMUNICATION 
+2-0-2
+4 
+-- 
+F 
+EST 102 
+PROGRAMMING IN C 
+2-1-2
+5 
+4 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP
+0-0-2
+2 
+1 
+TOTAL 
+28/29 
+21 
+NOTE: 
+1.
+Engineering Physics A and Engineering Chemistry shall be offered in both semesters.  Institutions
+can advise students belonging to about 50% of the number of branches in the Institution to opt
+for Engineering Physics A in SI and Engineering Chemistry in S2 & vice versa. Students opting for
+Engineering Physics A in a semester should attend Physics Lab in the same semester and students
+opting for Engineering Chemistry in one semester should attend Engineering Chemistry Lab in the
+same semester.
+2.
+Engineering Mechanics and Engineering Graphics shall be offered in both semesters.  Institutions
+can advise students belonging to about 50% of the number of branches in the Institution to opt
+for Engineering Mechanics in SI and Engineering Graphics in S2 & vice versa.
+3.
+Basics of Civil & Mechanical Engineering and Basics of Electrical & Electronics Engineering shall be
+offered in both semesters.  Basics of Civil & Mechanical Engineering contain equal weightage for
+197
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Civil Engineering and Mechanical Engineering. Slot for the course is D with CIE marks of 25 each 
+and ESE marks of 50 each.  Students belonging to branches of AEI, EI, BME, ECE, EEE, ICE, CSE, IT, 
+RA can choose this course in S1. 
+Basics of Electrical & Electronics Engineering contain equal weightage for Electrical Engineering 
+and Electronics Engineering. Slot for the course is D with CIE marks of 25 each and ESE marks of 
+50 each.  Students belonging to AERO, AUTO, CE, FSE, IE, ME, MECHATRONICS, PE, METTULURGY, 
+BT, BCE, CHEM, FT, POLY can choose this course in S1. Students having Basics of Civil & 
+Mechanical Engineering in one semester should attend Civil & Mechanical Workshop in the same 
+semester and students having Basics of Electrical & Electronics Engineering in a semester should 
+attend Electrical & Electronics Workshop in the same semester.  
+ 
+4. LIFE SKILLS 
+Life skills are those competencies that provide the means for an individual to be resourceful and 
+positive while taking on life's vicissitudes. Development of one's personality by being aware of 
+the self, connecting with others, reflecting on the abstract and the concrete, leading and 
+generating change, and staying rooted in time-tested values and principles is being aimed at. This 
+course is designed to enhance the employability and maximize the potential of the students by 
+introducing them to the principles that underlie personal and professional success, and help them 
+acquire the skills needed to apply these principles in their lives and careers.  
+ 
+5. PROFESSIONAL COMMUNICATION 
+Objective is to develop in the under-graduate students of engineering a level of competence in 
+English required for independent and effective communication for their professional needs. 
+Coverage: Listening, Barriers to listening, Steps to overcome them, Purposive listening practice, 
+Use of technology in the professional world. Speaking, Fluency & accuracy in speech, Positive 
+thinking, Improving self-expression, Tonal variations, Group discussion practice, Reading,  Speed 
+reading practice, Use of extensive readers, Analytical and critical reading practice, Writing 
+Professional Correspondence, Formal and informal letters, Tone in formal writing, Introduction to 
+reports. Study Skills, Use of dictionary, thesaurus etc., Importance of contents page, cover & back 
+pages, Bibliography, Language Lab. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+198
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester III 
+ 
+SLOT
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT201 
+PARTIAL DIFFERENTIAL 
+EQUATION AND COMPLEX 
+ANALYSIS
+3-1-0
+4 
+4 
+B 
+ECT 201 
+SOLID STATE DEVICES 
+3-1-0
+4 
+4 
+C 
+ECT 203 
+LOGIC CIRCUIT DESIGN 
+3-1-0
+4 
+4 
+D 
+ECT 205 
+NETWORK THEORY 
+3-1-0
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN AND ENGINEERING 
+2-0-0
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN201 
+SUSTAINABLE ENGINEERING 
+2-0-0
+2 
+-- 
+S 
+ECL 201 
+SCIENTIFIC COMPUTING LAB 
+0-0-3
+3 
+2 
+T 
+ECL 203 
+LOGIC DESIGN LAB 
+0-0-3
+3 
+2 
+R/M 
+VAC 
+Remedial/Minor course 
+3-1-0
+4** 
+4 
+TOTAL
+ 
+26/30
+22/26 
+ 
+ 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches in the 
+Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & vice 
+versa.  
+ 
+2. *All Institutions shall keep 4 hours exclusively for Remedial class/Minor course 
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for 
+minor programme, he/she can be given remedial class. 
+ 
+ 
+ 
+ 
+ 
+ 
+199
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester IV 
+ 
+SLOT 
+COURSE 
+NO.
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+MAT 204
+PROBABILITY, RANDOM PROCESS 
+AND NUMERICAL METHODS
+3-1-0
+4 
+4 
+B 
+ECT 202 
+ANALOG CIRCUITS 
+3-1-0
+4 
+4 
+C 
+ECT 204 
+SIGNALS AND SYSTEMS 
+3-1-0
+4 
+4 
+D 
+ECT 206   COMPUTER ARCHITECTURE AND    
+MICROCONTROLLERS
+3-1-0
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN AND ENGINEERING 
+2-0-0
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN202
+CONSTITUTION OF INDIA 
+2-0-0
+2 
+-- 
+S 
+ECL 202 
+ANALOG CIRCUITS AND 
+SIMULATION LAB 
+0-0-3
+3 
+2 
+T 
+ECL 204   MICROCONTROLLER LAB 
+0-0-3
+3 
+2 
+R/M/H
+VAC 
+Remedial/Minor/Honours 
+course 
+3-1-0
+4** 
+4 
+TOTAL
+ 
+26/30
+22/26 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches in the 
+Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & vice 
+versa. 
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor course 
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for 
+minor programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+200
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester V 
+ 
+SLOT 
+COURSE 
+NO.
+COURSES 
+L-T-P 
+HOURS
+CREDIT 
+A 
+ECT 301 
+LINEAR INTEGRATED CIRCUITS 
+3-1-0 
+4 
+4 
+B 
+ECT 303 
+DIGITAL SIGNAL PROCESSING 
+3-1-0 
+4 
+4 
+C 
+ECT 305   ANALOG AND DIGITAL 
+COMMUNICATION 
+3-1-0 
+4 
+4 
+D 
+ECT 307 
+CONTROL SYSTEMS 
+3-1-0 
+4 
+4 
+E 
+1/2 
+HUT300 
+INDUSTRIAL ECONOMICS AND 
+FOREIGN TRADE
+3-0-0 
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0 
+3 
+3 
+F 
+MCN301
+DISASTER MANAGEMENT 
+2-0-0 
+2 
+-- 
+S 
+ECL 331 
+ANALOG INTEGRATED CIRCUITS 
+AND SIMULATION LAB
+0-0-3 
+3 
+2 
+T 
+ECL 333   DIGITAL SIGNAL PROCESSING LAB 
+0-0-3 
+3 
+2 
+R/M/H
+VAC 
+Remedial/Minor/Honours 
+course
+3-1-0 
+4** 
+4 
+                                                                TOTAL 
+ 
+27/31
+23/27 
+ 
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be offered in 
+both S5 and S6.  Institutions can advise students belonging to about 50% of the number 
+of branches in the Institution to opt for Industrial Economics & Foreign Trade in S5 and 
+Management for Engineers in S6 and vice versa.  
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Tuesdays from 3 to 5 PM and Wednesdays from 3 to 5 PM). If a student does not 
+opt for minor/honours programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+201
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester VI 
+ 
+SLOT 
+COURSE 
+NO.
+COURSES 
+L-T-P 
+HOURS
+CREDIT 
+A 
+ECT 302 
+ELECTROMAGNETICS 
+3-1-0 
+4 
+4 
+B 
+ECT 304 
+VLSI CIRCUIT DESIGN 
+3-1-0 
+4 
+4 
+C 
+ECT 306 
+INFORMATION THEORY AND CODING
+3-1-0 
+4 
+4 
+D 
+ECTXXX 
+PROGRAM ELECTIVE I 
+2-1-0 
+3 
+3 
+E 
+½ 
+HUT300 
+INDUSTRIAL ECONOMICS AND 
+FOREIGN TRADE
+3-0-0 
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0 
+3 
+3 
+F 
+ECT 308 
+COMPREHENSIVE COURSE WORK 
+1-0-0 
+1 
+1 
+S 
+ECL 332   COMMUNICATION LAB 
+0-0-3 
+3 
+2 
+T 
+ECD 334 
+MINIPROJECT 
+0-0-3 
+3 
+2 
+R/M/H
+VAC 
+Remedial/Minor/Honours 
+course
+3-1-0 
+4** 
+4 
+                                                               TOTAL 
+ 
+25/29
+23/27 
+ 
+PROGRAM ELECTIVE I 
+ 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ECT 312 
+Digital System Design 
+2-1-0 
+ 
+ 
+  3 
+ 
+ 
+  3 
+ECT 322 
+Power Electronics 
+2-1-0 
+ECT 332 
+Data Analysis 
+2-1-0 
+ECT 342 
+Embedded Systems 
+2-1-0 
+ECT 352 
+Digital Image Processing 
+2-1-0 
+ECT 362 
+Introduction to MEMS 
+2-1-0 
+ECT 372
+Quantum Computing 
+2-1-0
+ 
+ 
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be offered in both S5 
+and S6.  Institutions can advise students belonging to about 50% of the number of branches in the 
+Institution to opt for Industrial Economics & Foreign Trade in S5 and Management for Engineers 
+in S6 and vice versa.  
+202
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 3 to 5 PM and Wednesdays from 2 to 4 PM). If a student does not opt for 
+minor/honours programme, he/she can be given remedial class.  
+3. Comprehensive Course Work: The comprehensive course work in the sixth semester of study 
+shall have a written test of 50 marks. The written examination will be of objective type similar to 
+the GATE examination and will be conducted by the University. Syllabus for comprehensive 
+examination shall be prepared by the respective BoS choosing any 5 core courses studied from 
+semester 3 to 5. The pass minimum for this course is 25. The course should be mapped with a 
+faculty and classes shall be arranged for practising questions based on the core courses listed in 
+the curriculum. 
+4. Mini project: It is introduced in sixth semester with a specific objective to strengthen the 
+understanding of student’s fundamentals through application of theoretical concepts. Mini 
+project can help to boost their skills and widen the horizon of their thinking. The ultimate aim of 
+an engineering student is to resolve a problem by applying theoretical knowledge. Doing more 
+projects increases problem-solving skills. Students should identify a topic of interest in 
+consultation with Faculty/Advisor. Review the literature and gather information pertaining to the 
+chosen topic. State the objectives and develop a methodology to achieve the objectives. Carryout 
+the design/fabrication or develop codes/programs to achieve the objectives. Demonstrate the 
+novelty of the project through the results and outputs. The progress of the mini project is 
+evaluated based on a minimum of two reviews. The review committee may be constituted by the 
+Head of the Department. A project report is required at the end of the semester. The product has 
+to be demonstrated for its full design specifications. Innovative design concepts, reliability 
+considerations, aesthetics/ergonomic aspects taken care of in the  project shall be given due 
+weight. The internal evaluation will be made based on the product, the report and a viva- voce 
+examination, conducted by a 3 member committee appointed by Head of the Department 
+comprising HoD or a senior faculty member, Academic coordinator for that program, project 
+guide/coordinator. 
+Total marks: 150, CIE 75 marks and ESE 75 marks 
+Split up for CIE 
+Attendance 
+ 
+ 
+ 
+ 
+: 10 
+Guide  
+ 
+ 
+ 
+ 
+: 15 
+Project Report  
+ 
+ 
+ 
+: 10 
+Evaluation by the Committee 
+(will be evaluating the level of completion and       demonstration 
+of functionality/specifications, presentation, oral examination, work knowledge and involvement)
+ 
+ 
+ 
+ : 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester VII 
+ 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+ECT 401 
+WIRELESS COMMUNICATION 
+2-1-0
+3 
+3 
+B 
+ECTXXX 
+PROGRAM ELECTIVE II 
+2-1-0
+3 
+3 
+C 
+ECTXXX 
+OPEN ELECTIVE  
+2-1-0
+3 
+3 
+D 
+MCN401
+INDUSTRIAL SAFETY ENGINEERING 
+2-1-0
+3 
+--- 
+S 
+ECL 411 
+ELECTROMAGNETICS LAB 
+0-0-3
+3 
+2 
+T 
+ECQ 413
+SEMINAR 
+0-0-3
+3 
+2 
+U 
+ECD 415
+PROJECT PHASE I 
+0-0-6
+6 
+2 
+R/M/H
+VAC 
+Remedial/Minor/Honors 
+course 
+3-1-0
+4* 
+4 
+                                                        TOTAL 
+ 
+24/28
+15/19 
+ 
+ 
+PROGRAM ELECTIVE II 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ECT 413
+Optical Fiber Communication
+2-1-0
+ 
+ 
+  3 
+ 
+ 
+  3 
+ECT 423 
+Computer Networks 
+2-1-0 
+ECT 433
+Opto-electronic Devices 
+2-1-0
+ECT 443
+Antenna and Wave propagration
+2-1-0
+ECT 453 
+Error Control Codes 
+2-1-0 
+ECT 463
+Machine Learning
+2-1-0
+ECT 473 
+DSP Architectures 
+2-1-0 
+ 
+ 
+ 
+OPEN ELECTIVE (OE)  
+The open elective is offered in semester 7. Each program should specify the courses (maximum 5) they 
+would like to offer as electives for other programs. The courses listed below are offered by the 
+Department of ELECTRONICS AND COMMUNICATION ENGINEERING for students of other 
+undergraduate branches offered in the college under KTU. 
+ 
+ 
+ 
+ 
+ 
+204
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+ 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+C 
+ 
+ECT 415 
+Mechatronics 
+2-1-0 
+ 
+ 
+  3 
+ 
+ 
+  3 
+ECT 425
+Biomedical Instrumentation
+2-1-0
+ECT 435 
+Electronic Hardware for Engineers 
+2-1-0 
+ECT 445
+IoT and Applications
+2-1-0
+ECT 455 
+Entertainment Electronics 
+2-1-0 
+ 
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12 Noon). If a student does 
+not opt for minor/honours programme, he/she can be given remedial class.  
+2. Seminar: To encourage and motivate the students to read and collect recent and reliable 
+information from their area of interest confined to the relevant discipline from technical 
+publications including peer reviewed journals, conference, books, project reports etc., 
+prepare a report based on a central theme and present it before a peer audience. Each 
+student shall present the seminar for about 20 minutes duration on the selected topic. 
+The report and the presentation shall be evaluated by a team of faculty members 
+comprising Academic coordinator for that program, seminar coordinator and seminar 
+guide based on style of presentation, technical content, adequacy of references, depth of 
+knowledge and overall quality of the report.  
+Total marks: 100, only CIE, minimum required to pass 50 
+Attendance 
+ 
+ 
+ 
+: 10 
+Guide  
+ 
+ 
+ 
+: 20 
+Technical Content of the Report 
+: 30 
+Presentation  
+ 
+ 
+: 40 
+3. Project Phase I: A Project topic must be selected either from research literature or the 
+students themselves may propose suitable topics in consultation with their guides. The 
+object of Project Work I is to enable the student to take up investigative study in the 
+broad 
+field 
+of 
+Electronics 
+and 
+Communication 
+Engineering, 
+either 
+fully 
+theoretical/practical or involving both theoretical and practical work to be assigned by 
+the Department on a group of  three/four students, under the guidance of a Supervisor. 
+This is expected to provide a good initiation for the student(s) in R&D work. The 
+assignment to normally include: 
+ Survey and study of published literature on the assigned topic;  
+ Preparing an Action Plan for conducting the investigation, including team work; 
+ Working out a preliminary Approach to the Problem relating to the assigned topic; 
+ Block level design documentation 
+ Conducting preliminary Analysis/ Modelling/ Simulation/ Experiment/ Design/ 
+Feasibility; 
+205
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ Preparing a Written Report on the Study conducted for presentation to the 
+Department; 
+ Final Seminar, as oral Presentation before the evaluation committee. 
+Total marks: 100, only CIE, minimum required to pass 50 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   : 30 
+Interim evaluation by the evaluation committee 
+                           : 20 
+Final Seminar   
+ 
+                                                               : 30 
+The report evaluated by the evaluation committee                           : 20 
+The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+206
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+Semester VIII 
+ 
+SLOT 
+COURSE 
+NO.
+COURSES 
+L-T-P
+HOURS
+CREDIT
+A 
+ECT 402 
+INSTRUMENTATION 
+2-1-0
+3 
+3 
+B 
+ECTXXX 
+PROGRAM ELECTIVE III 
+2-1-0
+3 
+3 
+C 
+ECTXXX 
+PROGRAM ELECTIVE IV 
+2-1-0
+3 
+3 
+D 
+ECTXXX 
+PROGRAM ELECTIVE V 
+2-1-0
+3 
+3 
+E 
+ECT 404 
+COMPREHENSIVE VIVA VOCE 
+1-0-0
+1 
+1 
+U 
+ECD 416 
+PROJECT PHASE II 
+0-0-
+12 
+12 
+4 
+R/M/H VAC 
+Remedial/Minor/Honors 
+course 
+3-1-0
+4* 
+4 
+                                                         TOTAL 
+ 
+25/28 
+17/21 
+ 
+PROGRAM ELECTIVE III 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ECT 414
+Biomedical Engineering
+2-1-0
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+ECT 424 
+Satellite Communication 
+2-1-0 
+ECT 434 
+Secure Communication 
+2-1-0 
+ECT 444 
+Pattern Recognition 
+2-1-0 
+ECT 454
+RF Circuit Design
+2-1-0
+ECT 464
+Mixed Signal Circuit Design
+2-1-0
+ECT 474 
+Entrepreneurship 
+2-1-0 
+ 
+ 
+PROGRAM ELECTIVE IV 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+ECT 416 
+Modern Communication Systems 
+2-1-0
+ 
+ 
+  3 
+ 
+ 
+  3 
+ECT 426 
+Real Time Operating Systems 
+2-1-0 
+ECT 436 
+Adaptive Signal Processing 
+2-1-0
+ECT 446 
+Microwave Devices and Circuits 
+2-1-0
+ECT 456 
+Speech and Audio Processing 
+2-1-0 
+ECT 466 
+Analog CMOS Design 
+2-1-0
+ECT 476 
+Robotics 
+2-1-0 
+ 
+ 
+ 
+207
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+PROGRAM ELECTIVE V 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ECT 418 
+Mechatronics 
+2-1-0 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+ECT 428 
+Optimization Techniques
+2-1-0
+ECT 438 
+Computer Vision 
+2-1-0 
+ECT 448 
+Low Power VLSI
+2-1-0
+ECT 458 
+Internet of Things 
+2-1-0 
+ECT 468 
+Renewable Energy Systems
+2-1-0
+ECT 478 
+Organic Electronics 
+2-1-0
+ 
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12). If a student does not 
+opt for minor/honours programme, he/she can be given remedial class. 
+2. Comprehensive Course Viva: The comprehensive course viva in the eighth semester of 
+study shall have a viva voce for 50 marks. The viva voce shall be conducted based on the 
+core subjects studied from third to eighth semester. The viva voce will be conducted by 
+the same three member committee assigned for final project phase II evaluation towards 
+the end of the semester. The pass minimum for this course is 25. The course should be 
+mapped with a faculty and classes shall be arranged for practising questions based on the 
+core courses listed in the curriculum. The mark will be treated as internal and should be 
+uploaded along with internal marks of other courses. 
+ 
+3. Project Phase II: The object of Project Work II & Dissertation is to enable the student to 
+extend further the investigative study taken up in Project 1, either fully 
+theoretical/practical or involving both theoretical and practical work, under the guidance 
+of a Supervisor from the Department alone or jointly with a Supervisor drawn from R&D 
+laboratory/Industry. This is expected to provide a good training for the student(s) in R&D 
+work and technical leadership. The assignment to normally include: 
+ In depth study of the topic assigned in the light of the Report prepared under 
+PhaseI; 
+ Review and finalization of the Approach to the Problem relating to the assigned 
+topic; 
+ Detailed Analysis/Modelling/Simulation/Design/Problem Solving/Experiment as 
+needed; 
+ Final development of product/process, testing, results, conclusions and future 
+directions; 
+ Preparing a paper for Conference presentation/Publication in Journals, if possible; 
+ Preparing a Dissertation in the standard format for being evaluated by the 
+Department; 
+ Final Presentation before a Committee 
+208
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+Total marks: 150, only CIE, minimum required to pass 75 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation, 2 times in the semester by the evaluation committee : 50 
+Quality of the report evaluated by the above committee 
+ 
+ 
+: 30 
+(The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project supervisor). 
+Final evaluation by a three member committee 
+ 
+ 
+ 
+: 40 
+(The final evaluation committee comprises Project coordinator, expert from 
+Industry/research Institute and a senior faculty from a sister department. The same 
+committee will conduct comprehensive course viva for 50 marks). 
+ 
+MINOR 
+Minor is an additional credential a student may earn if s/he does 20 credits worth of additional 
+learning in a discipline other than her/his major discipline of B.Tech degree. The objective is to 
+permit a student to customize their Engineering degree to suit their specific interests. Upon 
+completion of an Engineering Minor, a student will be better equipped to perform 
+interdisciplinary research and will be better employable. Engineering Minors allow a student to 
+gain interdisciplinary experience and exposure to concepts and perspectives that may not be a 
+part of their major degree programs.  
+The academic units offering minors in their discipline will prescribe the set of courses and/or 
+other activities like projects necessary for earning a minor in that discipline. A specialist basket of 
+3-6 courses is identified for each Minor. Each basket may rest on one or more foundation 
+courses. A basket may have sequences within it, i.e., advanced courses may rest on basic courses 
+in the basket. S/he accumulates credits by registering for the required courses, and if the 
+requirements for a particular minor are met within the time limit for the course, the minor will 
+be awarded. This will be mentioned in the Degree Certificate as “Bachelor of Technology in xxx 
+with Minor in yyy”. The fact will also be reflected in the consolidated grade card, along with the 
+list of courses taken. If one specified course cannot be earned during the course of the 
+programme, that minor will not be awarded. The individual course credits earned, however, will 
+be reflected in the consolidated grade card.  
+ 
+(i) The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be included in 
+the curriculum from third to eight semesters for all branches. The minor courses shall be 
+identified by M slot courses. 
+(ii) Registration is permitted for Minor at the beginning of third semester. Total credits required 
+is 182 (162 + 20 credits from value added courses) 
+(iii) Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three courses 
+listed in the curriculum for minor, of which one course shall be a mini project based on the 
+chosen area. They can do miniproject either in S7 or in S8. The remaining 8 credits could be 
+acquired by undergoing 2 MOOCs recommended by the Board of studies and approved by the 
+Academic Council or through courses listed in the curriculum. The classes for Minor shall be 
+conducted along with regular classes and no extra time shall be required for conducting the 
+courses. 
+(iv)There won’t be any supplementary examination for the courses chosen for Minor. 
+(v)  On completion of the program, “Bachelor of Technology in xxx with Minor in yyy” will be 
+awarded. 
+209
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+(vi)The registration for minor program will commence from semester 3 and the all academic 
+units offering minors in their discipline should prescribe set of such courses. The courses shall be 
+grouped into maximum of 3 baskets.  The basket of courses may have sequences within it, i.e., 
+advanced courses may rest on basic courses in the basket. Reshuffling of courses between 
+various baskets will not be allowed. In any case, they should carry out a mini project based on 
+the chosen area in S7 or S8. Students who have registered for B.Tech Minor in ELECTRONICS 
+AND COMMUNICATION can opt to study the courses listed below:  
+ 
+ 
+ 
+SE
+ME
+STE
+R 
+BASKET I
+BASKET II
+BASKET III
+COURS
+E NO. 
+COURSE 
+NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+H
+O
+U
+R
+S
+COURS
+E NO. 
+COURSE NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+COURS
+E NO. 
+COURSE NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S3 
+ECT281 ELECTRONIC 
+CIRCUITS 
+  
+4
+  
+4
+ 
+ 
+ 
+ECT283 
+ANALOG 
+COMMUNICATI
+ON 
+  
+4
+  
+4
+ 
+ECT285 
+INTRODUCTION TO 
+SIGNALS AND 
+SYSTEMS 
+  
+4
+  
+4
+S4 
+ECT282 MICROCONT
+ROLLERS 
+  
+4
+  
+4
+ 
+ 
+  
+ECT284 
+DIGITAL 
+COMMUNICATI
+ON
+  
+4
+  
+4
+ECT286 
+INTRODUCTION TO 
+DIGITAL SIGNAL 
+PROCESSING 
+  
+4
+  
+4
+ 
+S5 
+ECT381 EMBEDDED 
+SYSTEM 
+DESIGN
+  
+4
+  
+4
+ 
+ECT383 
+COMMUNICATI
+ON SYSTEMS 
+  
+4
+  
+4
+ECT385 
+TOPICS IN DIGITAL 
+IMAGE 
+PROCESSING 
+  
+4
+  
+4
+S6 
+ECT382 VLSI 
+CIRCUITS
+  
+4
+  
+4
+ 
+ECT384 
+DATA 
+NETWORKS
+  
+4
+  
+4
+ECT386 
+TOPICS IN 
+COMPUTER VISION 
+  
+4
+  
+4
+S7 
+ECD481
+MINIPROJECT
+  
+4
+  
+4
+ 
+ECD481
+MINIPROJECT 
+  
+4
+  
+4
+ECD481
+MINIPROJECT 
+  
+4
+  
+4
+S8 
+ECD482
+MINIPROJECT
+  
+4
+  
+4
+ 
+ECD482
+MINIPROJECT 
+  
+4
+  
+4
+ECD482
+MINIPROJECT 
+  
+4
+  
+4
+ 
+ 
+HONOURS 
+Honours is an additional credential a student may earn if s/he opts for the extra 20 credits 
+needed for this in her/his own discipline. Honours is not indicative of class. KTU is providing this 
+option for academically extra brilliant students to acquire Honours. Honours is intended for a 
+student to gain expertise/specialise in an area inside his/her major B.Tech discipline and to 
+enrich knowledge in emerging/advanced areas in the branch of engineering concerned. It is 
+particularly suited for students aiming to pursue higher studies. Upon completion of Honours, a 
+student will be better equipped to perform research in her/his branch of engineering. On 
+successful accumulation of credits at the end of the programme, this will be mentioned in the 
+Degree Certificate as “Bachelor of Technology in xxx, with Honours.” The fact will also be 
+reflected in the consolidated grade card, along with the list of courses taken. If one specified 
+course cannot be earned during the course of the programme, Honours will not be awarded. The 
+individual course credits earned, however, will be reflected in the consolidated grade card. 
+210
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ 
+ 
+The courses shall be grouped into maximum of 3 groups, each group representing a particular 
+specialization in the branch. The students shall select only the courses from same group in all 
+semesters. It means that the specialization is to be fixed by the student and cannot be changed 
+subsequently. The internal evaluation, examination and grading shall be exactly as for other 
+mandatory courses. The Honours courses shall be identified by H slot courses. 
+ 
+ 
+(i) 
+The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be 
+included in the curriculum from fourth to eight semesters for all branches. The 
+honours courses shall be identified by H slot courses. 
+(ii) 
+Registration is permitted for Honours at the beginning of fourth semester. Total 
+credits required is 182 (162 + 20 credits from value added courses). 
+(iii) 
+Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three 
+courses listed in the curriculum for honours, of which one course shall be a mini 
+project based on the chosen area. The remaining 8 credits could be acquired by 
+undergoing 2 MOOCs recommended by the Board of studies and approved by the 
+Academic Council or through courses listed in the curriculum. The classes for Honours 
+shall be conducted along with regular classes and no extra time shall be required for 
+conducting the courses. The students should earn a grade of ‘C’ or better for all 
+courses under honours. 
+(iv) 
+There won’t be any supplementary examination for the courses chosen for honours. 
+(v) 
+On successful accumulation of credits at the end of the programme, “Bachelor of 
+Technology in xxx, with Honours” will be awarded if overall CGPA is greater than or 
+equal to 8.5, earned a grade of ‘C’ or better for all courses  chosen for honours and 
+without any history of ‘F’ Grade. 
+(vi) 
+The registration for Honours program will commence from semester 4 and the all 
+academic units offering honours in their discipline should prescribe set of such 
+courses. The courses shall be grouped into maximum of 3 groups, each group 
+representing a particular specialization in the branch. The students shall select only 
+the courses from same group in all semesters. It means that the specialization is to be 
+fixed by the student and cannot be changed subsequently. In any case, they should 
+carry out a mini project based on the chosen area in S8. Students who have registered 
+for B.Tech Honours in ELECTRONICS AND COMMUNICATION ENGINEERING can opt 
+to study the courses listed below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+211
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+GROUP I
+GROUP II
+GROUP III
+SE
+ME
+STE
+R 
+COURS
+E NO. 
+COURSE NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+COURSE 
+NO. 
+COURSE NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+COURSE 
+NO. 
+COURSE 
+NAME 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S4
+ECT292 NANOELECTRO
+NICS 
+4 4 ECT294 
+STOCHASTIC 
+PROCESSES FOR 
+COMMUNICATION
+4 4 ECT296 
+STOCHASTIC 
+SIGNAL 
+PROCESSING 
+4 4
+S5 
+ECT393 FPGA BASED 
+SYSTEM DESIGN 
+4 4 ECT395 
+DETECTION AND 
+ESTIMATION 
+THEORY 
+4 4 ECT397 
+COMPUTATI
+ONAL TOOLS 
+FOR SIGNAL 
+PROCESSING 
+4 4
+S6 
+ECT394 ELECTRONIC 
+DESIGN AND 
+AUTOMATION 
+TOOLS 
+4 4 ECT396 
+MIMO AND 
+MULTIUSER 
+COMMUNICATION 
+SYSTEMS 
+4 4 ECT398 
+DETECTION 
+AND 
+ESTIMATION 
+THEORY 
+4 4
+S7 
+ECT495 RF MEMS 
+4 4 ECT497 
+DESIGN AND 
+ANALYSIS OF 
+ANTENNAS 
+4 4 ECT499 
+MULTIRATE 
+SIGNAL 
+PROCESSING 
+AND 
+WAVELETS
+4 4
+S8
+ECD496
+MINIPROJECT 
+4 4 ECD496
+MINIPROJECT
+4 4 ECD496
+MINIPROJECT
+4 4
+ 
+INDUCTION PROGRAM 
+ 
+There will be three weeks induction program for first semester students. It is  a unique three-
+week immersion Foundation Programme designed especially for the fresher’s which includes a 
+wide range of activities right from workshops, lectures and seminars to sports tournaments, 
+social work and much more. The programme is designed to mould students into well-rounded 
+individuals, aware and sensitized to local and global conditions and foster their creativity, 
+inculcate values and ethics, and help students to discover their passion. Foundation Programme 
+also serves as a platform for the fresher’s to interact with their batchmates and seniors and start 
+working as a team with them. The program is structured around the following five themes: 
+The programme is designed keeping in mind the following objectives: 
+ Values and Ethics: Focus on fostering a strong sense of ethical judgment and moral 
+fortitude. 
+ Creativity: Provide channels to exhibit and develop individual creativity by expressing 
+themselves through art, craft, music, singing, media, dramatics, and other creative 
+activities. 
+ Leadership, Communication and Teamwork: Develop a culture of teamwork and group 
+communication. 
+ Social Awareness: Nurture a deeper understanding of the local and global world and our 
+place in at as concerned citizens of the world. 
+212
+ 
+ 
+ELECTRONICS & COMMUNICATION ENGINEERING 
+ 
+ 
+ Physical Activities & Sports: Engage students in sports and physical activity to ensure 
+healthy physical and mental growth. 
+213
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+CURRICULUM I TO VIII: ELECTRICAL & ELECTRONICS ENGINEERING 
+Every course of B. Tech. Program shall be placed in one of the nine categories as listed 
+in table below. 
+Sl. 
+No
+Category 
+Code 
+Credits
+1 
+Humanities and Social Sciences including Management 
+courses 
+HMC 
+8 
+2 
+Basic Science courses 
+BSC 
+26 
+3 
+Engineering Science Courses 
+ESC 
+22 
+4 
+Program Core Courses 
+PCC 
+76 
+ 
+5 
+Program Elective Courses 
+PEC 
+15 
+6 
+Open Elective Courses 
+OEC 
+3 
+7 
+Project work and Seminar 
+PWS 
+10 
+ 
+8 
+Mandatory Non-credit Courses (P/F) with grade 
+MNC 
+----- 
+ 
+9 
+Mandatory Student Activities (P/F) 
+MSA 
+2 
+ 
+ 
+Total Mandatory Credits 
+162 
+ 
+10 
+Value Added Course (Optional) 
+VAC 
+20 
+ 
+ 
+ 
+No semester shall have more than six lecture-based courses and two laboratory and/or 
+drawing/seminar/project courses in the curriculum. Semester-wise credit distribution shall be as 
+below: 
+Sem
+1
+2
+3
+4
+5
+6
+7
+8
+Total
+ 
+Credits
+17
+21
+22
+22
+23
+23
+15
+17
+160
+ 
+Activity 
+Points 
+50
+ 
+50
+---
+ 
+Credits 
+for 
+Activity 
+2
+2
+ 
+G.Total
+162
+ 
+ 
+ 
+ 
+214
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+Basic Science Courses: Maths, Physics, Chemistry, Biology for Engineers, Life Science etc 
+Engineering science courses: Basic Electrical, Engineering Graphics, Programming, 
+Workshop, Basic Electronics, Basic Civil, Engineering Mechanics, Mechanical Engineering, 
+Thermodynamics, Design Engineering, Materials Engineering etc. 
+Humanities and Social Sciences including Management courses: English, Humanities, 
+Professional Ethics, Management, Finance & Accounting, Life Skills, Professional 
+Communication, Economics etc 
+Mandatory non-credit courses: Sustainable Engineering, Constitution of India/Essence of 
+Indian Knowledge Tradition, Industrial Safety Engineering, disaster management etc. 
+Course Code and Course Number 
+Each course is denoted by a unique code consisting of three alphabets followed by three 
+numerals like E C L 2 0 1. The first two letter code refers to the department offering the 
+course. EC stands for course in Electronics & Communication, course code MA refers to a 
+course in Mathematics, course code ES refers to a course in Engineering Science etc. Third 
+letter stands for the nature of the course as indicated in the Table 1.  
+Table 1: Code for the courses 
+Code 
+Description 
+ 
+T 
+Theory based courses (other the lecture hours, these courses can have tutorial 
+and practical hours, e.g., L-T-P structures 3-0-0, 3-1-2, 3-0-2 etc.)  
+L 
+Laboratory based courses (where performance is evaluated primarily on the basis 
+of practical or laboratory work with LTP structures like 0-0-3, 1-0-3, 0-1-3 etc.)
+N
+Non-credit courses
+D 
+Project based courses (Major, Mini Projects) 
+Q
+Seminar Courses
+ 
+Course Number is a three digit number and the first digit refers to the Academic year in 
+which the course is normally offered, i.e. 1, 2, 3, or 4 for the B. Tech. Programme of four 
+year duration. Of the other two digits, the last digit identifies whether the course is offered 
+normally in the odd (odd number), even (even number) or in both the semesters (zero). The 
+middle number could be any digit. ECL 201 is a laboratory course offered in EC department 
+for third semester, MAT 101 is a course in Mathematics offered in the first semester, EET 
+344 is a course in Electrical Engineering offered in the sixth semester, PHT 110 is a course in 
+Physics offered both the first and second semesters, EST 102 is a course in Basic Engineering 
+offered by one or many departments. These course numbers are to be given in the 
+curriculum and syllabi.  
+ 
+ 
+ 
+215
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+Departments 
+Each course is offered by a Department and their two-letter course prefix is given in Table 2.  
+Table 2: Departments and their codes 
+Sl.No
+Department 
+Course 
+Prefix 
+Sl.No
+Department 
+Course 
+Prefix 
+ 
+01
+Aeronautical Engg
+AO
+16
+Information Technology
+IT
+02
+Applied Electronics & 
+Instrumentation 
+AE
+17
+Instrumentation & Control
+IC
+03
+Automobile
+AU
+18
+Mandatory Courses
+MC
+04
+Biomedical Engg
+BM
+19
+Mathematics
+MA
+05
+Biotechnology
+BT
+20
+Mechanical Engg
+ME
+06
+Chemical Engg
+CH
+21
+Mechatronics
+MR
+07
+Chemistry
+CY
+22
+Metallurgy
+MT
+08
+Civil Engg
+CE
+23
+Mechanical (Auto)
+MU
+09
+Computer Science
+CS
+24
+Mechanical(Prod)
+MP
+10
+Electrical & Electronics
+EE
+25
+Naval & Ship Building
+SB
+11
+Electronics & Biomedical
+EB
+26
+Physics
+PH
+12
+Electronics & Communication
+EC
+27
+Polymer Engg
+PO
+13
+Food Technology
+FT
+28
+Production Engg
+PE
+14
+Humanities
+HU
+29 
+Robotics and Automation 
+RA 
+15
+Industrial Engg
+IE
+30
+Safety & Fire Engg
+FS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+216
+ELECTRICAL & ELECTRONICS ENGINEERING
+SEMESTER I 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+A 
+MAT 101 
+LINEAR ALGEBRA AND CALCULUS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 100 
+ENGINEERING PHYSICSA 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING
+4-0-0
+4 
+4 
+E 
+HUN 101 
+LIFE SKILLS 
+2-0-2
+4 
+-- 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+23/24 *
+17 
+*Minimum hours per week
+Note: To make up for the hours lost due to induction program, one extra hour may be allotted to 
+ each course 
+217
+ELECTRICAL & ELECTRONICS ENGINEERING
+SEMESTER II 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+MAT 102 
+VECTOR CALCULUS, DIFFERENTIAL 
+EQUATIONS AND TRANSFORMS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 100 
+ENGINEERING PHYSICS A 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING
+4-0-0
+4 
+4 
+E 
+HUN 102 
+PROFESSIONAL COMMUNICATION 
+2-0-2
+4 
+-- 
+F 
+EST 102 
+PROGRAMMING IN C 
+2-1-2
+5 
+4 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP 
+0-0-2
+2 
+1 
+TOTAL 
+28/29 
+21 
+NOTE: 
+1. Engineering Physics A and Engineering Chemistry shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches
+in the Institution to opt for Engineering Physics A in SI and Engineering Chemistry in
+S2 & vice versa. Students opting for Engineering Physics A in a semester should
+attend Physics Lab in the same semester and students opting for Engineering
+Chemistry in one semester should attend Engineering Chemistry Lab in the same
+semester.
+2. Engineering Mechanics and Engineering Graphics shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches
+218
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+in the Institution to opt for Engineering Mechanics in SI and Engineering Graphics in 
+S2 & vice versa.  
+3. Basics of Civil & Mechanical Engineering and Basics of Electrical & Electronics 
+Engineering shall be offered in both semesters.  Basics of Civil & Mechanical 
+Engineering contain equal weightage for Civil Engineering and Mechanical 
+Engineering. Slot for the course is D with CIE marks of 25 each and ESE marks of 50 
+each.  Students belonging to branches of AEI, EI, BME, ECE, EEE, ICE, CSE, IT, RA can 
+choose this course in S1. 
+Basics of Electrical & Electronics Engineering contain equal weightage for Electrical 
+Engineering and Electronics Engineering. Slot for the course is D with CIE marks of 25 
+each and ESE marks of 50 each.  Students belonging to AERO, AUTO, CE, FSE, IE, ME, 
+MECHATRONICS, PE, METTULURGY, BT, BCE, CHEM, FT, POLY can choose this course 
+in S1. Students having Basics of Civil & Mechanical Engineering in one semester 
+should attend Civil & Mechanical Workshop in the same semester and students 
+having Basics of Electrical & Electronics Engineering in a semester should attend 
+Electrical & Electronics Workshop in the same semester.  
+ 
+4. LIFE SKILLS 
+Life skills are those competencies that provide the means for an individual to be 
+resourceful and positive while taking on life's vicissitudes. Development of one's 
+personality by being aware of the self, connecting with others, reflecting on the 
+abstract and the concrete, leading and generating change, and staying rooted in 
+time-tested values and principles is being aimed at. This course is designed to 
+enhance the employability and maximize the potential of the students by 
+introducing them to the principles that underlie personal and professional success, 
+and help them acquire the skills needed to apply these principles in their lives and 
+careers.  
+ 
+5. PROFESSIONAL COMMUNICATION 
+Objective is to develop in the under-graduate students of engineering a level of 
+competence in English required for independent and effective communication for 
+their professional needs. Coverage: Listening, Barriers to listening, Steps to 
+overcome them, Purposive listening practice, Use of technology in the professional 
+world. Speaking, Fluency & accuracy in speech, Positive thinking, Improving self-
+expression, Tonal variations, Group discussion practice, Reading,  Speed reading 
+practice, Use of extensive readers, Analytical and critical reading practice, Writing 
+Professional Correspondence, Formal and informal letters, Tone in formal writing, 
+Introduction to reports. Study Skills, Use of dictionary, thesaurus etc., Importance of 
+contents page, cover & back pages, Bibliography, Language Lab. 
+ 
+219
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER III 
+SLOT
+COURSE NO
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+A 
+MAT201 
+PARTIAL DIFFERENTIAL EQUATION AND 
+COMPLEX ANALYSIS 
+ 
+3-1-0
+4 
+4 
+ 
+B 
+ 
+EET201 
+CIRCUITS AND NETWORKS 
+2-2-0
+4 
+4 
+ 
+C 
+ 
+EET203 
+MEASUREMENTS AND 
+INSTRUMENTATION 
+3-1-0
+4 
+4 
+ 
+D 
+ 
+EET205 
+ANALOG ELECTRONICS 
+3-1-0
+4 
+4 
+ 
+E 
+1/2 
+EST200 
+DESIGN & ENGINEERING 
+2-0-0
+2 
+2 
+ 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN201 
+SUSTAINABLE ENGINEERING 
+2-0-0
+2 
+-- 
+S 
+ 
+EEL201 
+CIRCUITS AND MEASUREMENTS LAB 
+0-0-3
+3 
+2 
+ 
+T 
+EEL203 
+ANALOG ELECTRONICS LAB 
+0-0-3
+3 
+2 
+R/M 
+VAC 
+REMEDIAL/MINOR COURSE 
+3-1-0
+4 * 
+4 
+ 
+TOTAL 
+ 
+26/30 
+22/26 
+ 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches 
+in the Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & 
+vice versa.  
+2. *All Institutions shall keep 4 hours exclusively for Remedial class/Minor course 
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for 
+minor programme, he/she can be given remedial class. 
+ 
+ 
+ 
+ 
+220
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER IV 
+SLOT 
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+A 
+MAT 204  
+PROBABILITY, RANDOM PROCESSES 
+AND NUMERICAL METHODS  
+3-1-0
+4 
+4 
+ 
+B 
+ 
+EET202 
+DC MACHINES AND TRANSFORMERS 
+2-2-0
+4 
+4 
+ 
+C 
+EET204 
+ELECTROMAGNETIC THEORY 
+3-1-0
+4 
+4 
+D 
+EET206 
+DIGITAL ELECTRONICS  
+3-1-0
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN & ENGINEERING 
+2-0-0
+2 
+2 
+ 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0
+2 
+2 
+F 
+MCN202 
+CONSTITUTION OF INDIA 
+2-0-0
+2 
+-- 
+S 
+ 
+EEL202 
+ELECTRICAL MACHINES LAB I 
+0-0-3
+3 
+2 
+ 
+T 
+ 
+EEL204 
+DIGITAL ELECTRONICS LAB 
+0-0-3
+3 
+2 
+ 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE 
+3-1-0
+4* 
+4 
+ 
+TOTAL 
+ 
+26/30 
+22/26 
+ 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches 
+in the Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & 
+vice versa. 
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor course 
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student doesnot opt for 
+minor programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+221
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER V 
+SLOT 
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+A 
+EET301 
+POWER SYSTEMS I 
+3-1-0
+4 
+4 
+ 
+B 
+ 
+EET303 
+MICROPROCESSORS AND 
+MICROCONTROLLERS 
+3-1-0
+4 
+4 
+ 
+C 
+EET305 
+SIGNALS AND SYSTEMS 
+3-1-0
+4 
+4 
+D 
+EET307 
+SYNCHRONOUS AND INDUCTION 
+MACHINES
+3-1-0
+4 
+4 
+E 
+1/2 
+HUT300 
+INDUSTRIAL ECONOMICS & FOREIGN 
+TRADE 
+3-0-0
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0
+3 
+3 
+F 
+MCN301 
+DISASTER MANAGEMENT 
+2-0-0
+2 
+-- 
+S 
+ 
+EEL331 
+MICROPROCESSORS AND 
+MICROCONTROLLERS LAB 
+0-0-3
+3 
+2 
+ 
+T 
+ 
+EEL333 
+ELECTRICAL MACHINES LAB II 
+0-0-3
+3 
+2 
+ 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE 
+3-1-0
+4* 
+4 
+ 
+TOTAL 
+ 
+27/31 
+23/27 
+ 
+ 
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be 
+offered in both S5 and S6.  Institutions can advise students belonging to about 50% 
+of the number of branches in the Institution to opt for Industrial Economics & 
+Foreign Trade in S5 and Management for Engineers in S6 and vice versa.  
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Tuesdays from 3 to 5 PM and Wednesdays from 3 to 5 PM). If a student does 
+not opt for minor/honours programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+222
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER VI 
+SLOT 
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+A 
+EET302 
+LINEAR CONTROL SYSTEMS 
+2-2-0
+4 
+4 
+ 
+B 
+ 
+EET304 
+POWER SYSTEMS II 
+3-1-0
+4 
+4 
+ 
+C 
+EET306 
+POWER ELECTRONICS 
+3-1-0
+4 
+4 
+D 
+EETXXX 
+PROGRAM  ELECTIVE I 
+2-1-0
+3 
+3 
+E 
+1/2 
+HUT300 
+INDUSTRIAL ECONOMICS & FOREIGN 
+TRADE 
+3-0-0
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0
+3 
+3 
+F 
+EET308 
+COMREHENSIVE COURSE WORK 
+1-0-0
+1 
+1 
+S 
+ 
+EEL332 
+POWER SYSTEMS LAB 
+0-0-3
+3 
+2 
+ 
+T 
+ 
+EEL334 
+POWER ELECTRONICS LAB 
+0-0-3
+3 
+2 
+ 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE 
+3-1-0
+4* 
+4 
+ 
+TOTAL 
+ 
+28/32 
+23/27 
+ 
+ 
+PROGRAM ELECTIVE I 
+SLOT
+COURSE NO
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+ 
+D 
+ 
+ 
+EET312 
+BIOMEDICAL INSTRUMENTATION 
+2-1-0
+ 
+ 
+3 
+ 
+ 
+3 
+EET322 
+RENEWABLE ENERGY SYSTEMS 
+2-1-0
+EET332 
+COMPUTER ORGANIZATION
+2-1-0
+EET342 
+HIGH VOLTAGE ENGINEERING 
+2-1-0
+EET352 
+OBJECT ORIENTED PROGRAMMING
+2-1-0
+EET362 
+MATERIAL SCIENCE
+2-1-0
+EET372 
+SOFT COMPUTING  
+2-1-0
+ 
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be offered in 
+both S5 and S6.  Institutions can advise students belonging to about 50% of the number of 
+branches in the Institution to opt for Industrial Economics & Foreign Trade in S5 and 
+Management for Engineers in S6 and vice versa.  
+223
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 3 to 5 PM and Wednesdays from 2 to 4 PM). If a student does not opt for 
+minor/honours programme, he/she can be given remedial class. 
+3. Comprehensive Course Work: The comprehensive course work in the sixth semester of study 
+shall have a written test of 50 marks. The written examination will be of objective type 
+similar to the GATE examination and will be conducted by the University. Syllabus for 
+comprehensive examination shall be prepared by the respective BoS choosing any 5 core 
+courses studied from semester 3 to 5. The pass minimum for this course is 25. The course 
+should be mapped with a faculty and classes shall be arranged for practising questions based 
+on the core courses listed in the curriculum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+224
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER VII 
+SLOT 
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+A 
+EET401 
+ADVANCED CONTROL SYSTEMS 
+2-1-0
+3 
+3 
+ 
+B 
+ 
+EETXXX 
+PROGRAM ELECTIVE II 
+2-1-0
+3 
+3 
+ 
+C 
+EETXXX 
+OPEN ELECTIVE  
+2-1-0
+3 
+3 
+D 
+MCN401 
+INDUSTRIAL SAFETY ENGINEERING 
+2-1-0
+3 
+--- 
+S 
+EEL411 
+CONTROL SYSTEMS LAB 
+0-0-3
+3 
+2 
+ 
+T 
+EEQ413 
+SEMINAR 
+0-0-3
+3 
+2 
+U 
+EED415 
+PROJECT PHASE I 
+0-0-6
+6 
+2 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE 
+3-1-0
+4* 
+4 
+ 
+TOTAL 
+ 
+24/28 
+15/19 
+ 
+PROGRAM ELECTIVE II 
+SLOT
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+B 
+ 
+ 
+EET413
+ELECTRIC DRIVES
+2-1-0
+ 
+ 
+3 
+ 
+ 
+3 
+EET423 
+DIGITAL CONTROL SYSTEMS  
+2-1-0 
+EET433 
+MODERN OPERATING SYSTEMS
+2-1-0
+EET443 
+DATA STRUCTURES 
+2-1-0 
+EET453 
+DIGITAL SIGNAL PROCESSING
+2-1-0
+EET463 
+ILLUMINATION TECHNOLOGY  
+2-1-0 
+EET473 
+DIGITAL PROTECTION OF POWER 
+SYSTEMS 
+2-1-0 
+ 
+OPEN ELECTIVES 
+The open elective is offered in semester 7. Each program should specify the courses 
+(maximum 5) they would like to offer as electives for other programs. For example the 
+courses listed below are offered by the Department of ELECTRICAL & ELECTRONICS 
+ENGINEERING for students of other undergraduate branches offered in the college under 
+KTU. 
+ 
+ 
+225
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+C 
+ 
+ 
+EET415 
+CONTROL SYSTEMS ENGINEERING 
+2-1-0
+ 
+ 
+3 
+ 
+ 
+3 
+EET425 
+INTRODUCTION TO POWER 
+PROCESSING  
+2-1-0
+EET435 
+RENEWABLE ENERGY SYSTEMS
+2-1-0
+EET445 
+ELECTRIC VEHICLES  
+2-1-0
+EET455 
+ENERGY MANAGEMENT 
+2-1-0
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12 Noon). If a student 
+does not opt for minor/honours programme, he/she can be given remedial class.  
+2. Seminar: To encourage and motivate the students to read and collect recent and 
+reliable information from their area of interest confined to the relevant discipline 
+from technical publications including peer reviewed journals, conference, books, 
+project reports etc., prepare a report based on a central theme and present it before 
+a peer audience. Each student shall present the seminar for about 20 minutes 
+duration on the selected topic. The report and the presentation shall be evaluated by 
+a team of faculty members comprising Academic coordinator for that program, 
+seminar coordinator and seminar guide based on style of presentation, technical 
+content, adequacy of references, depth of knowledge and overall quality of the 
+report.  
+Total marks: 100, only CIE, minimum required to pass 50 
+Attendance 
+ 
+ 
+ 
+: 10 
+Guide  
+ 
+ 
+ 
+: 20 
+Technical Content of the Report 
+: 30 
+Presentation  
+ 
+ 
+: 40 
+3. Project Phase I: A Project topic must be selected either from research literature or 
+the students themselves may propose suitable topics in consultation with their 
+guides. The object of Project Work I is to enable the student to take up investigative 
+study in the broad field of Electrical &Electronics Engineering, either fully 
+theoretical/practical or involving both theoretical and practical work to be assigned 
+by the Department on a group of  three/four students, under the guidance of a 
+Supervisor. This is expected to provide a good initiation for the student(s) in R&D 
+work. The assignment to normally include: 
+ Survey and study of published literature on the assigned topic;  
+ Preparing an Action Plan for conducting the investigation, including team 
+work; 
+ Working out a preliminary Approach to the Problem relating to the assigned 
+topic; 
+ Block level design documentation 
+226
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+ Conducting preliminary Analysis/ Modelling/ Simulation/ Experiment/ 
+Design/ Feasibility; 
+ Preparing a Written Report on the Study conducted for presentation to the 
+Department; 
+ Final Seminar, as oral Presentation before the evaluation committee. 
+Total marks: 100, only CIE, minimum required to pass 50 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+:30 
+Interim evaluation by the evaluation committee 
+ 
+:20 
+Final Seminar   
+ 
+ 
+ 
+ 
+ 
+:30 
+The report evaluated by the evaluation committee  
+:20 
+The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+227
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+SEMESTER VIII 
+SLOT 
+COURSE NO 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+ 
+A 
+EET402 
+ELECTRICAL SYSTEM DESIGN AND 
+ESTIMATION 
+2-1-0 
+3 
+3 
+ 
+B 
+ 
+EETXXX 
+PROGRAM ELECTIVE III 
+2-1-0 
+3 
+3 
+ 
+C 
+EETXXX 
+PROGRAM ELECTIVE IV 
+2-1-0 
+3 
+3 
+D 
+EETXXX 
+PROGRAM ELECTIVE V 
+2-1-0 
+3 
+3 
+T 
+EET404 
+COMPREHENSIVE COURSE VIVA  
+1-0-0 
+1 
+1 
+ 
+U 
+EED416 
+PROJECT PHASE II 
+0-0-12 
+12 
+4 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE
+3-1-0 
+4* 
+4 
+TOTAL 
+ 
+25/29 
+17/21 
+ 
+ 
+PROGRAM ELECTIVE III 
+SLOT
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+ 
+B 
+ 
+ 
+EET414 
+ROBOTICS  
+2-1-0 
+ 
+ 
+3 
+ 
+ 
+3 
+EET424 
+ENERGY MANAGEMENT
+2-1-0
+EET434 
+SMART GRID TECHNOLOGIES 
+2-1-0 
+EET444 
+ELECTRICAL MACHINE DESIGN
+2-1-0
+EET454 
+SWITCHED MODE POWER CONVERTERS
+2-1-0 
+EET464 
+COMPUTER AIDED POWER SYSTEM 
+ANALYSIS 
+2-1-0 
+EET474 
+MACHINE LEARNING
+2-1-0
+PROGRAM ELECTIVE IV 
+SLOT
+COURSE NO 
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+ 
+C 
+ 
+ 
+EET416 
+NONLINEAR SYSTEMS 
+2-1-0
+ 
+ 
+3 
+ 
+ 
+3 
+EET426 
+SPECIAL ELECTRIC MACHINES
+2-1-0
+EET436 
+POWER QUALITY 
+2-1-0
+EET446 
+COMPUTER NETWORKS
+2-1-0
+EET456 
+DESIGN OF POWER ELECTRONIC 
+SYSTEMS 
+2-1-0
+EET466 
+HVDC & FACTS 
+2-1-0
+EET476 
+ADVANCED ELECTRONIC DESIGN
+2-1-0
+ 
+228
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+PROGRAM ELECTIVE V 
+SLOT
+COURSE NO
+COURSES 
+L-T-P HOURS
+CREDIT
+ 
+ 
+ 
+D 
+ 
+ 
+EET418
+ELECTRIC AND HYBRID VEHICLES
+2-1-0
+ 
+ 
+  3 
+ 
+ 
+  3 
+EET428 
+INTERNET OF THINGS 
+2-1-0 
+EET438 
+ENERGY STORAGE SYSTEMS
+2-1-0
+EET448 
+ROBUST AND ADAPTIVE CONTROL
+2-1-0
+EET458 
+SOLAR PV SYSTEMS  
+2-1-0 
+EET468 
+INDUSTRIAL INSTRUMENTATION 
+&AUTOMATION 
+2-1-0 
+EET478 
+BIG DATA ANALYTICS
+2-1-0
+ 
+NOTE 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours 
+course (Mondays from 10 to 12 and Wednesdays from 10 to 12). If a student does 
+not opt for minor/honours programme, he/she can be given remedial class. 
+2. Comprehensive Course Viva: The comprehensive course viva in the eighth semester 
+of study shall have a viva voce for 50 marks. The viva voce shall be conducted based 
+on the core subjects studied from third to eighth semester. The viva voce will be 
+conducted by the same three member committee assigned for final project phase II 
+evaluation towards the end of the semester. The pass minimum for this course is 25. 
+The course should be mapped with a faculty and classes shall be arranged for 
+practising questions based on the core courses listed in the curriculum. The mark will 
+be treated as internal and should be uploaded along with internal marks of other 
+courses. 
+ 
+3. Project Phase II: The object of Project Work II & Dissertation is to enable the student 
+to extend further the investigative study taken up in Project 1, either fully 
+theoretical/practical or involving both theoretical and practical work, under the 
+guidance of a Supervisor from the Department alone or jointly with a Supervisor 
+drawn from R&D laboratory/Industry. This is expected to provide a good training for 
+the student(s) in R&D work and technical leadership. The assignment to normally 
+include: 
+ In depth study of the topic assigned in the light of the Report prepared under 
+PhaseI; 
+ Review and finalization of the Approach to the Problem relating to the 
+assigned topic; 
+ Detailed Analysis/Modelling/Simulation/Design/Problem Solving/Experiment 
+as needed; 
+229
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+ Final development of product/process, testing, results, conclusions and 
+future directions; 
+ Preparing a paper for Conference presentation/Publication in Journals, if 
+possible; 
+ Preparing a Dissertation in the standard format for being evaluated by the 
+Department; 
+ Final Presentation before a Committee 
+Total marks: 150, only CIE, minimum required to pass 75 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation, 2 times in the semester by the evaluation committee : 50 
+Quality of the report evaluated by the above committee 
+ 
+ 
+: 30 
+(The evaluation committee comprises HoD or a senior faculty member, Project 
+coordinator and project supervisor). 
+Final evaluation by a three-member committee 
+ 
+ 
+ 
+: 40 
+(The final evaluation committee comprises Project coordinator, expert from 
+Industry/research Institute and a senior faculty from a sister department. The same 
+committee will conduct comprehensive course viva for 50 marks). 
+MINOR 
+Minor is an additional credential a student may earn if s/he does 20 credits worth of 
+additional learning in a discipline other than her/his major discipline of B.Tech. degree. The 
+objective is to permit a student to customize their Engineering degree to suit their specific 
+interests. Upon completion of an Engineering Minor, a student will be better equipped to 
+perform interdisciplinary research and will be better employable. Engineering Minors allow 
+a student to gain interdisciplinary experience and exposure to concepts and perspectives 
+that may not be a part of their major degree programs.  
+The academic units offering minors in their discipline will prescribe the set of courses and/or 
+other activities like projects necessary for earning a minor in that discipline. A specialist 
+basket of 3-6 courses is identified for each Minor. Each basket may rest on one or more 
+foundation courses. A basket may have sequences within it, i.e., advanced courses may rest 
+on basic courses in the basket. S/he accumulates credits by registering for the required 
+courses, and if the requirements for a particular minor are met within the time limit for the 
+course, the minor will be awarded. This will be mentioned in the Degree Certificate as 
+“Bachelor of Technology in xxx with Minor in yyy”. The fact will also be reflected in the 
+consolidated grade card, along with the list of courses taken. If one specified course cannot 
+be earned during the course of the programme, that minor will not be awarded. The 
+individual course credits earned, however, will be reflected in the consolidated grade card.  
+230
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+(i) The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be included 
+in the curriculum from third to eight semesters for all branches. The minor courses shall be 
+identified by M slot courses. 
+(ii) Registration is permitted for Minor at the beginning of third semester. Total credits 
+required is 182 (162 + 20 credits from value added courses) 
+(iii) Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three 
+courses listed in the curriculum for minor, of which one course shall be a mini project based 
+on the chosen area. They can do miniproject either in S7 or in S8. The remaining 8 credits 
+could be acquired by undergoing 2 MOOCs recommended by the Board of studies and 
+approved by the Academic Council or through courses listed in the curriculum. The classes 
+for Minor shall be conducted along with regular classes and no extra time shall be required 
+for conducting the courses. 
+(iv) There won’t be any supplementary examination for the courses chosen for Minor. 
+(v)  On completion of the program, “Bachelor of Technology in xxx with Minor in yyy” will be 
+awarded. 
+(vi) The registration for minor program will commence from semester 3 and the all 
+academic units offering minors in their discipline should prescribe set of such courses. The 
+courses shall be grouped into maximum of 3baskets.  The basket of courses may have 
+sequences within it, i.e., advanced courses may rest on basic courses in the basket. 
+Reshuffling of courses between various baskets will not be allowed. In any case, they should 
+carry out a mini project based on the chosen area in S7 or S8. Students who have registered 
+for B. Tech  Minor  in  ELECTRICAL & ELECTRONICS ENGINEERING can opt to study the 
+courses listed below: 
+S
+e
+m
+e
+st
+er
+BASKET I 
+BASKET II 
+BASKET III 
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name  
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No. 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S3 
+EET281 
+ELECTRIC CIRCUITS 
+4
+4
+EET 283 
+INTRODUCTION TO 
+POWER 
+ENGINEERING 
+4
+4
+EET 285 
+DYNAMIC 
+CIRCUITS AND 
+SYSTEMS 
+4
+4
+S4 
+EET 282 
+ELECTRICAL 
+MACHINES 
+ 
+4
+4
+EET 284 
+ENERGY SYSTEMS 
+ 
+4
+4
+EET 286 
+PRINCIPLES OF 
+INSTRUMENTATI
+ON 
+4
+4
+S5 
+EET 381 
+SOLID STATE 
+POWER 
+CONVERSION 
+4
+4
+EET 383 
+SOLAR AND 
+WINDENERGY 
+CONVERSION 
+SYSTEMS 
+4
+4
+EET 385 
+CONTROL 
+SYSTEMS 
+4
+4
+S6 
+EET 382 
+POWER 
+SEMICONDUCTOR 
+DRIVES 
+4
+4
+EET 384 
+INSTRUMENTATION 
+AND AUTOMATION 
+OF POWER PLANTS 
+4
+4
+EET 386 
+DIGITAL CONT 
+ROL 
+4
+4
+S7 
+EED 481 
+MINIPROJECT 
+4
+4
+ 
+EED 481 
+MINIPROJECT 
+4
+4
+ 
+EED 481 
+MINIPROJECT 
+4
+4
+ 
+231
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+S8 
+EED 482 
+MINIPROJECT 
+4
+4
+EED 482 
+MINIPROJECT 
+4
+4
+EED 482 
+MINIPROJECT 
+4
+4
+ 
+Notes on Minor from Electrical Engineering Department: 
+Students have to credit additional 5 courses (20 credits) to receive minor in Electrical and 
+Electronics Engineering. While choosing the minor basket, at least two courses in the 
+selected basket should have contents different from the courses in the curriculum of the 
+parent branch. (This is necessary in the case of related branches like Electronics and 
+Communication, Electronics and Instrumentation, Applied Electronics and Instrumentation, 
+Electronics and Biomedical, Computer Science and Engineering etc.) In case where the 
+student chooses a basket with only two courses different from their parent curriculum, the 
+remaining courses have to be selected from the approved MOOC courses. This restriction 
+may be incorporated in the regulations/curriculum. 
+ 
+HONOURS 
+Honours is an additional credential a student may earn if she/he opts for the extra 20 
+credits needed for this in her/his own discipline. Honours is not indicative of class. KTU is 
+providing this option for academically extra brilliant students to acquire Honours. Honours is 
+intended for a student to gain expertise/specialise in an area inside his/her major B.Tech 
+discipline and to enrich knowledge in emerging/advanced areas in the branch of engineering 
+concerned. It is particularly suited for students aiming to pursue higher studies. Upon 
+completion of Honours, a student will be better equipped to perform research in her/his 
+branch of engineering. On successful accumulation of credits at the end of the programme, 
+this will be mentioned in the Degree Certificate as “Bachelor of Technology in xxx, with 
+Honours.” The fact will also be reflected in the consolidated grade card, along with the list of 
+courses taken. If one specified course cannot be earned during the course of the 
+programme, Honours will not be awarded. The individual course credits earned, however, 
+will be reflected in the consolidated grade card. 
+ 
+The courses shall be grouped into maximum of 3 groups, each group representing a 
+particular specialization in the branch. The students shall select only the courses from same 
+group in all semesters. It means that the specialization is to be fixed by the student and 
+cannot be changed subsequently. The internal evaluation, examination and grading shall be 
+exactly as for other mandatory courses. The Honours courses shall be identified by H slot 
+courses. 
+(i) 
+The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be 
+included in the curriculum from fourth to eight semesters for all branches. The 
+honours courses shall be identified by H slot courses. 
+(ii) 
+Registration is permitted for Honours at the beginning of fourth semester. Total 
+credits required is 182 (162 + 20 credits from value added courses). 
+232
+ELECTRICAL & ELECTRONICS ENGINEERING
+(iii)
+Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of
+three courses listed in the curriculum for honours, of which one course shall be a
+mini project based on the chosen area. The remaining 8 credits could be acquired
+through 2 MOOCs recommended by the Board of studies and approved by the
+Academic Council or through courses listed in the curriculum. The classes for
+Honours shall be conducted along with regular classes and no extra time shall be
+required for conducting the courses. The students should earn a grade of ‘C’ or
+better for all courses under honours.
+(iv)
+There won’t be any supplementary examination for the courses chosen for
+honours.
+(v)
+On successful accumulation of credits at the end of the programme, “Bachelor of
+Technology in xxx, with Honours” will be awarded if overall CGPA is greater than
+or equal to 8.5, earned a grade of ‘C’ or better for all courses chosen for honours
+and without any history of ‘F’ Grade.
+(vi)
+The registration for honours program will commence from semester 4 and the all
+academic units offering honours in their discipline should prescribe set of such
+courses. The courses shall be grouped into maximum of 3 groups, each group
+representing a particular specialization in the branch. The students shall select
+only the courses from same group in all semesters. It means that the
+specialization is to be fixed by the student and cannot be changed subsequently.
+In any case, they should carry out a mini project based on the chosen area in S8.
+For example: Students who have registered for B.Tech Honours in ELECTRICAL &
+ELECTRONICS ENGINEERING can opt to study the courses listed below:
+GROUP I
+GROUP II
+GROUP III
+S
+e
+m
+es
+te
+r 
+Course 
+No 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+Course 
+No 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S4 
+EET292 
+NETWORK 
+ANALYSIS AND 
+SYNTHESIS 
+4
+4
+EET 292 
+NETWORK 
+ANALYSIS AND 
+SYNTHESIS 
+4
+4
+EET 292 
+NETWORK ANALYSIS 
+AND SYNTHESIS 
+4
+4
+S5 
+EET393 
+DIGITAL 
+SIMULATION 
+4
+4
+EET 393 
+DIGITAL 
+SIMULATION 
+4
+4
+EET 393 
+DIGITAL SIMULATION 
+4
+4
+S6 
+EET394 
+GENERALISED 
+MACHINE 
+THEORY 
+4
+4
+EET 396 
+ANALYSIS OF 
+POWER 
+ELECTRONIC 
+CIRCUITS
+4
+4
+EET 398 
+OPERATION AND 
+CONTROL OF POWER 
+SYSTEMS 
+4
+4
+S7 
+EET495 
+OPERATION AND 
+CONTROL OF 
+GENERATORS 
+4
+4
+EET 497 
+DYNAMICS OF 
+POWER 
+CONVERTERS 
+4
+4
+EET 499 
+CONTROL AND 
+DYNAMICS OF 
+MICROGRIDS 
+4
+4
+S8 
+EED496 
+MINIPROJECT 
+4
+4
+EED 496 
+MINIPROJECT 
+4
+EED 496 
+MINIPROJECT 
+4
+4
+233
+ 
+ELECTRICAL & ELECTRONICS ENGINEERING 
+ 
+ 
+INDUCTION PROGRAM 
+There will be three weeks induction program for first semester students. It is  a unique 
+three-week immersion Foundation Programme designed especially for the fresher’s which 
+includes a wide range of activities right from workshops, lectures and seminars to sports 
+tournaments, social work and much more. The programme is designed to mould students 
+into well-rounded individuals, aware and sensitized to local and global conditions and foster 
+their creativity, inculcate values and ethics, and help students to discover their passion. 
+Foundation Programme also serves as a platform for the fresher’s to interact with their 
+batchmates and seniors and start working as a team with them. The program is structured 
+around the following five themes: 
+The programme is designed keeping in mind the following objectives: 
+ 
+Values and Ethics: Focus on fostering a strong sense of ethical judgment and moral 
+fortitude. 
+ 
+Creativity: Provide channels to exhibit and develop individual creativity by 
+expressing themselves through art, craft, music, singing, media, dramatics, and other 
+creative activities. 
+ 
+Leadership, Communication and Teamwork: Develop a culture of teamwork and 
+group communication. 
+ 
+Social Awareness: Nurture a deeper understanding of the local and global world and 
+our place in at as concerned citizens of the world. 
+ 
+Physical Activities & Sports: Engage students in sports and physical activity to ensure 
+healthy physical and mental growth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+234
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+CURRICULUM I TO VIII: B. TECH MECHANICAL ENGINEERING 
+ 
+Every course of B. Tech. Program shall be placed in one of the nine categories as listed in table 
+below. 
+Sl. 
+No 
+Category 
+Code 
+Credits
+ 
+1 
+Humanities and Social Sciences including Management 
+courses 
+HMC 
+8 
+ 
+2 
+Basic Science courses 
+BSC 
+26 
+3 
+Engineering Science Courses 
+ESC 
+22 
+ 
+4 
+Program Core Courses 
+PCC 
+76 
+ 
+5 
+Program Elective Courses 
+PEC 
+15 
+ 
+6 
+Open Elective Courses 
+OEC 
+3 
+ 
+7 
+Project work and Seminar 
+PWS 
+10 
+ 
+8 
+Mandatory Non-credit Courses (P/F) with grade 
+MNC 
+----- 
+ 
+9 
+Mandatory Student Activities (P/F) 
+MSA 
+2 
+ 
+ 
+Total Mandatory Credits 
+162 
+ 
+10 
+Value Added Course (Optional) 
+VAC 
+20 
+ 
+ 
+ 
+No semester shall have more than six lecture-based courses and two laboratory and/or 
+drawing/seminar/project courses in the curriculum. Semester-wise credit distribution shall be as 
+below: 
+Sem 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+Total 
+ 
+Credits 
+17 
+21 
+22 
+22 
+23 
+23 
+15 
+17 
+160 
+Activity 
+Points
+50 
+50 
+--- 
+Credits 
+for 
+Activity 
+2 
+2 
+ 
+G.Total 
+ 
+162 
+ 
+ 
+316
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+Basic Science Courses: Maths, Physics, Chemistry, Biology for Engineers, Life Science etc 
+Engineering science courses: Basic Electrical, Engineering Graphics, Programming, Workshop, 
+Basic Electronics, Basic Civil, Engineering Mechanics, Mechanical Engineering, Thermodynamics, , 
+Design Engineering, Materials Engineering etc. 
+Humanities and Social Sciences including Management courses: English, Humanities, Professional 
+Communication, Management, Finance & Accounting, Life Skills, Professional Communication, 
+Economics etc. 
+Mandatory non-credit courses: Sustainable Engineering, Constitution of India/Essence of Indian 
+Knowledge Tradition, Industrial Safety Engineering, disaster management etc. 
+Course Code and Course Number 
+Each course is denoted by a unique code consisting of three alphabets followed by three numerals 
+like E C L 2 0 1. The first two letter code refers to the department offering the course. EC stands for 
+course in Electronics & Communication, course code MA refers to a course in Mathematics, course 
+code ES refers to a course in Engineering Science etc. Third letter stands for the nature of the 
+course as indicated in the Table 1.  
+Table 1: Code for the courses 
+Code 
+Description 
+ 
+T 
+Theory based courses (other the lecture hours, these courses can have tutorial 
+and practical hours, e.g., L-T-P structures 3-0-0, 3-1-2, 3-0-2 etc.)  
+L 
+Laboratory based courses (where performance is evaluated primarily on the basis 
+of practical or laboratory work with LTP structures like 0-0-3, 1-0-3, 0-1-3 etc.) 
+N 
+Non-credit courses 
+D 
+Project based courses (Major, Mini Projects) 
+Q 
+Seminar Courses 
+ 
+Course Number is a three digit number and the first digit refers to the Academic year in which the 
+course is normally offered, i.e. 1, 2, 3, or 4 for the B. Tech. Programme of four year duration. Of 
+the other two digits, the last digit identifies whether the course is offered normally in the odd (odd 
+number), even (even number) or in both the semesters (zero). The middle number could be any 
+digit. ECL 201 is a laboratory course offered in EC department for third semester, MAT 101 is a 
+course in Mathematics offered in the first semester, EET 344 is a course in Electrical Engineering 
+offered in the sixth semester, PHT 110 is a course in Physics offered both the first and second 
+semesters, EST 102 is a course in Basic Engineering offered by one or many departments. These 
+course numbers are to be given in the curriculum and syllabi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+317
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+ 
+Departments 
+Each course is offered by a Department and their two-letter course prefix is given in Table 2.  
+Table 2: Departments and their codes 
+ 
+Sl.No
+Department 
+Course 
+Prefix 
+Sl.No
+Department 
+Course 
+Prefix 
+ 
+01 
+Aeronautical Engg 
+AO 
+16 
+Information Technology 
+IT 
+02 
+Applied Electronics & 
+Instrumentation 
+AE 
+17 
+Instrumentation & 
+Control 
+IC 
+03 
+Automobile 
+AU 
+18 
+Mandatory Courses 
+MC 
+04 
+Biomedical Engg 
+BM 
+19 
+Mathematics 
+MA 
+05 
+Biotechnology 
+BT 
+20 
+Mechanical Engg 
+ME 
+06 
+Chemical Engg 
+CH 
+21 
+Mechatronics 
+MR 
+07 
+Chemistry 
+CY 
+22 
+Metallurgy 
+MT 
+08 
+Civil Engg 
+CE 
+23 
+Mechanical (Auto) 
+ 
+MU 
+09 
+Computer Science 
+CS 
+24 
+Mechanical(Prod) 
+MP 
+10 
+Electrical & Electronics 
+EE 
+25 
+Naval & Ship Building 
+SB 
+11 
+Electronics & Biomedical 
+EB 
+26 
+Physics 
+PH 
+12 
+Electronics & 
+Communication 
+EC 
+27 
+Polymer Engg 
+PO 
+13 
+Food Technology 
+FT 
+28 
+Production Engg 
+PE 
+14 
+Humanities 
+HU 
+29 
+Robotics and Automation 
+RA 
+15 
+Industrial Engg 
+IE 
+30 
+Safety & Fire Engg 
+FS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+318
+MECHANICAL ENGINEERING 
+ 
+SEMESTER I 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+A 
+MAT 101 
+LINEAR ALGEBRA AND CALCULUS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 110 
+ENGINEERING PHYSICS B 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING
+4-0-0
+4 
+4 
+E 
+HUN 101 
+LIFE SKILLS 
+2-0-2
+4 
+-- 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP
+0-0-2
+2 
+1 
+TOTAL 
+23/24 *
+17 
+*Minimum hours per week
+NOTE: 
+ To make up for the hours lost due to induction program, one extra hour may be 
+ allotted to each course 
+319
+MECHANICAL ENGINEERING 
+ 
+SEMESTER II 
+SLOT
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT
+A 
+MAT 102 
+VECTOR CALCULUS, DIFFERENTIAL 
+EQUATIONS AND TRANSFORMS 
+3-1-0
+4 
+4 
+B 
+1/2 
+PHT 110 
+ENGINEERING PHYSICS B 
+3-1-0
+4 
+4 
+CYT 100 
+ENGINEERING CHEMISTRY 
+3-1-0
+4 
+4 
+C 
+1/2 
+EST 100 
+ENGINEERING MECHANICS 
+2-1-0
+3 
+3 
+EST 110 
+ENGINEERING GRAPHICS 
+2-0-2
+4 
+3 
+D 
+1/2 
+EST 120 
+BASICS OF CIVIL & MECHANICAL 
+ENGINEERING
+4-0-0
+4 
+4 
+EST 130 
+BASICS OF ELECTRICAL & 
+ELECTRONICS ENGINEERING
+4-0-0
+4 
+4 
+E 
+HUN 102 
+PROFESSIONAL COMMUNICATION 
+2-0-2
+4 
+-- 
+F 
+EST 102 
+PROGRAMMING IN C 
+2-1-2
+5 
+4 
+S 
+1/2 
+PHL 120 
+ENGINEERING PHYSICS LAB 
+0-0-2
+2 
+1 
+CYL 120 
+ENGINEERING CHEMISTRY LAB 
+0-0-2
+2 
+1 
+T 
+1/2 
+ESL 120 
+CIVIL & MECHANICAL WORKSHOP 
+0-0-2
+2 
+1 
+ESL 130 
+ELECTRICAL & ELECTRONICS 
+WORKSHOP
+0-0-2
+2 
+1 
+TOTAL 
+28/29 
+21 
+NOTE: 
+1. Engineering Physics B and Engineering Chemistry shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches in the
+Institution to opt for Engineering Physics B in SI and Engineering Chemistry in S2 & vice
+versa. Students opting for Engineering Physics B in a semester should attend Physics Lab in
+the same semester and students opting for Engineering Chemistry in one semester should
+attend Engineering Chemistry Lab in the same semester.
+2. Engineering Mechanics and Engineering Graphics shall be offered in both semesters.
+Institutions can advise students belonging to about 50% of the number of branches in the
+Institution to opt for Engineering Mechanics in SI and Engineering Graphics in S2 & vice
+versa.
+320
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+3. Basics of Civil & Mechanical Engineering and Basics of Electrical & Electronics Engineering 
+shall be offered in both semesters.  Basics of Civil & Mechanical Engineering contain equal 
+weightage for Civil Engineering and Mechanical Engineering. Slot for the course is D with 
+CIE marks of 25 each and ESE marks of 50 each.  Students belonging to branches of AEI, EI, 
+BME, ECE, EEE, ICE, CSE, IT, RA can choose this course in S1. 
+Basics of Electrical & Electronics Engineering contain equal weightage for Electrical Engineering 
+and Electronics Engineering. Slot for the course is D with CIE marks of 25 each and ESE 
+marks of 50 each.  Students belonging to AERO, AUTO, CE, FSE, IE, ME, MECHATRONICS, 
+PE, METTULURGY, BT, BCE, CHEM, FT, POLY can choose this course in S1. Students having 
+Basics of Civil & Mechanical Engineering in one semester should attend Civil & Mechanical 
+Workshop in the same semester and students having Basics of Electrical & Electronics 
+Engineering in a semester should attend Electrical & Electronics Workshop in the same 
+semester.  
+ 
+4. LIFE SKILLS 
+Life skills are those competencies that provide the means for an individual to be resourceful and 
+positive while taking on life's vicissitudes. Development of one's personality by being 
+aware of the self, connecting with others, reflecting on the abstract and the concrete, 
+leading and generating change, and staying rooted in time-tested values and principles is 
+being aimed at. This course is designed to enhance the employability and maximize the 
+potential of the students by introducing them to the principles that underlie personal and 
+professional success, and help them acquire the skills needed to apply these principles in 
+their lives and careers.  
+ 
+5. PROFESSIONAL COMMUNICATION 
+Objective is to develop in the under-graduate students of engineering a level of competence in 
+English required for independent and effective communication for their professional 
+needs. Coverage: Listening, Barriers to listening, Steps to overcome them, Purposive 
+listening practice, Use of technology in the professional world. Speaking, Fluency & 
+accuracy in speech, Positive thinking, Improving self-expression, Tonal variations, Group 
+discussion practice, Reading,  Speed reading practice, Use of extensive readers, Analytical 
+and critical reading practice, Writing Professional Correspondence, Formal and informal 
+letters, Tone in formal writing, Introduction to reports. Study Skills, Use of dictionary, 
+thesaurus etc., Importance of contents page, cover & back pages, Bibliography, Language 
+Lab. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+321
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+SEMESTER III 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT 
+A 
+MAT201 
+PARTIAL DIFFERENTIAL EQUATION AND 
+COMPLEX ANALYSIS 
+ 
+3-1-0 
+4 
+4 
+B 
+MET201 
+ MECHANICS OF SOLIDS 
+3-1-0 
+4 
+4 
+C 
+MET203 
+MECHANICS OF FLUIDS 
+ 
+3-1-0 
+4 
+4 
+D 
+MET205 
+METALLURGY & MATERIAL SCIENCE 
+ 
+3-1-0 
+4 
+4 
+E 
+1/2 
+EST200 
+DESIGN AND ENGINEERING 
+2-0-0 
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0 
+2 
+2 
+F 
+MCN201 
+SUSTAINABLE ENGINEERING 
+2-0-0 
+2 
+-- 
+S 
+MEL201 
+COMPUTER AIDED MACHINE DRAWING 
+0-0-3 
+3 
+2 
+T 
+MEL203 
+MATERIALS TESTING LAB 
+0-0-3 
+3 
+2 
+R/M 
+VAC 
+REMEDIAL/MINOR COURSE 
+3-1-0 
+4** 
+4 
+TOTAL 
+26/30 
+22/26 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches in the 
+Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & vice versa.  
+2. *All Institutions shall keep 4 hours exclusively for Remedial class/Minor course (Thursdays 
+from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for minor 
+programme, he/she can be given remedial class. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+322
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+SEMESTER IV 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+A 
+MAT202 
+PROBABILITY, STATISTICS AND 
+NUMERICAL METHODS 
+ 
+3-1-0 
+4 
+4 
+B 
+MET202 
+ENGINEERING THERMODYNAMICS 
+3-1-0 
+4 
+4 
+C 
+MET204 
+MANUFACTURING PROCESS 
+ 
+3-1-0 
+4 
+4 
+D 
+MET206 
+FLUID MACHINERY 
+3-1-0 
+4 
+4 
+ 
+E 
+1/2 
+EST200 
+DESIGN AND ENGINEERING 
+2-0-0 
+2 
+2 
+HUT200 
+PROFESSIONAL ETHICS 
+2-0-0 
+2 
+2 
+F 
+MCN202 
+CONSTITUTION OF INDIA 
+2-0-0 
+2 
+-- 
+S 
+MEL202 
+FM & HM LAB 
+0-0-3 
+3 
+2 
+T 
+MEL204 
+MACHINE TOOLS LAB-I 
+0-0-3 
+3 
+2 
+R/M/
+H
+VAC 
+REMEDIAL/MINOR/HONORS COURSE 
+3-1-0 
+4* 
+4 
+TOTAL 
+26/30 
+22/26 
+ 
+NOTE: 
+1. Design & Engineering and Professional Ethics shall be offered in both S3 and S4.  
+Institutions can advise students belonging to about 50% of the number of branches in the 
+Institution to opt for Design & Engineering in S3 and Professional Ethics in S4 & vice versa. 
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor course 
+(Thursdays from 3 to 5 PM and Fridays from 2 to 4 PM). If a student does not opt for minor 
+programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+323
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+SEMESTER V 
+ 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDI
+T 
+A 
+MET301 
+MECHANICS OF MACHINERY 
+3-1-0 
+4 
+4 
+B 
+MET303 
+THERMAL ENGINEERING 
+3-1-0 
+4 
+4 
+C 
+MET305 
+INDUSTRIAL & SYSTEMS ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+3-1-0 
+4 
+4 
+D 
+MET307 
+MACHINE TOOLS AND METROLOGY 
+3-1-0 
+4 
+4 
+E 
+1/2 
+HUT300 
+INDUSTRIAL ECONOMICS AND 
+FOREIGN TRADE 
+3-0-0 
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0 
+3 
+3 
+F 
+MCN301 
+DISASTER MANAGEMENT 
+2-0-0 
+2 
+-- 
+S 
+MEL331 
+MACHINE TOOLS LAB-II 
+0-0-3 
+3 
+2 
+T 
+MEL333 
+THERMAL ENGINEERING LAB-I 
+0-0-3 
+3 
+2 
+R/M/H
+VAC 
+REMEDIAL/MINOR/HONORS COURSE 
+3-1-0 
+4* 
+4 
+TOTAL 
+27/31 
+23/27 
+ 
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be offered in 
+both S5 and S6.  Institutions can advise students belonging to about 50% of the number of 
+branches in the Institution to opt for Industrial Economics & Foreign Trade in S5 and 
+Management for Engineers in S6 and vice versa.  
+2. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 3 to 5 PM and Wednesdays from 3 to 5 PM). If a student does not opt for 
+minor/honours programme, he/she can be given remedial class.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+324
+MECHANICAL ENGINEERING 
+ 
+SEMESTER VI 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+A 
+MET302 
+HEAT & MASS TRANSFER 
+3-1-0
+4 
+4 
+B 
+MET304 
+DYNAMICS OF MACHINERY & 
+MACHINE DESIGN 
+ 
+3-1-0
+4 
+4 
+C 
+MET306 
+ADVANCED MANUFACTURING 
+ENGINEERING
+3-1-0
+4 
+4 
+D 
+METXXX 
+PROGRAM ELECTIVE I 
+2-1-0
+3 
+3 
+E 
+½ 
+HUT300 
+INDUSTRIAL ECONOMICS AND 
+FOREIGN TRADE 
+3-0-0
+3 
+3 
+HUT310 
+MANAGEMENT FOR ENGINEERS 
+3-0-0
+3 
+3 
+F 
+MET308 
+COMPREHENSIVE COURSE WORK 
+1-0-0
+1 
+1 
+S 
+MEL332 
+COMPUTER AIDED DESIGN & 
+ANALYSIS LAB
+0-0-3
+3 
+2 
+T 
+MEL334 
+THERMAL ENGINEERING LAB-II 
+0-0-3
+3 
+2 
+R/M/
+H 
+VAC 
+REMEDIAL/MINOR/HONOURS 
+COURSE 
+3-1-0
+4* 
+4 
+TOTAL 
+25/29 
+23/27 
+PROGRAM ELECTIVE I 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+D 
+MET312
+NONDESTRUCTIVE TESTING 
+2-1-0
+3 
+3 
+MET322
+DATA ANALYTICS FOR ENGINEERS 
+2-1-0
+MET332
+ADVANCED MECHANICS OF SOLIDS 
+2-1-0
+MET342 
+IC ENGINE COMBUSTION AND 
+POLLUTION 
+2-1-0
+MET352
+AUTOMOBILE ENGINEERING 
+2-1-0
+MET362
+PRODUCT DESIGN AND DEVELOPMENT 
+2-1-0
+MET372 
+ADVANCED METAL JOINING 
+TECHNIQUES 
+2-1-0
+NOTE: 
+1. Industrial Economics & Foreign Trade and Management for Engineers shall be offered in
+both S5 and S6.  Institutions can advise students belonging to about 50% of the number of
+branches in the Institution to opt for Industrial Economics & Foreign Trade in S5 and
+Management for Engineers in S6 and vice versa.
+325
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+2. **All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Tuesdays from 2 to 4 PM and Wednesdays from 2 to 4 PM). If a student does not opt for 
+minor/honors programme, he/she can be given remedial class.  
+ 
+3. Comprehensive Course Work: The comprehensive course work in the sixth semester of 
+study shall have a written test of 50 marks. The written examination will be of objective 
+type similar to the GATE examination and will be conducted online by the University. 
+Syllabus for comprehensive examination shall be prepared by the respective BoS 
+choosing any 5 core courses studied from semester 3 to 5. The pass minimum for this 
+course is 25. The course should be mapped with a faculty and classes shall be arranged for 
+practising questions based on the core courses listed in the curriculum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+326
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+SEMESTER VII 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+A 
+MET401 
+DESIGN OF MACHINE ELEMENTS 
+ 
+2-1-0 
+3 
+3 
+B 
+METXXX 
+PROGRAM ELECTIVE II 
+2-1-0 
+3 
+3 
+C 
+METXXX 
+OPEN ELECTIVE  
+2-1-0 
+3 
+3 
+D 
+MCN401 
+INDUSTRIAL SAFETY ENGINEERING 
+2-1-0 
+3 
+--- 
+S 
+MEL411 
+MECHANICAL ENGINEERING LAB 
+0-0-3 
+3 
+2 
+T 
+MEQ413 
+SEMINAR 
+0-0-3 
+3 
+2 
+U 
+MED415 
+PROJECT PHASE I 
+0-0-6 
+6 
+2 
+R/M/
+H 
+VAC 
+REMEDIAL/MINOR/HONORS COURSE 
+3-1-0 
+4* 
+4 
+TOTAL 
+24/28 
+15/19 
+ 
+ 
+ 
+PROGRAM ELECTIVE II 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+MET413 
+ADVANCED METHODS IN 
+NONDESTRUCTIVE TESTING 
+2-1-0 
+ 
+ 
+3 
+ 
+ 
+3 
+MET423 
+OPTIMIZATION TECHNIQUES  AND 
+APPLICATIONS 
+2-1-0 
+MET433 
+FINITE ELEMENT METHOD 
+2-1-0 
+MET443 
+AEROSPACE ENGINEERING 
+2-1-0 
+MET453 
+HYBRID AND ELECTRIC VEHICLES 
+2-1-0 
+MET463 
+OPERATIONS MANAGEMENT 
+2-1-0 
+MET473 
+AIR CONDITIONING AND 
+REFRIGERATION 
+2-1-0 
+ 
+ 
+OPEN ELECTIVE  
+The open elective is offered in semester 7. Each program should specify the courses 
+(maximum 5) they would like to offer as electives for other programs The courses listed 
+below are offered by the Department of MECHANICAL ENGINEERING for students of 
+other undergraduate branches offered in the college under KTU. 
+327
+MECHANICAL ENGINEERING 
+ 
+SLOT 
+COURSE NO.
+COURSES 
+L-T-P 
+HOURS 
+CREDIT
+C 
+MET415 
+INTRODUCTION TO BUSINESS 
+ANALYTICS 
+2-1-0
+ 3 
+ 3 
+MET425 
+QUANTITATIVE TECHNIQUES  FOR 
+ENGINEERS 
+2-1-0
+MET435 
+AUTOMOTIVE TECHNOLOGY 
+2-1-0
+MET445 
+RENEWABLE ENERGY ENGINEERING 
+2-1-0
+MET455 
+QUALITY ENGINEERING AND 
+MANAGEMENT
+2-1-0
+NOTE: 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honors course
+(Mondays from 10 to 12 and Wednesdays from 10 to 12 Noon). If a student does not opt
+for minor/honours programme, he/she can be given remedial class.
+2. Seminar: To encourage and motivate the students to read and collect recent and reliable
+information from their area of interest confined to the relevant discipline from technical
+publications including peer reviewed journals, conference, books, project reports etc.,
+prepare a report based on a central theme and present it before a peer audience. Each
+student shall present the seminar for about 20 minutes duration on the selected topic. The
+report and the presentation shall be evaluated by a team of internal members comprising
+three senior faculty members based on style of presentation, technical content, adequacy
+of references, depth of knowledge and overall quality of the report.
+Total marks: 100, only CIE, minimum required to pass 50 
+Attendance 
+: 10 
+Guide  
+: 20 
+Technical Content of the Report 
+: 30 
+Presentation  
+: 40 
+3. Project Phase I: A Project topic must be selected either from research literature or the
+students themselves may propose suitable topics in consultation with their guides. The
+object of Project Work I is to enable the student to take up investigative study in the broad
+field of Mechanical Engineering, either fully theoretical/practical or involving both
+theoretical and practical work to be assigned by the Department on a group of  three/four
+students, under the guidance of a Supervisor. This is expected to provide a good initiation
+for the student(s) in R&D work. The assignment to normally include:
+⮚ Survey and study of published literature on the assigned topic;  
+⮚ Preparing an Action Plan for conducting the investigation, including team work; 
+⮚ Working out a preliminary Approach to the Problem relating to the assigned topic; 
+⮚ Block level design documentation 
+⮚ Conducting preliminary Analysis/ Modelling/ Simulation/ Experiment/ Design/ 
+328
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+Feasibility; 
+⮚ Preparing a Written Report on the Study conducted for presentation to the 
+Department; 
+⮚ Final Seminar, as oral Presentation before the evaluation committee. 
+Total marks: 100, only CIE, minimum required to pass 50 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation by the evaluation committee 
+ 
+ 
+: 20 
+Final Seminar   
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+The report evaluated by the evaluation committee  
+ 
+: 20 
+The evaluation committee comprises HoD or a senior faculty member, Project coordinator and 
+project supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+329
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+SEMESTER VIII 
+ 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+A 
+MET402 
+MECHATRONICS 
+ 
+2-1-0 
+3 
+3 
+B 
+METXXX 
+PROGRAM ELECTIVE III 
+2-1-0 
+3 
+3 
+C 
+METXXX 
+PROGRAM ELECTIVE IV 
+2-1-0 
+3 
+3 
+D 
+METXXX 
+PROGRAM ELECTIVE V 
+2-1-0 
+3 
+3 
+E 
+MET404 
+COMPREHENSIVE VIVA VOCE 
+1-0-0 
+1 
+1 
+U 
+MED416 
+PROJECT PHASE II 
+0-0-12
+12 
+4 
+R/M/
+H 
+VAC 
+REMEDIAL/MINOR/HONORS COURSE 
+3-1-0 
+4* 
+4 
+TOTAL 
+25/28 
+17/21 
+ 
+PROGRAM ELECTIVE III 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P 
+HOURS 
+CREDIT 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+MET414 
+QUALITY MANAGEMENT 
+2-1-0 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+MET424 
+DECISIONS WITH METAHEURISTICS 
+2-1-0 
+MET434 
+PRESSURE VESSEL AND PIPING DESIGN 
+2-1-0 
+MET444 
+COMPUTATIONAL FLUID DYNAMICS 
+2-1-0 
+MET454 
+INDUSTRIAL TRIBOLOGY  
+2-1-0 
+MET464 
+MICRO AND NANO MANUFACTURING  
+2-1-0 
+MET474 
+HEATING AND VENTILATION SYSTEMS 
+2-1-0 
+ 
+PROGRAM ELECTIVE IV 
+SLOT 
+COURSE 
+NO. 
+COURSES 
+L-T-P 
+HOURS
+CREDIT 
+ 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+MET 416 
+COMPOSITE MATERIALS 
+2-1-0 
+ 
+ 
+  3 
+ 
+ 
+  3 
+MET 426 
+ARTIFICIAL INTELLIGENCE AND MACHINE 
+LEARNING   
+2-1-0 
+MET 436 
+ACOUSTICS AND NOISE CONTROL 
+2-1-0 
+MET 446 
+HEAT TRANSFER EQUIPMENT DESIGN 
+2-1-0 
+MET 456 
+ROBOTICS AND AUTOMATION 
+2-1-0 
+MET 466 
+TECHNOLOGY MANAGEMENT 
+2-1-0 
+MET 476 
+CRYOGENIC ENGINEERING 
+2-1-0 
+ 
+330
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM ELECTIVE V 
+SLOT 
+COURSE NO. 
+COURSES 
+L-T-P HOURS
+CREDIT 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+MET 418 
+RELIABILITY ENGINEERING 
+2-1-0
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+MET 428 
+INDUSTRIAL  INTERNET OF THINGS  
+2-1-0
+MET438 
+FRACTURE MECHANICS  
+2-1-0 
+MET 448 
+GAS TURBINES AND JET PROPULSION 
+2-1-0
+MET 458 
+ADVANCED ENERGY ENGINEERING  
+2-1-0
+MET 468 
+ADDITIVE MANUFACTURING 
+2-1-0
+MET 478 
+POWER PLANT ENGINEERING 
+2-1-0
+ 
+NOTE 
+1. *All Institutions should keep 4 hours exclusively for Remedial class/Minor/Honours course 
+(Mondays from 10 to 12 and Wednesdays from 10 to 12). If a student does not opt for 
+minor/honors programme, he/she can be given remedial class. 
+2. Comprehensive Course Viva: The comprehensive course viva in the eighth semester of 
+study shall have a viva voce for 50 marks. The viva voce shall be conducted based on the 
+syllabus mentioned for comprehensive course work in the sixth semester. The viva voce 
+will be conducted by the same three member committee assigned for final project phase II 
+evaluation towards the end of the semester. The pass minimum for this course is 25. The 
+course should be mapped with a faculty and classes shall be arranged for practising 
+questions based on the core courses listed in the curriculum. The mark will be treated as 
+internal and should be uploaded along with internal marks of other courses. 
+3. Project Phase II: The object of Project Work II & Dissertation is to enable the student to 
+extend further the investigative study taken up in Project 1, either fully 
+theoretical/practical or involving both theoretical and practical work, under the guidance 
+of a Supervisor from the Department alone or jointly with a Supervisor drawn from R&D 
+laboratory/Industry. This is expected to provide a good training for the student(s) in R&D 
+work and technical leadership. The assignment to normally include: 
+⮚ In depth study of the topic assigned in the light of the Report prepared under 
+PhaseI; 
+⮚ Review and finalization of the Approach to the Problem relating to the assigned 
+topic; 
+⮚ Detailed Analysis/ Modelling/ Simulation/ Design/ Problem Solving/ Experiment as 
+needed; 
+⮚ Final development of product/process, testing, results, conclusions and future 
+directions; 
+⮚ Preparing a paper for Conference presentation/Publication in Journals, if possible; 
+331
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+⮚ Preparing a Dissertation in the standard format for being evaluated by the 
+Department; 
+⮚ Final Presentation before a Committee 
+Total marks: 150, only CIE, minimum required to pass 75 
+Guide  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 30 
+Interim evaluation, 2 times in the semester by the evaluation committee : 50 
+Quality of the report evaluated by the above committee 
+ 
+ 
+: 30 
+Final evaluation by a three member committee 
+ 
+ 
+ 
+: 40 
+(The final evaluation committee comprises Project coordinator, expert from Industry/research 
+Institute and a senior faculty from a sister department. The same committee will conduct 
+comprehensive course viva for 50 marks). 
+MINOR 
+Minor is an additional credential a student may earn if s/he does 20 credits worth of additional 
+learning in a discipline other than her/his major discipline of B.Tech. degree. The objective is to 
+permit a student to customize their Engineering degree to suit their specific interests. Upon 
+completion of an Engineering Minor, a student will be better equipped to perform interdisciplinary 
+research and will be better employable. Engineering Minors allow a student to gain 
+interdisciplinary experience and exposure to concepts and perspectives that may not be a part of 
+their major degree programs.  
+The academic units offering minors in their discipline will prescribe the set of courses and/or other 
+activities like projects necessary for earning a minor in that discipline. A specialist basket of 3-6 
+courses is identified for each Minor. Each basket may rest on one or more foundation courses. A 
+basket may have sequences within it, i.e., advanced courses may rest on basic courses in the 
+basket. S/he accumulates credits by registering for the required courses, and if the requirements 
+for a particular minor are met within the time limit for the course, the minor will be awarded. This 
+will be mentioned in the Degree Certificate as “Bachelor of Technology in xxx with Minor in yyy”. 
+The fact will also be reflected in the consolidated grade card, along with the list of courses taken. If 
+one specified course cannot be earned during the course of the programme, that minor will not be 
+awarded. The individual course credits earned, however, will be reflected in the consolidated 
+grade card.  
+(i) The curriculum/syllabus committee/BoS shall prepare syllabus for courses to be included in the 
+curriculum from third to eight semesters for all branches. The minor courses shall be identified by 
+M slot courses. 
+(ii) Registration is permitted for Minor at the beginning of third semester. Total credits required is 
+182 (162 + 20 credits from value added courses) 
+(iii) Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three courses 
+listed in the curriculum for minor, of which one course shall be a mini project based on the chosen 
+area. They can do miniproject either in S7 or in S8. The remaining 8 credits could be acquired by 
+undergoing 2 MOOCs recommended by the Board of studies and approved by the Academic 
+Council or through courses listed in the curriculum. The classes for Minor shall be conducted along 
+with regular classes and no extra time shall be required for conducting the courses. 
+332
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+(iv) There won’t be any supplementary examination for the courses chosen for Minor. 
+(v)  On completion of the program, “Bachelor of Technology in xxx with Minor in yyy” will be 
+awarded. 
+(vi) The registration for minor program will commence from semester 3 and the all academic units 
+offering minors in their discipline should prescribe set of such courses. The courses shall be 
+grouped into maximum of 3 baskets.  The basket of courses may have sequences within it, i.e., 
+advanced courses may rest on basic courses in the basket. Reshuffling of courses between various 
+baskets will not be allowed. In any case, they should carry out a mini project based on the chosen 
+area in S7 or S8. Students who have registered for B.Tech Minor in MECHANICAL ENGINEERING 
+Branch can opt to study the courses listed below: 
+ 
+ 
+S
+e
+m
+e
+st
+er
+ 
+ BASKET  I 
+ 
+BASKET II 
+ 
+BASKET III 
+ 
+Course 
+No. 
+ 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+ 
+Course 
+No. 
+ 
+Course Name  
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+ 
+Course 
+No. 
+ 
+Course Name 
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S3 
+MET281 
+MECHANICS OF 
+MATERIALS 
+4
+4
+MET283 
+ FLUID MECHANICS  
+& MACHINERY 
+4
+4
+MET285 
+MATERIAL 
+SCIENCE & 
+TECHNOLOGY 
+4
+4
+S4 
+MET282 
+THEORY OF 
+MACHINES  
+4
+4
+MET284 
+THERMODYNAMICS 
+4
+4
+MET286 
+MANUFACTURIN
+G TECHNOLOGY  
+4
+4
+S5 
+MET381 
+DYNAMICS OF 
+MACHINES
+4
+4
+MET383 
+THERMAL 
+ENGINEERING
+4
+4
+MET385 
+MACHINE TOOLS 
+ENGINEERING 
+4
+4
+S6 
+MET382 
+MACHINE DESIGN 
+4
+4
+MET384 
+HEAT TRANSFER  
+4
+4
+MET386 
+INDUSTRIAL 
+ENGINEERING 
+4
+4
+S7 
+MED481 
+MINIPROJECT 
+4
+4
+MED481 
+MINIPROJECT 
+4
+4
+MED481 
+MINIPROJECT 
+4
+4
+S8 
+MED482 
+MINIPROJECT 
+4
+4
+MED482 
+MINIPROJECT 
+4
+4
+MED482 
+MINIPROJECT 
+4
+4
+ 
+HONOURS 
+Honours is an additional credential a student may earn if s/he opts for the extra 20 credits needed 
+for this in her/his own discipline. Honours  is not indicative of class. KTU is providing this option for 
+academically extra brilliant students to acquire Honours. Honours is intended for a student to gain 
+expertise/specialise in an area inside his/her major B.Tech discipline and to enrich knowledge in 
+emerging/advanced areas in the branch of engineering concerned. It is particularly suited for 
+students aiming to pursue higher studies. Upon completion of Honours, a student will be better 
+equipped to perform research in her/his branch of engineering. On successful accumulation of 
+credits at the end of the programme, this will be mentioned in the Degree Certificate as “Bachelor 
+of Technology in xxx, with Honours.” The fact will also be reflected in the consolidated grade card, 
+along with the list of courses taken. If one specified course cannot be earned during the course of 
+the programme, Honours will not be awarded. The individual course credits earned, however, will 
+be reflected in the consolidated grade card. 
+The courses shall be grouped into maximum of 3 groups, each group representing a particular 
+specialization in the branch. The students shall select only the courses from same group in all 
+333
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+semesters. It means that the specialization is to be fixed by the student and cannot be changed 
+subsequently. The internal evaluation, examination and grading shall be exactly as for other 
+mandatory courses. The Honours courses shall be identified by H slot courses. 
+ 
+(i) 
+The curriculum/syllabus committee/BOS shall prepare syllabus for courses to be 
+included in the curriculum from fourth to eight semesters for all branches. The honours 
+courses shall be identified by H slot courses. 
+(ii) 
+Registration is permitted for Honours at the beginning of fourth semester. Total credits 
+required is 182 (162 + 20 credits from value added courses). 
+(iii) 
+Out of the 20 Credits, 12 credits shall be earned by undergoing a minimum of three 
+courses listed in the curriculum for honours, of which one course shall be a mini project 
+based on the chosen area. The remaining 8 credits could be acquired by undergoing 2 
+MOOCs recommended by the Board of studies and approved by the Academic Council 
+or through courses listed in the curriculum. The classes for Honours shall be conducted 
+along with regular classes and no extra time shall be required for conducting the 
+courses. The students should earn a grade of ‘C’ or better for all courses under 
+honours. 
+(iv) 
+There won’t be any supplementary examination for the courses chosen for honours. 
+(v) 
+On successful accumulation of credits at the end of the programme, “Bachelor of 
+Technology in xxx, with Honours” will be awarded if overall CGPA is greater than or 
+equal to 8.5, earned a grade of ‘C’ or better for all courses  chosen for honours and 
+without any history of ‘F’ Grade. 
+(vi) 
+The registration for honours program will commence from semester 4 and the all 
+academic units offering honours in their discipline should prescribe set of such courses. 
+The courses shall be grouped into maximum of 3 groups, each group representing a 
+particular specialization in the branch. The students shall select only the courses from 
+same group in all semesters. It means that the specialization is to be fixed by the 
+student and cannot be changed subsequently. In any case, they should carry out a mini 
+project based on the chosen area in S8. Students who have registered for B.Tech 
+Honours in MECHANICAL ENGINEERING  can opt to study the courses listed below. 
+ 
+SE
+ME
+STE
+R 
+ 
+GROUP I 
+ 
+GROUP II 
+GROUP III 
+ 
+Course 
+No. 
+ 
+Course 
+Name 
+ 
+H
+O
+U
+R
+S 
+C
+R
+E
+D
+I
+T
+ 
+Course 
+No. 
+ 
+Course 
+Name  
+ 
+H
+O
+U
+R
+S 
+C
+R
+E
+D
+I
+T
+ 
+Course 
+No. 
+ 
+Course Name  
+H
+O
+U
+R
+S
+C
+R
+E
+D
+I
+T
+S4 
+MET292 
+CONTINUUM 
+MECHANICS 
+4 
+4
+MET294 
+ADVANCED 
+MECHANICS 
+OF FLUIDS 
+4 
+4
+MET296 
+MATERIALS IN 
+MANUFACTURING 
+4
+4
+S5 
+MET393 
+EXPERIMENT
+AL STRESS 
+4 
+4
+MET395 
+ADVANCED 
+THERMODYNA
+4 
+4
+MET397 
+ FLUID POWER 
+4
+4
+334
+ 
+ 
+MECHANICAL ENGINEERING 
+ 
+ 
+ 
+ANALYSIS 
+MICS  
+AUTOMATION  
+S6 
+MET394 
+ADVANCED 
+DESIGN 
+SYNTHESIS 
+4 
+4
+MET396 
+ 
+COMPRESSIBL
+E FLUID FLOW 
+4 
+4
+MET398 
+ADVANCED 
+NUMERICAL 
+CONTROLLED 
+MACHINING 
+4
+4
+S7 
+MET495 
+ADVANCED 
+THEORY OF 
+VIBRATIONS 
+4 
+4
+MET497 
+COMPUTATIO
+NAL 
+METHODS IN 
+FLUID FLOW & 
+HEAT 
+TRANSFER 
+4 
+4
+MET499 
+ 
+PRECISION 
+MACHINING 
+4
+4
+S8 
+MED496 
+MINIPROJEC
+T 
+4 
+4
+MED496 
+MINIPROJECT 
+4 
+4
+MED496 
+MINIPROJECT 
+4
+4
+ 
+INDUCTION PROGRAM 
+There will be three weeks induction program for first semester students. It is  a unique three-week 
+immersion Foundation Programme designed especially for the fresher’s which includes a wide 
+range of activities right from workshops, lectures and seminars to sports tournaments, social work 
+and much more. The programme is designed to mould students into well-rounded individuals, 
+aware and sensitized to local and global conditions and foster their creativity, inculcate values and 
+ethics, and help students to discover their passion. Foundation Programme also serves as a 
+platform for the fresher’s to interact with their batchmates and seniors and start working as a 
+team with them. The program is structured around the following five themes: 
+The programme is designed keeping in mind the following objectives: 
+● Values and Ethics: Focus on fostering a strong sense of ethical judgment and moral 
+fortitude. 
+● Creativity: Provide channels to exhibit and develop individual creativity by expressing 
+themselves through art, craft, music, singing, media, dramatics, and other creative 
+activities. 
+● Leadership, Communication and Teamwork: Develop a culture of teamwork and group 
+communication. 
+● Social Awareness: Nurture a deeper understanding of the local and global world and our 
+place in at as concerned citizens of the world. 
+335
