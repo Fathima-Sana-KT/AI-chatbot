@@ -194,3 +194,10 @@ If you ever accidentally commit secret tokens or `.env` files:
    ./cleanup-secrets.sh
    ```
 This script runs BFG Repo-Cleaner to delete all `.env` files from Git history, updates `.gitignore`, and force-pushes a clean commit to remote.
+
+---
+
+## 👥 Authors & Contributors
+
+- **Fathima Sana** — [@Fathima-Sana-KT](https://github.com/Fathima-Sana-KT) — Lead Developer & Creator
+
