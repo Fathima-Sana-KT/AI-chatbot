@@ -199,5 +199,8 @@ This script runs BFG Repo-Cleaner to delete all `.env` files from Git history, u
 
 ## 👥 Authors & Contributors
 
-- **Fathima Sana** — [@Fathima-Sana-KT](https://github.com/Fathima-Sana-KT) — Lead Developer & Creator
+- **Fathima Sana** — [@Fathima-Sana-KT](https://github.com/Fathima-Sana-KT) 
+- **Rannan
+- **Shibla Hameed
+- **Mehnajabin
 
