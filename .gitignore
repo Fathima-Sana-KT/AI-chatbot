@@ -5,3 +5,8 @@ backend/.venv/
 .env
 *.env
 *.env
+
+# Ignore python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
