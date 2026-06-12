@@ -206,3 +206,31 @@ input[type="email"], input[type="password"] {
     height: 65vh;
   }
 }
+
+/* typing bubble animations */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(0.6);
+    opacity: 0.4;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+}
+
+/* media queries to show mobile tabs when screen is small */
+@media (max-width: 768px) {
+  /* hide header statuses or stack them */
+  header {
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+  }
+  
+  /* Show mobile tab bar */
+  div[style*="mobileTabs"] {
+    display: flex !important;
+  }
+}
+

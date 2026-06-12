@@ -4,7 +4,7 @@ from pymongo import MongoClient
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["ktudb"]
-collection = db["ktu_questions"]
+collection = db["questions"]
 
 sample_data = [
     {

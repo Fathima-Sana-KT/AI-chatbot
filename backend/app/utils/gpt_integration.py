@@ -5,8 +5,17 @@ generator = pipeline("text2text-generation", model="google/flan-t5-large")  # or
 
 def huggingface_generate_answer(prompt: str) -> str:
     try:
-        prompt_formatted = f"Answer the following technical question:\n{prompt}"
-        result = generator(prompt_formatted, max_length=256, do_sample=False, top_p=0.95, temperature=0.7)
+        prompt_formatted = f"Explain in detail the technical concept of: {prompt}"
+
+        result = generator(
+            prompt_formatted,
+            max_length=256,
+            min_length=80,
+            do_sample=True,
+            top_p=0.95,
+            temperature=0.7,
+            repetition_penalty=1.2
+        )
 
         raw_answer = result[0]['generated_text'].strip()
         if not raw_answer or len(raw_answer) < 10:
